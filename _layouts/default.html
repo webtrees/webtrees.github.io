@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body>
+		<a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+		<header class="container">
+			{% include navigation.html %}
+		</header>
+
+		<main class="page-content" aria-label="Content" id="page-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
+			<div class="container">
+				{{ content }}
+			</div>
+		</main>
+
+		<footer class="footer">
+			{% include footer.html %}
+		</footer>
+	</body>
+</html>

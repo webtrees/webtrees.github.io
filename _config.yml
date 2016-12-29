@@ -1,0 +1,22 @@
+# Jekyll configuration for www.webtrees.net
+
+title: webtrees - online genealogy
+email: fisharebest@gmail.com
+description: >
+  webtrees is a web application that allows you to publish your genealogy online,
+  collaborate with family members and take control of your data.
+url: "https://webtrees.github.io"
+baseurl: ""
+
+# External accounts
+github_username:  fisharebest/webtrees
+google_analytics: UA-89628860-1
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
