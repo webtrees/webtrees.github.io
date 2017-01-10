@@ -4,12 +4,23 @@ title: About
 permalink: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Webtrees Online Genealogy. Copyright © The webtrees maintainers and contributors.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## Contact
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Find us on github!
+{% include icon-github.html username="webtrees" %} /
+[webtrees](https://github.com/webtrees/webtrees).
+
+## Source code
+
+The source code of this page is available at:
+{% include icon-github.html username="webtrees" %} /
+[webtrees.github.io](https://github.com/webtrees/webtrees.github.io).
+
+
+## German Telemedia Act
+
+This site is not hosted in Germany and therefore does not require 
+additional information.
+
