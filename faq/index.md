@@ -24,6 +24,7 @@ permalink: faq/
 ## Oops - I screwed up ##
 
 * [I forgot my password and cannot log in.](faq/password)
+* [I deleted the file data/config.ini.php.](faq/config-ini-php)
 
 ## Migrating from PhpGedView to webtrees ##
 
