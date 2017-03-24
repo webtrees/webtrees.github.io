@@ -32,3 +32,7 @@ permalink: faq/
 * [After migrating, I cannot login with my admin account](faq/pgv-login)
 * [Embedded HTML no longer appears processed before display](faq/pgv-html)
 * [How to run the transfer wizard again](faq/pgv-wizard)
+
+## Synology servers ##
+
+* [iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed](faq/synology-iconv)
