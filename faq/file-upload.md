@@ -14,11 +14,12 @@ You can check your server's limits in the webtrees control panel, under "Server 
 
 Files larger than these settings cannot be uploaded.
 
-You may be able to increase this setting in your server's `php.ini` file.  You may need to restart your webserver for any changes to take effect.
-
+You may be able to increase these settings in your server's `php.ini` file.  You often need to restart your webserver for any changes to take effect.
 
 Alternatively, you may need to ask your server's administrator to increase the limits.
 
-If you cannot increase the limits, then you can still copy files to the webserver using FTP or SFTP.
+If you cannot increase the limits, then you need to copy files directly to the webserver.
 
-You should upload GEDCOM files to the folder `/data` and media files to the folder `/data/media/`.
+* You should copy (FTP or SFTP) GEDCOM files to the folder `/data` - webtrees can import GEDCOM files from this folder.
+
+* You should copy (FTP or SFTP) media files to the folder `/data/media` - webtrees can create media objects from files in this folder.
