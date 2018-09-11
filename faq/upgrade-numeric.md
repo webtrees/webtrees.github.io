@@ -16,7 +16,7 @@ You have three options.
 1) If your web host allows you to choose a version of PHP via a control panel, temporarily change
 to PHP 7.0
 
-2) If you can update the PHP.INI file on your server, change the setting for memory limit so that
+2) If you can update the PHP.INI file on your server, change the setting for `memory_limit` so that
 it contains just digits.  e.g. change `48M` to `48000000`.  You may need to restart PHP or web
 services on your server for this to take effect.  You also need to remove the memory limit setting
 in the webtrees control panel (Website preferences, Memory limit).
@@ -24,4 +24,3 @@ Leave this blank so that it uses the server’s default.
 
 3) You can upgrade manually.  Download the latest webtrees.zip.  Unzip it on your desktop computer,
 and then upload the files to the server using FTP.
-
