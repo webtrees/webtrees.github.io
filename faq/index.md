@@ -11,6 +11,7 @@ permalink: faq/
 * [I get a “500” error or a blank page.](faq/500)
 * [Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported.](faq/ansel)
 * [I cannot upload large files](faq/file-upload)
+* [Upgrade fails “A non well formed numeric value encountered”](faq/upgrade-numeric)
 
 ## Genealogy data ##
 
