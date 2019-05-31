@@ -55,7 +55,7 @@ $sql = 'UPDATE `' . $TBLPFX . 'user` SET password = :password WHERE email = :ema
 $stmt = $pdo->prepare($sql);
 $stmt->execute(array('password' => crypt($PASSWD, ''), 'email' => $EMAIL));
 if ($stmt->rowCount() > 0) {
-  echo 'SUCESS - The user account was updated.';
+  echo 'SUCCESS - The user account was updated.';
 } else {
   echo 'ERROR - The user account was not found or not updated.';
 }
@@ -64,4 +64,6 @@ if ($stmt->rowCount() > 0) {
 </div>
 
 Copy the file to the webserver and run it by typing the URL into your browser.  e.g. `http://your-site.com/path-to-webtrees/password.php`.
+
+Remember to delete the file when you are finished.
 
