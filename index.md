@@ -5,4 +5,7 @@
 layout: home
 ---
 
-# webtrees #
+This site will eventually replace <http://wiki.webtrees.net> and the non-forum
+pages in <https://www.webtrees.net>.
+
+

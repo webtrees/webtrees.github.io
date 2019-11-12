@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - XREFs
-permalink: faq/xref
+permalink: /faq/xref
 ---
 
 # How can I show the GEDCOM IDs (XREFs) in webtrees? #

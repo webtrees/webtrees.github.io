@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - PGV letters with accents are corrupted
-permalink: faq/pgv-accents
+permalink: /faq/pgv-accents
 ---
 
 # FAQ - Letters with accents have become corrupted, so é becomes Ã©, è becomes Ã¨, and so on. #

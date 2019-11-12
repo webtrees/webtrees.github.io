@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - Template for config.ini.php
-permalink: faq/config-ini-php
+permalink: /faq/config-ini-php
 ---
 
 # FAQ - What should the file data/config.ini.php look like #

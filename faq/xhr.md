@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - How do I see errors in XHR requests
-permalink: faq/xhr
+permalink: /faq/xhr
 ---
 
 # FAQ - How do I see errors in XHR requests? #

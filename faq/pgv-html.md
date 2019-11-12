@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - PGV HTML
-permalink: faq/pgv-html
+permalink: /faq/pgv-html
 ---
 
 # FAQ - Embedded HTML no longer appears processed before display #

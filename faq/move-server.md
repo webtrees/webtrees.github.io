@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - move to a new server
-permalink: faq/move-server
+permalink: /faq/move-server
 ---
 
 # FAQ - How to move webtrees to a new server #

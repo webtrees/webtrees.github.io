@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - missing spaces in names
-permalink: faq/name-spaces
+permalink: /faq/name-spaces
 ---
 
 # FAQ - There are no spaces between the given names and surnames #

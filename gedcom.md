@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The GEDCOM data format
-permalink: gedcom
+permalink: /gedcom
 ---
 
 ### The GEDCOM data format  ###

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - PGV login
-permalink: faq/pgv-login
+permalink: /faq/pgv-login
 ---
 
 # FAQ - After importing, I cannot login with my admin account #

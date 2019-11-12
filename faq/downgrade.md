@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - Downgrade
-permalink: faq/downgrade
+permalink: /faq/downgrade
 ---
 
 # Can I downgrade to an earlier version? #

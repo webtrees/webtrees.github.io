@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - password
-permalink: faq/password
+permalink: /faq/password
 ---
 
 # FAQ - I forgot my password and cannot log in #

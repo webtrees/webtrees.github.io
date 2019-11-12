@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download webtrees
-permalink: download
+permalink: /download
 ---
 
 # Download #
@@ -17,7 +17,7 @@ Note that webtrees 2.0 is currently under devlopment and should not be used for 
 | 5.3 - 7.3  | <a class="btn btn-secondary" href="https://github.com/fisharebest/webtrees/releases/download/1.7.12/webtrees-1.7.12.zip"><i class="fa fa-download"></i> webtrees-1.7.12.zip</a> | webtrees 1.7 will receive updates for security issues and major bugs. |
 | 5.2  | <a class="btn btn-secondary" href="https://github.com/fisharebest/webtrees/releases/download/1.4.6/webtrees-1.4.6.zip"><i class="fa fa-download"></i> webtrees-1.4.6.zip</a> | webtrees 1.4 will receive updates for security issues only. |
 |----------------+----------------|
-{: .table table-bordered }
+{: .table .table-bordered }
 
 ## Older versions of webtrees ##
 
