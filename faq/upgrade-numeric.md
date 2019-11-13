@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - The upgrade fails with the error “A non well formed numeric value encountered”
-permalink: /faq/upgrade-numeric
 ---
 
 # FAQ - The upgrade fails with the error “A non well formed numeric value encountered” #

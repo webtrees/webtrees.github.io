@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - Cannot create thumbnails
-permalink: /faq/thumbnails
 ---
 
 # FAQ - Cannot create thumbnails #

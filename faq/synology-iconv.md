@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed
-permalink: /faq/synology-iconv
 ---
 
 # FAQ - iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed #

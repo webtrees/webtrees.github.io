@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - I cannot upload large files
-permalink: /faq/file-upload
 ---
 
 # FAQ - I cannot upload large files #

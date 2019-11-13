@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - ANSEL encoding
-permalink: /faq/ansel
 ---
 
 # Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported. #

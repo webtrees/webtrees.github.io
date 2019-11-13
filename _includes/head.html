@@ -4,8 +4,6 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-<base href="{{ site.url }}{{ site.baseurl }}/">
-
 <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -15,9 +13,7 @@
 
 <link rel="stylesheet" href="/assets/webtrees-2017-01-01.css">
 
-<link rel="canonical" href="{{ page.url | replace:'/index.html','' }}">
-
-<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="/feed.xml">
 
 <!-- Javascript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.js" integrity="sha256-2JRzNxMJiS0aHOJjG+liqsEOuBb6++9cY4dSOyiijX4=" crossorigin="anonymous"></script>

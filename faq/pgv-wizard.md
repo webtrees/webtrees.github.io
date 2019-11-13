@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FAQ - PGV run wizard again
-permalink: /faq/pgv-wizard
 ---
 
 # FAQ - How to run the transfer wizard again #
