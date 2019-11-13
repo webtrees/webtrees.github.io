@@ -10,7 +10,7 @@ A (very) few applications, such as PhpGedView, show the XREF in brackets after t
 
 * XREFs are 20 character fields. We would need to design every page with enough space for `(I1234567890123456789)` after the name. This places unnecessary restrictions on the page layout.
 
-* XREFs are not unique. If you have 3 family trees on your site, you will have 3 `I1` records.
+* XREFs are not unique. If you have 3 family trees on your site, you can have 3 `I1` records.
 
 * XREFs are written in latin characters, and many languages do not use the latin alphabet. It also causes layout problems with right-to-left languages.
 
@@ -18,6 +18,6 @@ A (very) few applications, such as PhpGedView, show the XREF in brackets after t
 
 * XREFs change when records or trees are merged.
 
-* We plan to move away from GEDCOM for internal data storage, and therefore need to break the link with GEDCOM identifiers.
+If you want to see XREFs, you can view them in the URL bar of your browser.
 
-In webtrees 1.7, there are still a few admin/edit screens where XREFs are used. These will be removed in webtrees 1.8.
+You can also use them when selecting records.

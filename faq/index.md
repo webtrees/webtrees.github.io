@@ -14,6 +14,10 @@ permalink: /faq
 * [I cannot upload large files](faq/file-upload)
 * [Upgrade fails “A non well formed numeric value encountered”](faq/upgrade-numeric)
 
+## Media files and images ##
+
+* [Cannot create thumbnails.](faq/thumbnails)
+
 ## Genealogy data ##
 
 * [There are no spaces between the given names and the surname.](faq/name-spaces)
