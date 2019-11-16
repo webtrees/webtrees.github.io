@@ -79,3 +79,14 @@ location = /webtrees/index.php {
     fastcgi_pass unix:/run/php/php7.3-fpm.sock;
 }
 ```
+
+## Example configuration for Apache ##
+
+Here is example configuration for a `.htaccess` file.
+
+```
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php [L]
+```
