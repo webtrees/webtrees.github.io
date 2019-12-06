@@ -76,6 +76,18 @@ webtrees will use the first media file that contains an image as the
 thumbnail.  So if your media object contains a video and an image, then
 the image will be used as the thumbnail.
 
+### User registration ###
+
+In webtrees-1.7, user registration requests were emailed to the genealogy contact
+for the tree.  This meant that users could not sign up to sites where all trees
+are private.  The genealogy contact would then need to ask an administrator to
+approve the user and set access permissions.
+
+In webtrees-2.0, user registration requests are emailed to the administrator(s).
+
+Similarly, emails for things like forgotten passwords are now sent from the
+*site*, rather than from a *tree*.
+
 ### Primary photo ###
 
 webtrees must choose just one image for an individual, to use on charts, etc.
@@ -84,7 +96,8 @@ In webtrees-1.7, the image was specified using a custom `_PRIMARY Y` tag and oth
 
 In webtrees-2.0, webtrees uses the *first* media object containing an image.  There is a new edit option to re-order the media objects.
 
-It is common for images to be linked to the indvidual, instead of events.
+It is common for images to be linked to the indvidual, when they should be
+linked  to a fact or event.
 For example, a birth-certificate should be linked to the birth event, not
 the individual.
 
