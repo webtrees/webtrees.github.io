@@ -6,17 +6,14 @@ permalink: /upgrade
 
 # Upgrade from webtrees-1.7 to webtrees-2.0
 
-## Upgrade Steps
+## Manual Upgrade Steps
 
 1. Backup both your webtrees directory and your MySQL database.
 2. Optional: If you wish to gracefully handle visitors during the upgrade, create an `offline.txt` file in the root webtrees directory.
-2. Optional: If you wish to clean up deprecated files, delete all files and directories **except the `data` directory** from the webtrees root on your web server.
-2. [Download](https://github.com/fisharebest/webtrees/releases/tag/2.0.0) the webtrees-2.0 .zip file.
-3. Unzip the files and upload them to the webtrees directory on your web server.
-4. If you had created an `offline.txt` file, delete it now.
-5. Because your database connection details were preserved in `config.ini.php` in the `data` directory, your database should be subsequently updated the next time you access your webtrees installation via a web browser.
-
-Note: There is no automatic upgrade from webtrees-1.7.
+3. [Download](https://github.com/fisharebest/webtrees/releases/tag/2.0.0) the webtrees-2.0 .zip file.
+4. Unzip the files and upload them to the webtrees directory on your web server.
+5. If you had created an `offline.txt` file, delete it now.
+6. Because your database connection details were preserved in `config.ini.php` in the `data` directory, your database should be subsequently updated the next time you access your webtrees installation via a web browser.
 
 ## Upgrade Notes
 
