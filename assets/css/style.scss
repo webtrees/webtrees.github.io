@@ -3,25 +3,56 @@
 
 @import "{{ site.theme }}";
 
-/* Footer */
-footer {
-	background-color: #f5f5f5;
-	margin-top: 1rem;
-	padding: 0.5rem 0;
+/* Structure */
+
+html {
+    font-size: 62.5% !important;
 }
 
 /* Make the footer stick to the bottom of the window */
 body {
-	display: flex;
-	min-height: 100vh;
-	flex-direction: column;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 main {
-	flex: 1;
+    flex: 1;
+}
+
+footer {
+    background-color: #f5f5f5;
+    margin-top: 1rem;
+    padding: 0.5rem 0;
+}
+
+/* Global */
+
+h1 {
+    font-size: 40px;
+    font-size: 4rem;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    font-size: 26px;
+    font-size: 2.6rem;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 /* Google site search */
-.gsc-search-box, .gsc-above-wrapper-area, .gcsc-branding {
-	display: none;
+.gcsc-branding,
+.gsc-above-wrapper-area,
+.gsc-search-box {
+    display: none;
 }
