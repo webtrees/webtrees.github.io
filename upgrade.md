@@ -9,7 +9,7 @@ permalink: /upgrade
 ## Manual Upgrade Steps
 
 1. Backup both your webtrees directory and your MySQL database.
-2. Optional: If you wish to gracefully handle visitors during the upgrade, create an `offline.txt` file in the root webtrees directory.
+2. Optional: If you wish to gracefully handle visitors during the upgrade, create a file `/data/offline.txt`. If it contains a message, it will be shown to your users.  Otherwise a default message will be shown.
 3. [Download](https://github.com/fisharebest/webtrees/releases/tag/2.0.0) the webtrees-2.0 .zip file.
 4. Unzip the files and upload them to the webtrees directory on your web server.
 5. If you had created an `offline.txt` file, delete it now.
