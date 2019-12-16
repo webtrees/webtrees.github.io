@@ -6,69 +6,69 @@ permalink: /features
 
 # Features
 
-## Collaboration:
+## Collaboration
 
-Share your information AND adding or editing it with your relatives around the world. But YOU control who has access and what they can see or do.
+Share information with your relatives around the world and add to or edit it together. But YOU control who has access and what they can see or do.
 
-## Privacy:
+## Privacy
 
-This is a VERY important aspect of putting your Family History on the web. With **webtrees** your data is as secure as you want it to be. Control is configurable at:
+This is a VERY important aspect of putting your family history on the web. With webtrees your data is as secure as you want it to be. Control is configurable at:
 
-- the site level - controlling who can view or register on the site, from anyone down to no-one!
-- the family tree level. Each tree you have can be configured differently.
-- the user level. You can vary what each registered user can see; whether they can edit data or not; and if you want them to be able to change configurations themselves.
-- the individual record level. You can configure webtrees to show only deceased persons data; or everyone; or hide specific individuals; even people who died recently; and much more...
-- the "fact" level. This allows you to hide more sensitive facts (such as Social Security Numbers) from everyone except yourself, or any level of access you choose.
-- combinations of the above
+- The site level - Control who can view or register on the site, from anyone to no-one!
+- The family tree level - Each tree you have can be configured differently.
+- The user level - You can adjust what each registered user can see, whether they can edit data or not, and whether they are able to change configurations themselves.
+- The individual record level - You have the option of showing only data of deceased persons, specific individuals, and much more...even hiding people who have died recently.
+- The "fact" level - This allows you to hide more sensitive facts (such as Social Security Numbers) from everyone except administrators or any level of access you choose.
+- Combinations of the above
 
-## Display pages:
+## Display pages
 
-**Individual**, with _configurable tabs_ to display Relatives, Sources, Notes, Maps, Media, Stories, and more...
+**Individual**, with _configurable tabs_ to display relatives, events, maps, stories, media, notes, sources, and more.
 
-**Family**, showing immediate relatives, and family events.
+**Family**, showing immediate relatives, family events, media, notes, sources, and more.
 
-On every pages you can display media items attached to individuals, or specific events in an individuals history. "Media" means photos, documents, videos, sound-bites, web links etc.
+On each page you can display media items attached to individuals or specific events in an individuals history. "Media" refers to photos, documents, videos, sound-bites, web links, etc.
 
-## Lists:
+## Lists
 
-Sort and filter lists of Individuals, Families, Sources, Notes, Repositories, Media items.
+Sort and filter lists of Individuals, Families, Sources, Notes, Repositories, and Media items.
 
-Place lists with maps.
+Display a list of place names and accompanying maps associated to events that have been added to individuals and families.
 
 Show "branches" of families with common surnames.
 
-## Charts:
+## Charts
 
-**Configurable on-screen charts in a selection of layouts:** Ancestry; circle; compact; descendancy; family book, hourglass, inter-active; lifespan; pedigree (chart or map); relationships, statistics; and timeline.
+**Configurable on-screen charts in a selection of layouts:** Ancestry, circle, compact, descendancy, family book, hourglass, interactive, lifespan, pedigree (chart or map), relationships, statistics, and timeline.
 
-## Reports:
+## Reports
 
-**Text format reports and charts to view on-screen or download:** Ahnentafel; birth date & place; births, deaths & marriages; cemeteries; descendancy, expanded relatives; family group, individual; marriage date & place, pedigree (portrait or landscape); relatives.
+**Text format reports and charts to view on-screen or via a PDF download:** Ahnentafel, birth date & place, births, deaths & marriages, cemeteries, descendancy, expanded relatives, family group, individual, marriage date & place, pedigree (portrait or landscape), and relatives.
 
-## Calendar:
+## Calendar
 
 View events for today, this month in any year, or any year.
 
-## Search:
+## Search
 
-General, Advanced, and Search & replace (for users with permission to do so).
+General, Advanced, and Search & Replace (for authorized users).
 
-## Help:
+## Help
 
-Extensive Help screens available throughout all pages, and for most features, as well as Help forum and Wiki assistance.
+Extensive Help screens available throughout all pages and for most features, as well as extensive documentation and a community forum.
 
-## Multimedia:
+## Multimedia
 
-Add and view multimedia files of many types and formats: photographs, documents, certificates and video.
+Add and view multimedia files of many types and formats: photographs, documents, certificates, and video.
 
-## Maps:
+## Maps
 
-View maps of the locations where your ancestors lived and worked, using the **Google Maps&trade;** feature.
+View maps of the locations where your ancestors lived and worked, using the **OpenStreetMap&trade;** feature.
 
-## Themes (templates):
+## Themes
 
-The standard **webtrees** package comes with six style themes (templates) from which to choose. One of those ("colors") has no less than 14 (!) different "color palettes", giving you a total of 19 different styles for your **webtrees** site. You can choose a different one for each family tree, and even allow your users to choose their own.
+The standard webtrees package includes six themes (templates) from which to choose. One of those ("colors") has no less than 14 (!) different "color palettes", giving you a total of 19 different styles for your site. You can choose a different one for each family tree and even allow your users to choose their own.
 
-## International display:
+## International Display
 
-By default **webtrees** is displayed in "International English", but you can choose to install many other languages. These already include US, British, and Australian English, Italian, Polish, Spanish, Finnish, French, and German. Others, including Catalan, Danish, Dutch, Estonian, Hebrew, Hungarian, Norwegian, Russian, Slovak, Slovenian, Swedish, and Turkish are well developed, and more will be available later.
+By default webtrees is displayed in "International English", but you can choose to enable over 60 other languages. These include US, British, and Australian English; Italian; Polish; Spanish; Finnish; French, and German. Others, including Catalan, Danish, Dutch, Estonian, Hebrew, Hungarian, Norwegian, Russian, Slovak, Slovenian, Swedish, and Turkish are well developed, and more will be available later.
