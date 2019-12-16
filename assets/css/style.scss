@@ -1,12 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /* Structure */
 
 html {
-    font-size: 62.5% !important;
+    font-size: 62.5%;
 }
 
 /* Make the footer stick to the bottom of the window */
@@ -101,10 +99,6 @@ button.btn {
     padding: 0.5rem 0;
 }
 
-.navbar-nav {
-    margin-left: 0;
-}
-
 .navbar-expand-md .navbar-nav .nav-link {
     padding: 8px;
     padding: 0.8rem;
@@ -129,9 +123,4 @@ button.btn {
 .gsc-above-wrapper-area,
 .gsc-search-box {
     display: none;
-}
-
-.post-link {
-    font-size: 18px;
-    font-size: 1.8rem;
 }
