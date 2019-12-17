@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Installation
+order: 3
 ---
 
 # Installation

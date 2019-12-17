@@ -7,6 +7,9 @@ description: >
   collaborate with family members and take control of your data.
 url: "https://webtrees.github.io"
 baseurl: ""
+collections:
+  readme:
+    output: true
 
 # External accounts
 github_username:  fisharebest/webtrees

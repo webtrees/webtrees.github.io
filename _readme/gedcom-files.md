@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GEDCOM (Family Tree) Files
+order: 5
 ---
 
 # GEDCOM (Family Tree) Files

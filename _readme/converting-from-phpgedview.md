@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Converting from PhpGedView
+order: 8
 ---
 
 # Converting from PhpGedView

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Upgrading
+order: 4
 ---
 
 # Upgrading

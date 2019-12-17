@@ -1,6 +1,7 @@
 ---
 layout: page
 title: System Requirements
+order: 2
 ---
 
 # System Requirements
