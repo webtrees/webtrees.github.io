@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title: Upgrading
 order: 4
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title: GEDCOM (Family Tree) Files
 order: 5
 ---

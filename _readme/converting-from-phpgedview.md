@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title: Converting from PhpGedView
 order: 8
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title: Installation
 order: 3
 ---

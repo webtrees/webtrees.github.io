@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title: Introduction
 order: 1
 ---
