@@ -1,24 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		{% include head.html %}
-	</head>
+<head>
+  {% include head.html %}
+</head>
 
-	<body>
-		<a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
+<body>
+  <a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
 
-		<header class="container">
-			{% include navigation.html %}
-		</header>
+  <header id="site-header">
+    <div class="wrapper">
+      <a href="{{ "/" | relative_url }}" id="site-title">{{ site.title | escape }}</a>
 
-		<main class="page-content" aria-label="Content" id="page-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
-			<div class="container">
-				{{ content }}
-			</div>
-		</main>
+      {% include navigation.html %}
 
-		<footer class="footer">
-			{% include footer.html %}
-		</footer>
-	</body>
+      <div class="nav-link" id="google_translate_element"></div>
+
+      <form class="form-inline my-2 my-lg-0" action="#">
+        <div class="input-group">
+          <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
+        </div>
+      </form>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content" id="page-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="footer">
+    {% include footer.html %}
+  </footer>
+</body>
 </html>
