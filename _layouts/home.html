@@ -1,0 +1,185 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <span class="tagline">the web’s leading online collaborative genealogy application</span>
+
+  <button>Get Started</button>
+</section>
+
+<div class="alert">
+  <i class="fas fa-exclamation-triangle"></i> This site will eventually replace <a href="http://wiki.webtrees.net">http://wiki.webtrees.net</a> and the non-forum pages in <a href="https://www.webtrees.net">https://www.webtrees.net</a>.
+</div>
+
+<section>
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-half">
+        <span class="icon-lg">
+          <i class="far fa-file-code"></i>
+        </span>
+
+        <h2>Free & Open-Source</h2>
+
+        <p>webtrees is open-source software, which means it’s constantly improved by a community of developers and costs $0 - yes, that means totally FREE! All you need to use it is a website with PHP and MySQL installed.</p>
+
+        <p>It works from standard GEDCOM files, and is therefore compatible with every major desktop application; and it aims to be efficient and effective by using the right combination of third-party tools, design techniques and open standards.</p>
+      </div>
+      <div class="one-half">
+        <img src="assets/img/tree-mock-screen.png" alt="Example Pedigree Screenshot">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #f7f7f7;">
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-users"></i>
+        </span>
+
+        <h2>Collaborative</h2>
+
+        <p>Create additional user accounts so you can build your tree together with your relatives around the world.</p>
+      </div>
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-cogs"></i>
+        </span>
+
+        <h2>Customizable</h2>
+
+        <p>Configure page modules, menus, charts, reports, and more. Give your site a little flair with different themes- choose from the six default or browse themes from the community.</p>
+      </div>
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-globe"></i>
+        </span>
+
+        <h2>International</h2>
+
+        <p>Choose from over 60 languages and numerous surname conventions, such as surname-first order, matrilineal surname tradition, patronymic or matronymic surnames, and more.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #092134; color: #fff;">
+  <div class="content-wrapper">
+    <div class="col-container">
+      <div class="one-third">
+        <span class="icon-lg float-right">
+          <i class="fas fa-lock"></i>
+        </span>
+      </div>
+      <div class="two-thirds">
+        <h2>Secure & Private</h2>
+
+        <p>This is a VERY important aspect of putting your family history on the web. With webtrees your data is as secure as you want it to be. Privacy settings are flexible, and control is configurable at multiple levels.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #f7f7f7;">
+  <div class="wide-wrapper text-center">
+    <p>See more <a href="features">features</a>, try a <a href="https://getbootstrap.com/docs/4.4/utilities/text/#text-alignment">demo</a>, or</p>
+
+    <button>Get Started</button>
+  </div>
+</section>
+
+<section>
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-half bordered">
+        {%- if site.posts.size > 0 -%}
+          <h2>{{ page.list_title | default: "Latest from the Blog" }}</h2>
+
+          <div class="post-list">
+            {%- for post in site.posts limit:5 -%}
+            <article class="post">
+              <header>
+                {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+                <h3 class="post-title">
+                  <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                  </a>
+                </h3>
+                <span class="post-date">{{ post.date | date: date_format }}</span>
+              </header>
+              {%- if site.show_excerpts -%}
+                <main class="post-excerpt">
+                  {{ post.excerpt }}
+                </main>
+              {%- endif -%}
+            </article>
+            {%- endfor -%}
+          </div>
+
+          <p class="feed-subscribe">
+            <a href="{{ 'feed.xml' | relative_url }}"><i class="fas fa-rss"></i> Subscribe</a>
+          </p>
+        {%- endif -%}
+      </div>
+      <div class="one-half bordered">
+        <h2>Latest Forum Topics</h2>
+
+        <div class="topic-list">
+          <article class="topic">
+            <header>
+              <h3 class="topic-title">
+                <a href="#">is v2 ready for use yet of should I wait</a>
+              </h3>
+              <span class="topic-updated">1 hour 17 minutes ago</span>
+              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
+              <span class="topic-updater">Last post by richard</span>
+            </header>
+          </article>
+          <article class="topic">
+            <header>
+              <h3 class="topic-title">
+                <a href="#">[SOLVED] 404 Not Found error after upgrade to 2.00</a>
+              </h3>
+              <span class="topic-updated">1 hour 39 minutes ago</span>
+              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
+              <span class="topic-updater">Last post by richard</span>
+          </header>
+        </article>
+        <article class="topic">
+          <header>
+            <h3 class="topic-title">
+              <a href="#">Old existing bookmarks don't work</a>
+            </h3>
+            <span class="topic-updated">3 hours 18 minutes ago</span>
+              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
+              <span class="topic-updater">Last post by Andreas</span>
+          </header>
+        </article>
+        <article class="topic">
+          <header>
+            <h3 class="topic-title">
+              <a href="#">Problem with some media files</a>
+            </h3>
+            <span class="topic-updated">4 hours 30 minutes ago</span>
+              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
+              <span class="topic-updater">Last post by norwegian_sardines</span>
+        </header>
+      </article>
+        <article class="topic">
+          <header>
+            <h3 class="topic-title">
+              <a href="#">Database error</a>
+              </h3>
+              <span class="topic-updated">5 hours 56 minutes ago</span>
+              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
+              <span class="topic-updater">Last post by jheiler</span>
+          </header>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>

@@ -7,6 +7,8 @@ description: >
   collaborate with family members and take control of your data.
 url: "https://webtrees.github.io"
 baseurl: ""
+date_format: "%b %-d, %Y"
+show_excerpts: true
 collections:
   readme:
     output: true
