@@ -341,7 +341,7 @@ button {
   padding: 5rem 0;
 }
 
-.documentation #page-content {
+#documentation #page-content {
   max-width: 1200px;
   max-width: 120rem;
   padding: 50px 40px;
@@ -489,7 +489,7 @@ section {
   }
 }
 
-.home section {
+#home section {
   padding: 50px 0;
   padding: 5rem 0;
 }
@@ -572,6 +572,19 @@ section {
     transform: translateX(-50px);
 }
 
+#blog .post-list {
+  margin-bottom: 20px;
+  margin-bottom: 2rem;
+
+  .post {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 40px;
+    margin-bottom: 4rem;
+    padding-bottom: 28px;
+    padding-bottom: 2.8rem;
+  }
+}
+
 .post,
 .topic {
   margin-bottom: 28px;
@@ -594,11 +607,18 @@ section {
   font-size: 24px;
   font-size: 2.4rem;
 
-  .home & {
+  #home & {
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 22px;
     line-height: 2.2rem;
+  }
+
+  #blog & {
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 28px;
+    line-height: 2.8rem;
   }
 }
 
@@ -606,7 +626,7 @@ section {
   margin-bottom: 28px;
   margin-bottom: 2.8 rem;
 
-  .home & {
+  #home & {
     margin-bottom: 20px;
     margin-bottom: 2rem;
   }
@@ -634,6 +654,36 @@ section {
   font-size: 1.4rem;
   line-height: 22px;
   line-height: 2.2rem;
+}
+
+.pagination {
+  text-align: center;
+
+  span,
+  a {
+    background-color: #f7f7f7;
+    border-radius: 3px;
+
+    display: inline-block;
+    padding: 5px 10px;
+  }
+
+  a {
+    color: #2b333b;
+
+    &:hover {
+      background-color: #eaeff2;
+      color: $primary-color;
+    }
+  }
+
+  span {
+    color: #ddd;
+  }
+
+  .current {
+    color: $primary-color;
+  }
 }
 
 .alert {

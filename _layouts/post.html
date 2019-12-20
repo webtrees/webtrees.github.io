@@ -17,5 +17,17 @@ layout: default
         {{ content }}
       </main>
     </article>
+
+    <section class="pagination">
+      {%- if page.next -%}
+      <a href="{{ page.next.url }}" title="Next Post" class="newer"><i class="fa fa-angle-left"></i> {{ page.next.title }}</a>
+      {%- endif -%}
+
+      {%- if page.previous -%}
+      <a href="{{ page.previous.url }}" title="Previous Post" class="older">{{ page.previous.title }} <i class="fa fa-angle-right"></i></a>
+      {%- endif -%}
+    </section>
+
+    {%- include comments.html -%}
   </div>
 </main>

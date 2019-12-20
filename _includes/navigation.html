@@ -1,5 +1,5 @@
 <!-- _includes/navigation.html -->
-{% assign segment = page.url | split: '/' %}
+{%- assign segment = page.url | split: '/' -%}
 
 <nav id="site-navigation">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#webtrees-navbar" aria-controls="webtrees-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,12 +9,12 @@
   <ul>
     <li{% if segment[1] == 'forum' %} class="active"{% endif %}>
       <a href="https://www.webtrees.net/index.php/en/forum">
-        Forum{% if segment[1] == 'forum' %} <span class="sr-only">(current)</span>{% endif %}
+        Forum{%- if segment[1] == 'forum' -%} <span class="sr-only">(current)</span>{%- endif -%}
       </a>
     </li>
     <li{% if segment[1] == 'faq' %} class="active"{% endif %}>
       <a href="/faq/">
-        FAQ{% if segment[1] == 'faq' %} <span class="sr-only">(current)</span>{% endif %}
+        FAQ{%- if segment[1] == 'faq' -%} <span class="sr-only">(current)</span>{%- endif -%}
       </a>
     </li>
     <li>
@@ -26,7 +26,7 @@
     </li>
     <li{% if segment[1] == 'download' %} class="active"{% endif %}>
       <a href="/download/">
-        Download{% if segment[1] == 'download' %} <span class="sr-only">(current)</span>{% endif %}
+        Download{%- if segment[1] == 'download' -%} <span class="sr-only">(current)</span>{%- endif -%}
       </a>
     </li>
   </ul>

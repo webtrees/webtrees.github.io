@@ -4,15 +4,15 @@
     <div class="one-third">
       <ul class="contact-list">
         <li>
-          {% if site.author %}
+          {%- if site.author -%}
           {{ site.author | escape }}
-          {% else %}
+          {%- else -%}
           {{ site.title | escape }}
-          {% endif %}
+          {%- endif -%}
         </li>
-        {% if site.email %}
+        {%- if site.email -%}
         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        {% endif %}
+        {%- endif -%}
       </ul>
     </div>
 

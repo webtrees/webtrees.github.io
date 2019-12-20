@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {% include head.html %}
+  {%- include head.html -%}
 </head>
 
-<body>
+<body id="{{ page.layout }}">
   <a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
 
   <header id="site-header">
@@ -12,7 +12,7 @@
       <div class="col-container">
         <a href="{{ "/" | relative_url }}" id="site-title">{{ site.title | escape }}</a>
 
-        {% include navigation.html %}
+        {%- include navigation.html -%}
 
         <div class="nav-link" id="google_translate_element"></div>
 
@@ -25,12 +25,12 @@
     </div>
   </header>
 
-  <main id="site-content" tab_index="-1" class="{{ page.layout }}"><!-- tab-index is required for skip-to-navigation in IE -->
+  <main id="site-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
       {{ content }}
   </main>
 
   <footer id="site-footer">
-    {% include footer.html %}
+    {%- include footer.html -%}
   </footer>
 </body>
 </html>

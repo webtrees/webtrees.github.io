@@ -22,7 +22,7 @@
   {%- endfor -%}
 </div>
 
-<p class="feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}"><i class="fas fa-rss"></i> Subscribe</a>
+<p>
+  <a href="{% link blog/index.html %}">Read More Posts</a> or <a href="{{ 'feed.xml' | relative_url }}">Subscribe <i class="fas fa-rss"></i></a>
 </p>
 {%- endif -%}

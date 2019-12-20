@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<main id="page-content">
+  <div class="narrow-wrapper">
+    <section class="post-list">
+      <!-- This loops through the paginated posts -->
+      {%- for post in paginator.posts -%}
+      <article class="post">
+        <header>
+          <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+          <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: date_format }}</time>
+        </header>
+        <main>
+          {{ post.content }}
+        </main>
+      </article>
+      {%- endfor -%}
+    </section>
+
+    <!-- Pagination links -->
+    {%- if paginator.total_pages > 1 -%}
+    <section class="pagination">
+      {%- if paginator.previous_page -%}
+      <a href="{{ paginator.previous_page_path | relative_url }}" title="Newer Posts" class="newer"><i class="fa fa-angle-left"></i></a>
+      {%- else -%}
+      <span class="newer"><i class="fa fa-angle-left"></i></span>
+      {%- endif -%}
+
+      {%- for page in (1..paginator.total_pages) -%}
+      {%- if page == paginator.page -%}
+      <span class="current">{{ page }}</span>
+      {%- elsif page == 1 -%}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="page-{{ page }}">{{ page }}</a>
+      {%- else -%}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-{{ page }}">{{ page }}</a>
+      {%- endif -%}
+      {%- endfor -%}
+
+      {%- if paginator.next_page -%}
+      <a href="{{ paginator.next_page_path | relative_url }}" title="Older Posts" class="older"><i class="fa fa-angle-right"></i></a>
+      {%- else -%}
+      <span class="older"><i class="fa fa-angle-right"></i></span>
+      {%- endif -%}
+    </section>
+    {%- endif -%}
+  </div>
+</main>
