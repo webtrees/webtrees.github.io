@@ -100,6 +100,12 @@ a {
   }
 }
 
+img {
+  margin-bottom: 20px;
+  margin-bottom: 2rem;
+  max-width: 100%;
+}
+
 code {
   background-color: #eaeff2;
   border-radius: 3px;
@@ -301,6 +307,10 @@ button {
 
 #google_translate_element {
   padding: 0 50px;
+
+  .goog-te-gadget-icon {
+    margin-bottom: 0;
+  }
 
   .goog-te-gadget-simple {
     background-color: #fcfcfc;
@@ -530,10 +540,24 @@ section {
 
 .float-left {
   float: left;
+  margin-right: 20px;
+  margin-right: 2rem;
 }
 
 .float-right {
   float: right;
+  margin-left: 20px;
+  margin-left: 2rem;
+}
+
+.spill {
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+    max-width: calc(100% + 100px);
+    width: calc(100% + 100px);
+    -webkit-transform: translateX(-50px);
+    transform: translateX(-50px);
 }
 
 .post,
@@ -555,12 +579,25 @@ section {
 .topic-updated {
   color: #888;
   display: block;
-  font-size: 14px;
-  font-size: 1.4rem;
-  line-height: 22px;
-  line-height: 2.2rem;
-  margin-bottom: 20px;
-  margin-bottom: 2rem;
+  font-size: 24px;
+  font-size: 2.4rem;
+
+  .home & {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 22px;
+    line-height: 2.2rem;
+  }
+}
+
+.post-date {
+  margin-bottom: 28px;
+  margin-bottom: 2.8 rem;
+
+  .home & {
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+  }
 }
 
 .topic-updated {
