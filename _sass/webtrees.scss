@@ -230,6 +230,10 @@ button {
   padding: 30px 0;
   padding: 3rem 0;
 
+  .col-container {
+    align-items: center;
+  }
+
   input,
   button {
     box-shadow: none;
@@ -281,6 +285,11 @@ button {
 
     li {
       display: block;
+
+      &.active a {
+        color: $primary-color;
+        background-color: #eaeff2;
+      }
     }
 
     a {
@@ -291,7 +300,6 @@ button {
 
       &:hover {
         color: $primary-color;
-        background-color: #eaeff2;
       }
     }
   }
@@ -354,6 +362,11 @@ button {
 
   li {
     list-style-type: none;
+
+    &.active a {
+      background-color: #eaeff2;
+      color: $primary-color;
+    }
   }
 
   a {
@@ -363,7 +376,6 @@ button {
     padding: 0.8rem 4rem;
 
     &:hover {
-      background-color: #eaeff2;
       color: $primary-color;
     }
   }

@@ -6,6 +6,8 @@ description: >
   webtrees is a web application that allows you to publish your genealogy online,
   collaborate with family members and take control of your data.
 url: "https://webtrees.github.io"
+github_repo: webtrees/webtrees.github.io
+edit_text: Edit this page
 baseurl: ""
 date_format: "%b %-d, %Y"
 show_excerpts: true

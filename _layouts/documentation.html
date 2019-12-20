@@ -5,14 +5,16 @@ layout: default
 <div class="col-container">
   <main id="page-content">
     {{ content }}
+
+    {% include edit-link.html %}
   </main>
   <aside id="page-sidebar">
     <nav class="secondary-navigation">
       {% assign doclist = site[page.collection] | sort: 'order' %}
       <ul>
-          {% for page in doclist %}
-              {% if page.slug != "index" %}
-                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% for doc in doclist %}
+              {% if doc.slug != "index" %}
+                  <li{% if page.slug == doc.slug %} class="active"{% endif %}><a href="{{ doc.url }}">{{ doc.title }}</a></li>
               {% endif %}
           {% endfor %}
       </ul>
