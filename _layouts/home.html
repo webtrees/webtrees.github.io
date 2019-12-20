@@ -96,90 +96,10 @@ layout: default
   <div class="wide-wrapper">
     <div class="col-container">
       <div class="one-half bordered">
-        {% include navigation.html %}
-        {%- if site.posts.size > 0 -%}
-          <h2>{{ page.list_title | default: "Latest from the Blog" }}</h2>
-
-          <div class="post-list">
-            {%- for post in site.posts limit:5 -%}
-            <article class="post">
-              <header>
-                {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-                <h3 class="post-title">
-                  <a href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                  </a>
-                </h3>
-                <span class="post-date">{{ post.date | date: date_format }}</span>
-              </header>
-              {%- if site.show_excerpts -%}
-                <main class="post-excerpt">
-                  {{ post.excerpt }}
-                </main>
-              {%- endif -%}
-            </article>
-            {%- endfor -%}
-          </div>
-
-          <p class="feed-subscribe">
-            <a href="{{ 'feed.xml' | relative_url }}"><i class="fas fa-rss"></i> Subscribe</a>
-          </p>
-        {%- endif -%}
+        {% include latest-posts.html %}
       </div>
       <div class="one-half bordered">
-        <h2>Latest Forum Topics</h2>
-
-        <div class="topic-list">
-          <article class="topic">
-            <header>
-              <h3 class="topic-title">
-                <a href="#">is v2 ready for use yet of should I wait</a>
-              </h3>
-              <span class="topic-updated">1 hour 17 minutes ago</span>
-              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
-              <span class="topic-updater">Last post by richard</span>
-            </header>
-          </article>
-          <article class="topic">
-            <header>
-              <h3 class="topic-title">
-                <a href="#">[SOLVED] 404 Not Found error after upgrade to 2.00</a>
-              </h3>
-              <span class="topic-updated">1 hour 39 minutes ago</span>
-              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
-              <span class="topic-updater">Last post by richard</span>
-          </header>
-        </article>
-        <article class="topic">
-          <header>
-            <h3 class="topic-title">
-              <a href="#">Old existing bookmarks don't work</a>
-            </h3>
-            <span class="topic-updated">3 hours 18 minutes ago</span>
-              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
-              <span class="topic-updater">Last post by Andreas</span>
-          </header>
-        </article>
-        <article class="topic">
-          <header>
-            <h3 class="topic-title">
-              <a href="#">Problem with some media files</a>
-            </h3>
-            <span class="topic-updated">4 hours 30 minutes ago</span>
-              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
-              <span class="topic-updater">Last post by norwegian_sardines</span>
-        </header>
-      </article>
-        <article class="topic">
-          <header>
-            <h3 class="topic-title">
-              <a href="#">Database error</a>
-              </h3>
-              <span class="topic-updated">5 hours 56 minutes ago</span>
-              <span class="topic-category">In <a href="#">Public Forum</a> / <a href="#">Help for version 2.0</a></span>
-              <span class="topic-updater">Last post by jheiler</span>
-          </header>
-        </article>
+        {% include latest-topics.html %}
       </div>
     </div>
   </div>
