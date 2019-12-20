@@ -68,7 +68,7 @@ layout: default
 </section>
 
 <section style="background-color: #092134; color: #fff;">
-  <div class="content-wrapper">
+  <div class="narrow-wrapper">
     <div class="col-container">
       <div class="one-third">
         <span class="icon-lg float-right">
@@ -85,7 +85,7 @@ layout: default
 </section>
 
 <section style="background-color: #f7f7f7;">
-  <div class="wide-wrapper text-center">
+  <div class="narrow-wrapper text-center">
     <p>See more <a href="features">features</a>, try a <a href="https://getbootstrap.com/docs/4.4/utilities/text/#text-alignment">demo</a>, or</p>
 
     <button>Get Started</button>
@@ -96,6 +96,7 @@ layout: default
   <div class="wide-wrapper">
     <div class="col-container">
       <div class="one-half bordered">
+        {% include navigation.html %}
         {%- if site.posts.size > 0 -%}
           <h2>{{ page.list_title | default: "Latest from the Blog" }}</h2>
 

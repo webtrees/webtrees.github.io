@@ -8,18 +8,20 @@
   <a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
 
   <header id="site-header">
-    <div class="wrapper">
-      <a href="{{ "/" | relative_url }}" id="site-title">{{ site.title | escape }}</a>
+    <div class="wide-wrapper">
+      <div class="col-container">
+        <a href="{{ "/" | relative_url }}" id="site-title">{{ site.title | escape }}</a>
 
-      {% include navigation.html %}
+        {% include navigation.html %}
 
-      <div class="nav-link" id="google_translate_element"></div>
+        <div class="nav-link" id="google_translate_element"></div>
 
-      <form class="form-inline my-2 my-lg-0" action="#">
-        <div class="input-group">
-          <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
-        </div>
-      </form>
+        <form class="form-inline my-2 my-lg-0" action="#">
+          <div class="input-group">
+            <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
+          </div>
+        </form>
+      </div>
     </div>
   </header>
 
