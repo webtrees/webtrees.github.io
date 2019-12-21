@@ -9,7 +9,12 @@ layout: default
     {%- include edit-link.html -%}
   </main>
   <aside id="page-sidebar">
-    <nav class="secondary-navigation">
+    <nav id="secondary-navigation">
+      <button id="secondary-nav-toggle">
+        <i class="fas fa-chevron-left"></i>
+        <i class="fas fa-chevron-right"></i>
+      </button>
+
       {%- assign doclist = site[page.collection] | sort: 'order' -%}
       <ul>
         {%- for doc in doclist -%}

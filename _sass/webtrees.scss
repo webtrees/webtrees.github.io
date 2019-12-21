@@ -3,6 +3,12 @@
 $primary-color: #2694e8;
 $accent-color: #e83e8c;
 
+$text-color: #2b333a;
+
+$breakpoint-alpha: 1200px;
+$breakpoint-bravo: 900px;
+$breakpoint-charlie: 600px;
+
 *,
 *::before,
 *::after {
@@ -24,6 +30,7 @@ body {
   font-size: 1.6rem;
   margin: 0;
   min-height: 100vh;
+  overflow-x: hidden;
   flex-direction: column;
 }
 
@@ -81,6 +88,11 @@ ul {
     li {
       list-style-type: none;
     }
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    padding-left: 20px;
+    padding-left: 2rem;
   }
 }
 
@@ -214,12 +226,26 @@ button {
   margin: auto;
   max-width: 1200px;
   max-width: 120rem;
+  padding: 0 40px;
+  padding: 0 4rem;
+
+  @media (max-width: $breakpoint-charlie) {
+    padding: 0 30px;
+    padding: 0 3rem;
+  }
 }
 
 .narrow-wrapper {
   margin: auto;
   max-width: 720px;
   max-width: 72rem;
+  padding: 0 40px;
+  padding: 0 4rem;
+
+  @media (max-width: $breakpoint-charlie) {
+    padding: 0 30px;
+    padding: 0 3rem;
+  }
 }
 
 /* Header */
@@ -227,8 +253,13 @@ button {
 #site-header {
   background-color: $primary-color;
   color: #fff;
+  left: 0;
   padding: 30px 0;
   padding: 3rem 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1;
 
   .col-container {
     align-items: center;
@@ -238,6 +269,11 @@ button {
   button {
     box-shadow: none;
   }
+
+  @media (max-width: $breakpoint-bravo) {
+    padding: 10px 0;
+    padding: 1rem 0;
+  }
 }
 
 #site-title {
@@ -245,6 +281,19 @@ button {
   font-size: 32px;
   font-size: 3.2rem;
   font-weight: bold;
+  margin-right: 40px;
+  margin-right: 4rem;
+
+  @media (max-width: $breakpoint-alpha) {
+    margin-right: 20px;
+    margin-right: 2rem;
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    font-size: 24px;
+    font-size: 2.4rem;
+    margin-left: 40px;
+  }
 }
 
 #site-navigation {
@@ -252,14 +301,15 @@ button {
 
   ul {
     margin: 0;
+    padding: 0;
   }
 
   li {
     display: inline-block;
     position: relative;
 
-    &.active a,
-    &:hover a {
+    &.active > a,
+    &:hover > a {
       color: #2b333a;
     }
   }
@@ -268,6 +318,11 @@ button {
     color: #fff;
     padding: 15px;
     padding: 1.5rem;
+
+    @media (max-width: $breakpoint-alpha) {
+      padding: 15px 10px;
+      padding: 1.5rem 1rem;;
+    }
   }
 
   // Dropdown menus
@@ -309,15 +364,160 @@ button {
   }
 
   button {
-    display: none; // temporary
+  //  display: none; // temporary
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    ul {
+      background-color: #f7f7f7;
+      bottom: 0;
+      left: -85%;
+      overflow-y: scroll;
+      padding: 48px 0 0 0;
+      padding: 4.8rem 0 0 0;
+      position: fixed;
+      top: 0;
+      transition: left .1s ease-out;
+      width: 85%;
+
+      &.opened {
+        left: 0;
+      }
+    }
+
+    li {
+      display: block;
+
+      &.active > a {
+        color: $primary-color;
+        background-color: #eaeff2;
+      }
+
+      &:hover > a {
+        color: $primary-color;
+      }
+    }
+
+    a {
+      color: #2b333b;
+      display: block;
+      padding: 10px 30px;
+      padding: 1rem 3rem;
+    }
+
+    ul ul {
+      display: block;
+      padding: 0;
+      position: static;
+      width: 100%;
+
+      a {
+        color: #2b333a;
+        display: block;
+        padding: 10px 40px;
+        padding: 1rem 4rem;
+
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
   }
 }
 
+#site-nav-toggle {
+  background-color: $primary-color;
+  border: none;
+  border-radius: 0;
+  display: none;
+  left: 0;
+  margin-right: 20px;
+  margin-right: 2rem;
+  padding: 23px 15px;
+  padding: 2.3rem 1.5rem;
+  position: absolute;
+  top: 0;
+  z-index: 99;
+
+  &.opened {
+    background-color: #2b333a;
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    display: inline-block;
+  }
+}
+
+.menu-icon {
+  background: #fff;
+  display: block;
+  height: 2px;
+  position: relative;
+  -webkit-transition: background .2s ease-out;
+  transition: background .2s ease-out;
+  width: 18px;
+
+  #site-nav-toggle:hover & {
+    background-color: #2b333a;
+  }
+
+  #site-nav-toggle.opened & {
+    background: transparent;
+  }
+}
+
+.menu-icon::after, .menu-icon::before {
+  background-color:  #fff;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+  width: 100%;
+
+  #site-nav-toggle.opened:hover & {
+    background-color: $primary-color;
+  }
+
+  #site-nav-toggle:hover & {
+    background-color: #2b333a;
+  }
+}
+
+.menu-icon::before {
+  top: 5px;
+
+  #site-nav-toggle.opened & {
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+}
+
+.menu-icon::after {
+  top: -5px;
+
+  #site-nav-toggle.opened & {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+}
+
+#site-nav-toggle.opened:not(.steps) .menu-icon::after,
+#site-nav-toggle.opened:not(.steps) .menu-icon::before {
+  top: 0;
+}
+
 #google_translate_element {
-  padding: 0 50px;
+  padding: 0 20px;
+  padding: 0 2rem;
 
   .goog-te-gadget-icon {
     margin-bottom: 0;
+
+    @media (max-width: $breakpoint-alpha) {
+      display: none;
+    }
   }
 
   .goog-te-gadget-simple {
@@ -333,6 +533,37 @@ button {
       font-size: 16px;
       font-size: 1.6rem;
     }
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    display: none;
+  }
+}
+
+#site-search {
+  @media (max-width: $breakpoint-alpha) {
+    input {
+      max-width: 150px;
+    }
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    display: none;
+  }
+}
+
+#site-content {
+  margin-top: 104px;
+  margin-top: 10.4rem;
+
+  @media (max-width: $breakpoint-bravo) {
+    margin-top: 56px;
+    margin-top: 5.6rem;
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    margin-top: 48px;
+    margin-top: 4.8rem;
   }
 }
 
@@ -350,11 +581,70 @@ button {
 
 #page-sidebar {
   background-color: #f7f7f7;
+  padding: 50px 0;
+  padding: 5rem 0;
+  transition: right .1s ease-out;
+
+  .col-container {
+    position: relative;
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    bottom: 0;
+    position: absolute;
+    top: 0;
+    right: -85%;
+    width: 85%;
+
+    &.opened {
+      right: 0;
+    }
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    top: 48px;
+  }
 }
 
-.secondary-navigation {
-  margin-top: 40px;
-  margin-top: 4rem;
+#secondary-nav-toggle {
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  color: $text-color;
+  display: none;
+  padding: 16px 20px;
+  padding: 1.6rem 2rem;
+  position: absolute;
+  top: 0;
+  left: -50px;
+  left: -5rem;
+
+  .fa-chevron-right {
+    display: none;
+  }
+
+  &.opened {
+    .fa-chevron-left {
+      display: none;
+    }
+
+    .fa-chevron-right {
+      display: inline;
+    }
+  }
+
+  &:hover {
+    background-color: #eaeff2;
+    color: $primary-color;
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    display: inline-block;
+  }
+}
+
+#secondary-navigation {
 
   ul {
     padding: 0;
@@ -385,8 +675,8 @@ button {
   background-color: #2b333b;
   color: #fff;
   margin: 0;
-  padding: 40px 20px;
-  padding: 4rem 2rem;
+  padding: 40px 0;
+  padding: 4rem 0;
 
   a:hover {
     color: #fff;
@@ -402,6 +692,14 @@ section {
 .col-container {
   display: flex;
   justify-content: center;
+
+  @media (max-width: $breakpoint-bravo) {
+    flex-direction: column;
+
+    #site-header & {
+      flex-direction: row;
+    }
+  }
 }
 
 .one-half {
@@ -429,6 +727,32 @@ section {
       padding-left: 4rem;
     }
   }
+
+  @media (max-width: $breakpoint-bravo) {
+    &:first-child {
+      padding: 0 0 20px 0;
+      padding: 0 0 2rem 0;
+    }
+
+    &:last-child {
+      padding-left: 0;
+    }
+
+    &.bordered {
+      &:first-child {
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 40px;
+        margin-bottom: 4rem;
+        padding: 0 0 40px 0;
+        padding: 0 0 4rem 0;
+      }
+
+      &:last-child {
+        padding-left: 0;
+      }
+    }
+  }
 }
 
 .one-third {
@@ -448,6 +772,18 @@ section {
     padding-left: 20px;
     padding-left: 2rem;
   }
+
+  @media (max-width: $breakpoint-bravo) {
+    &:first-child,
+    &:nth-child(2) {
+      padding: 0 0 20px 0;
+      padding: 0 0 2rem 0;
+    }
+
+    &:last-child {
+      padding-left: 0;
+    }
+  }
 }
 
 .two-thirds {
@@ -456,6 +792,15 @@ section {
   &:last-child {
     padding-left: 20px;
     padding-left: 2rem;
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    padding: 0 0 20px 0;
+    padding: 0 0 2rem 0;
+
+    &:last-child {
+      padding: 0;
+    }
   }
 }
 
@@ -487,11 +832,45 @@ section {
     padding: 16px 50px;
     padding: 1.6rem 5rem;
   }
+
+  @media (max-width: $breakpoint-alpha) {
+    .tagline {
+      max-width: 75%;
+    }
+  }
+
+  @media (max-width: $breakpoint-bravo) {
+    padding: 100px 50px !important;
+    padding: 10rem 5rem !important;
+
+    .tagline {
+      max-width: 90%;
+    }
+
+    button {
+      padding: 12px 15px;
+      padding: 1.2rem 1.5rem;
+    }
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    padding: 100px 20px !important;
+    padding: 10rem 2rem !important;
+
+    .tagline {
+      max-width: 100%;
+    }
+  }
 }
 
 #home section {
   padding: 50px 0;
   padding: 5rem 0;
+
+  @media (max-width: $breakpoint-charlie) {
+    padding: 30px 0;
+    padding: 3rem 0;
+  }
 }
 
 .inverted {
@@ -699,6 +1078,11 @@ section {
     &:hover {
       color: #fff;
     }
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    font-size: 14px;
+    font-size: 1.4rem;
   }
 }
 

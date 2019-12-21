@@ -2,11 +2,16 @@
 {%- assign segment = page.url | split: '/' -%}
 
 <nav id="site-navigation">
-  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#webtrees-navbar" aria-controls="webtrees-navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+  <button id="site-nav-toggle">
+    <span class="menu-icon"></span>
   </button>
 
   <ul>
+    <li{% if segment[1] == 'readme' %} class="active"{% endif %}>
+      <a href="{% link _readme/index.md %}">
+        Docs{%- if segment[1] == 'readme' -%} <span class="sr-only">(current)</span>{%- endif -%}
+      </a>
+    </li>
     <li{% if segment[1] == 'forum' %} class="active"{% endif %}>
       <a href="https://www.webtrees.net/index.php/en/forum">
         Forum{%- if segment[1] == 'forum' -%} <span class="sr-only">(current)</span>{%- endif -%}
@@ -18,7 +23,7 @@
       </a>
     </li>
     <li>
-      <a href="#">Live demo</a>
+      <a href="#">Demo</a>
       <ul>
         <li><a href="https://dev.webtrees.net/demo-stable">Stable version</a></li>
         <li><a href="https://dev.webtrees.net/demo-dev">Beta version</a></li>
@@ -36,6 +41,10 @@
 <script type="text/javascript">
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+
+    // Shorten widget content
+    var translateButtonContent = document.getElementsByClassName('goog-te-menu-value')[0];
+    translateButtonContent.innerHTML = 'Language';
   }
 </script>
 <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

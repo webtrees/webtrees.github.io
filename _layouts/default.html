@@ -14,23 +14,23 @@
 
         {%- include navigation.html -%}
 
-        <div class="nav-link" id="google_translate_element"></div>
+        <div id="google_translate_element"></div>
 
-        <form class="form-inline my-2 my-lg-0" action="#">
-          <div class="input-group">
-            <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
-          </div>
+        <form id="site-search" action="#">
+          <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
         </form>
       </div>
     </div>
   </header>
 
   <main id="site-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
-      {{ content }}
+    {{ content }}
   </main>
 
   <footer id="site-footer">
     {%- include footer.html -%}
   </footer>
+
+  <script src="{{ "/assets/js/script.js" | relative_url }}"></script>
 </body>
 </html>
