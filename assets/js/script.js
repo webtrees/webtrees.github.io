@@ -31,7 +31,9 @@ siteNavToggle.onclick = function() {
 var secondaryNavToggle = document.getElementById('secondary-nav-toggle');
 var pageSidebar = document.getElementById('page-sidebar');
 
-secondaryNavToggle.onclick = function() {
-  toggleClass(secondaryNavToggle, 'opened');
-  toggleClass(pageSidebar, 'opened');
+if(secondaryNavToggle) {
+  secondaryNavToggle.onclick = function() {
+    toggleClass(secondaryNavToggle, 'opened');
+    toggleClass(pageSidebar, 'opened');
+  }
 }

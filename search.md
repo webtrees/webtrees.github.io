@@ -4,12 +4,29 @@ title: Search
 permalink: /search
 ---
 
-<script>
-	var results = new RegExp('[\?&]q=([^&#]*)').exec(window.location.href);
-	$("input[name=q]").val(results[1] || '');
-</script>
+# Search<span id="search-term"></span>
+
+<form action="search">
+  <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
+</form>
 
 <script>
+/*
+ * Populate title with search term
+ */
+
+const urlParams = new URLSearchParams(window.location.search);
+const query = urlParams.get('q');
+
+if (query) {
+  var searchTerm = document.getElementById('search-term');
+  searchTerm.innerHTML = ' for \'' + query + '\'';
+}
+
+/*
+ * Get search results
+ */
+
 	(function() {
 		var cx = '000152751295590832558:29llhg8imvi';
 		var gcse = document.createElement('script');
@@ -21,4 +38,3 @@ permalink: /search
 	})();
 </script>
 <gcse:search></gcse:search>
-
