@@ -3,7 +3,7 @@ layout: page
 title: FAQ - The upgrade fails with the error “A non well formed numeric value encountered”
 ---
 
-# FAQ - The upgrade fails with the error “A non well formed numeric value encountered” #
+## The upgrade fails with the error “A non well formed numeric value encountered”
 
 This error occurs when you are upgrading *from* webtrees <= 1.7.10 on a server running PHP >= 7.1.
 

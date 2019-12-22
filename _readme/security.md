@@ -4,8 +4,6 @@ title: Security
 order: 6
 ---
 
-# Security
-
 Security in webtrees means ensuring your site is safe from unwanted intrusions, hacking, or access to data and configuration files. The developers of webtrees regard security as an extremely important part of its development and have made every attempt to ensure your data is safe.
 
 The area most at risk of intrusion would be the `/data` folder that contains your `config.ini.php` file and various temporary files. If you are concerned there may be a risk there is a very simple test you can do: try to fetch the file `config.ini.php` by typing `[url to your server]/data/config.ini.php` in your web browser.

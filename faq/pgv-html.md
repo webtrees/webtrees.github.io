@@ -3,7 +3,7 @@ layout: page
 title: FAQ - PGV HTML
 ---
 
-# FAQ - Embedded HTML no longer appears processed before display #
+## Embedded HTML no longer appears processed before display
 
 PhpGedView stores HTML code in an encoded form.  For example, `<` and `>` encoded as `&amp;lt;` and `&amp;gt;`.  webtrees stores HTML code in its original form.
 

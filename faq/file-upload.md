@@ -3,7 +3,7 @@ layout: page
 title: FAQ - I cannot upload large files
 ---
 
-# FAQ - I cannot upload large files #
+## I cannot upload large files
 
 When uploading large files (photos, documents, GEDCOM files, etc.), the upload may fail with errors such as "File not received".
 

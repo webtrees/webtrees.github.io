@@ -4,8 +4,6 @@ title: System Requirements
 order: 2
 ---
 
-# System Requirements
-
 To install webtrees, you need:
 
 ## Webserver

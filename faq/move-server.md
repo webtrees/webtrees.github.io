@@ -3,7 +3,7 @@ layout: page
 title: FAQ - move to a new server
 ---
 
-# FAQ - How to move webtrees to a new server #
+## How to move webtrees to a new server
 
 1. On the old server, go to: `Control panel`, `Website`, `Website preferences` and review the settings:
     * If `Website URL` contains a value, then make certain that this URL will be correct on the new server.

@@ -4,7 +4,7 @@ title: FAQ - XREFs
 permalink: /faq/xref
 ---
 
-# How can I show the GEDCOM IDs (XREFs) in webtrees? #
+## How can I show the GEDCOM IDs (XREFs) in webtrees?
 
 A (very) few applications, such as PhpGedView, show the XREF in brackets after the name. webtrees does not do this. This is a deliberate design decision, and common to most family history software products.
 

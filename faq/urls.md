@@ -3,7 +3,7 @@ layout: page
 title: FAQ - How do I enable pretty URLs?
 ---
 
-# FAQ - How do I enable pretty URLs? #
+## How do I enable pretty URLs?
 
 Default URLs look like: `https://example.com/index.php?route=/tree/demo`.
 

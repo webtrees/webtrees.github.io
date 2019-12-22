@@ -4,8 +4,6 @@ title: Converting from PhpGedView
 order: 8
 ---
 
-# Converting from PhpGedView
-
 If you are moving to webtrees from an existing PhpGedView (PGV) setup and your PGV installation meets certain requirements (see exceptions below), webtrees has a wizard to help make the transfer of the majority of your data a relatively quick and painless operation.
 
 However, this wizard is only available in webtrees 1.7. **If you are transferring from PGV, you should install webtrees 1.7 first and then upgrade to webtrees 2.0.**

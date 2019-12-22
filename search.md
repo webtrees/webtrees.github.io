@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Search
-permalink: /search
 ---
-
-# Search<span id="search-term"></span>
 
 <form action="search">
   <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
@@ -19,8 +16,8 @@ const urlParams = new URLSearchParams(window.location.search);
 const query = urlParams.get('q');
 
 if (query) {
-  var searchTerm = document.getElementById('search-term');
-  searchTerm.innerHTML = ' for \'' + query + '\'';
+  var pageHeading = document.getElementsByTagName('h1')[0];
+  pageHeading.innerHTML += ' for \'' + query + '\'';
 }
 
 /*

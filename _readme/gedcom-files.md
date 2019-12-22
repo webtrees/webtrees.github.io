@@ -4,8 +4,6 @@ title: GEDCOM (Family Tree) Files
 order: 5
 ---
 
-# GEDCOM (Family Tree) Files
-
 When you import a family tree (GEDCOM) file in webtrees the data from the file is transferred to the database tables. The file itself remains in the `data` directory but is no longer used or required by webtrees. Any subsequent editing of the webtrees data will not change this file.
 
 When or if you change your genealogy data outside of webtrees, it is not necessary to delete your GEDCOM file or database from webtrees and start over. Follow these steps to update a GEDCOM that has already been imported:

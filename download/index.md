@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Download webtrees
+title: Download
+permalink: download/
 ---
-
-# Download
 
 The latest version of webtrees requires a [supported version of PHP](https://secure.php.net/supported-versions.php){: rel="nofollow" }. If your web-server provides an older version of PHP, then you should use an older version of webtrees.
 

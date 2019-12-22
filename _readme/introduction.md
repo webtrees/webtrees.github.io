@@ -4,8 +4,6 @@ title: Introduction
 order: 1
 ---
 
-# Introduction
-
 webtrees is the web's leading online collaborative genealogy application.
 
 - It works from standard GEDCOM files and is therefore compatible with every major desktop application.

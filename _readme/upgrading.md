@@ -4,8 +4,6 @@ title: Upgrading
 order: 4
 ---
 
-# Upgrading
-
 Upgrading webtrees is quick and easy. It is strongly recommended that you upgrade your installation whenever a new version is made available. Even minor webtrees version updates usually contain a significant number of bug fixes as well as interface improvements and program enhancements.
 
 ## Automatic Upgrade

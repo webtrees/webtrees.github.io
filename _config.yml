@@ -11,6 +11,7 @@ edit_text: Edit this page
 baseurl: ""
 date_format: "%b %-d, %Y"
 show_excerpts: true
+permalink: pretty
 collections:
   posts:
     output: true

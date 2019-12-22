@@ -3,7 +3,7 @@ layout: page
 title: FAQ - Downgrade
 ---
 
-# Can I downgrade to an earlier version? #
+## Can I downgrade to an earlier version?
 
 In general no.  Upgrades may make changes to the database structure (often called the “schema”).  The old code will not work with the new database structure.
 

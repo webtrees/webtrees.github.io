@@ -3,7 +3,7 @@ layout: page
 title: FAQ - Template for config.ini.php
 ---
 
-# FAQ - What should the file data/config.ini.php look like #
+## What should the file data/config.ini.php look like?
 
 This is a typical `config.ini.php`
 

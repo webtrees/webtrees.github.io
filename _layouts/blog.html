@@ -4,6 +4,10 @@ layout: default
 
 <main id="page-content">
   <div class="narrow-wrapper">
+    {%- if page.title -%}
+      <h1 class="page-title">{{ page.title | escape }}</h1>
+    {%- endif -%}
+
     <section class="post-list">
       <!-- Loop through paginated posts -->
       {%- for post in paginator.posts -%}

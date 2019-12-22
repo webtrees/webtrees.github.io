@@ -3,7 +3,7 @@ layout: page
 title: FAQ - How do I see errors in XHR requests
 ---
 
-# FAQ - How do I see errors in XHR requests? #
+## How do I see errors in XHR requests?
 
 Many pages show their contents in a dynamic table that allows you
 to search, sort, view data one page at a time.  For example, the
@@ -11,7 +11,7 @@ admin pages for users, media, changes, logs, etc.
 
 If there is an error while generating the data for these pages,
 you may see an error message "Invalid JSON response" (or similar).
- 
+
 There is generally a helpful error message hidden in the response,
 and you can follow these steps to find it.
 
