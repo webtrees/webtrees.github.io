@@ -9,8 +9,8 @@ layout: default
         <h1 class="post-title">{{ page.title | escape }}</h1>
 
         <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-            {{ page.date | date: date_format }}
+          {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
         </time>
       </header>
       <main class="post-content">
@@ -20,11 +20,11 @@ layout: default
 
     <section class="pagination">
       {%- if page.next -%}
-      <a href="{{ page.next.url }}" title="Next Post" class="newer"><i class="fa fa-angle-left"></i> {{ page.next.title }}</a>
+        <a href="{{ page.next.url }}" title="Next Post" class="newer"><i class="fa fa-angle-left"></i> {{ page.next.title }}</a>
       {%- endif -%}
 
       {%- if page.previous -%}
-      <a href="{{ page.previous.url }}" title="Previous Post" class="older">{{ page.previous.title }} <i class="fa fa-angle-right"></i></a>
+        <a href="{{ page.previous.url }}" title="Previous Post" class="older">{{ page.previous.title }} <i class="fa fa-angle-right"></i></a>
       {%- endif -%}
     </section>
 

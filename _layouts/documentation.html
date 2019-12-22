@@ -15,12 +15,13 @@ layout: default
         <i class="fas fa-chevron-right"></i>
       </button>
 
+      <!-- Generate navigation links for pages in collection -->
       {%- assign doclist = site[page.collection] | sort: 'order' -%}
       <ul>
         {%- for doc in doclist -%}
         <!-- Only list child content pages -->
         {%- if doc.slug != "index" -%}
-        <li{% if page.slug == doc.slug %} class="active"{% endif %}><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+          <li{% if page.slug == doc.slug %} class="active"{% endif %}><a href="{{ doc.url }}">{{ doc.title }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
