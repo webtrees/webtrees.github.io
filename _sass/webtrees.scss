@@ -210,7 +210,8 @@ input {
   }
 }
 
-button {
+button,
+.button {
   background-color: $secondary-color;
   border: 1px solid $secondary-color;
   border-radius: 3px;
@@ -226,6 +227,7 @@ button {
   &:hover {
     background-color: lighten($secondary-color, 10%);
     border: 1px solid lighten($secondary-color, 10%);
+    color: #fff;
     cursor: pointer;
   }
 }
@@ -274,7 +276,8 @@ button {
   }
 
   input,
-  button {
+  button,
+  .button {
     box-shadow: none;
     margin-bottom: 0;
   }
@@ -370,10 +373,6 @@ button {
 
   ul li:hover ul {
     display: block;
-  }
-
-  button {
-  //  display: none; // temporary
   }
 
   @media (max-width: $breakpoint-charlie) {
@@ -834,7 +833,8 @@ section {
     max-width: 50%;
   }
 
-  button {
+  button,
+  .button {
     box-shadow: 1px 4px 6px #000;
     padding: 16px 50px;
     padding: 1.6rem 5rem;
@@ -854,7 +854,8 @@ section {
       max-width: 90%;
     }
 
-    button {
+    button,
+    .button {
       padding: 12px 15px;
       padding: 1.2rem 1.5rem;
     }
