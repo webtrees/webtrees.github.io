@@ -1,66 +1,66 @@
 <!-- _includes/footer.html -->
-<div class="container">
-	<div class="row">
-		<div class="col-sm">
-			<ul class="contact-list">
-				<li>
-					{% if site.author %}
-					{{ site.author | escape }}
-					{% else %}
-					{{ site.title | escape }}
-					{% endif %}
-				</li>
-				{% if site.email %}
-				<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-				{% endif %}
-			</ul>
-		</div>
+<div class="wide-wrapper">
+  <div class="col-container">
+    <div class="one-third">
+      <ul class="contact-list">
+        <li>
+          {%- if site.author -%}
+            {{ site.author | escape }}
+          {%- else -%}
+            {{ site.title | escape }}
+          {%- endif -%}
+        </li>
+        {%- if site.email -%}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {%- endif -%}
+      </ul>
+    </div>
 
-		<div class="col-sm">
-			<ul class="list-unstyled">
-				<li>
-					<i class="fa fa-fw fa-download"></i>
-					<a href="/download">Download</a>
-				</li>
-				<li>
-					<i class="fa fa-fw fa-external-link-alt"></i>
-					<a href="https://dev.webtrees.net/demo-stable">Live demo (stable)</a>
-				</li>
-				<li>
-					<i class="fa fa-fw fa-external-link-alt"></i>
-					<a href="https://dev.webtrees.net/demo-dev">Live demo (beta)</a>
-				</li>
-				<li>
-					<i class="fa fa-fw fa-credit-card"></i>
-					<a href="https://donate.webtrees.net">Donate</a> to webtrees
-				</li>
-				<li>
-					<i class="fa fa-fw fa-language"></i>
-					<a href="https://translate.webtrees.net">Translations</a>
-				</li>
-				<li>
-					<i class="fab fa-fw fa-github"></i>
-					<a href="https://www.github.com/{{ site.github_username }}">Source code</a>
-				</li>
-				<li>
-					<i class="fa fa-fw fa-chart-pie"></i>
-					<a href="https://dev.webtrees.net/statistics.html">Installation statistics</a>
-				</li>
-				<li>
-					<i class="fa fa-fw fa-rss"></i>
-					Subscribe via <a href="/feed.xml">RSS</a>
-				</li>
-			</ul>
-		</div>
+    <div class="one-third">
+      <ul class="list-unstyled">
+        <li>
+          <i class="fa fa-fw fa-download"></i>
+          <a href="{% link download/index.md %}">Download</a>
+        </li>
+        <li>
+          <i class="fa fa-fw fa-external-link-alt"></i>
+          <a href="https://dev.webtrees.net/demo-stable">Live demo (stable)</a>
+        </li>
+        <li>
+          <i class="fa fa-fw fa-external-link-alt"></i>
+          <a href="https://dev.webtrees.net/demo-dev">Live demo (beta)</a>
+        </li>
+        <li>
+          <i class="fa fa-fw fa-credit-card"></i>
+          <a href="https://donate.webtrees.net">Donate</a> to webtrees
+        </li>
+        <li>
+          <i class="fa fa-fw fa-language"></i>
+          <a href="https://translate.webtrees.net">Translations</a>
+        </li>
+        <li>
+          <i class="fab fa-fw fa-github"></i>
+          <a href="https://github.com/{{ site.main_github_repo }}">Source code</a>
+        </li>
+        <li>
+          <i class="fa fa-fw fa-chart-pie"></i>
+          <a href="https://dev.webtrees.net/statistics.html">Installation statistics</a>
+        </li>
+        <li>
+          <i class="fa fa-fw fa-rss"></i>
+          Subscribe via <a href="/feed.xml">RSS</a>
+        </li>
+      </ul>
+    </div>
 
-		<div class="col-sm">
-			<p>{{ site.description | escape }}</p>
-			<p>
-				webtrees is free, open-source software.  It runs on your own webserver.
-				If you do not have your own server, or the skills to manage one, then
-				<a href="https://hosting.webtrees.net">specialist webtrees hosting</a>
-				is available.
-			</p>
-		</div>
-	</div>
+    <div class="one-third">
+      <p>{{ site.description | escape }}</p>
+      <p>
+        webtrees is free, open-source software.  It runs on your own webserver.
+        If you do not have your own server, or the skills to manage one, then
+        <a href="https://hosting.webtrees.net">specialist webtrees hosting</a>
+        is available.
+      </p>
+    </div>
+  </div>
 </div>

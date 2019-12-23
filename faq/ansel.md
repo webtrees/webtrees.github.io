@@ -3,7 +3,7 @@ layout: page
 title: FAQ - ANSEL encoding
 ---
 
-# Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported. #
+## Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported.
 
 webtrees does not currently have the ability to import GEDCOM files
 with ANSEL encoding.

@@ -3,7 +3,7 @@ layout: page
 title: FAQ - iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed
 ---
 
-# FAQ - iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed #
+## iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed
 
 Synology servers disable various PHP modules, even though they should be enabled by default.
 

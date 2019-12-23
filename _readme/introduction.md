@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: documentation
 title: Introduction
 order: 1
 ---
-
-# Introduction
 
 webtrees is the web's leading online collaborative genealogy application.
 

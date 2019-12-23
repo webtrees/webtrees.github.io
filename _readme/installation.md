@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: documentation
 title: Installation
 order: 3
 ---
-
-# Installation
 
 1. Download the .ZIP file for latest stable version from [github.com](https://github.com/fisharebest/webtrees/releases/latest).
 2. Unzip the files and then upload them to an empty folder on your web server.

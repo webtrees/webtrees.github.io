@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Read me
+permalink: readme/
 ---
-
-# Read me
 
 Basic instructions for installing and managing webtrees
 

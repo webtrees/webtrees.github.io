@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Upgrade
-permalink: /upgrade
+title: Upgrade from webtrees-1.7 to webtrees-2.0
 ---
-
-# Upgrade from webtrees-1.7 to webtrees-2.0
 
 ## Manual Upgrade Steps
 

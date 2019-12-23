@@ -1,24 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		{% include head.html %}
-	</head>
+<head>
+  {%- include head.html -%}
+</head>
 
-	<body>
-		<a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
+<body id="{{ page.layout }}">
+  <a href="#page-content" class="sr-only sr-only-focusable">Skip to main content</a>
 
-		<header class="container">
-			{% include navigation.html %}
-		</header>
+  <header id="site-header">
+    <div class="wide-wrapper">
+      <div class="col-container">
+        <a href="{{ "/" | relative_url }}" id="site-title">{{ site.title | escape }}</a>
 
-		<main class="page-content" aria-label="Content" id="page-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
-			<div class="container">
-				{{ content }}
-			</div>
-		</main>
+        {%- include navigation.html -%}
 
-		<footer class="footer">
-			{% include footer.html %}
-		</footer>
-	</body>
+        <div id="google_translate_element"></div>
+
+        <form id="site-search" action="search">
+          <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
+        </form>
+      </div>
+    </div>
+  </header>
+
+  <main id="site-content" tab_index="-1"><!-- tab-index is required for skip-to-navigation in IE -->
+    {{ content }}
+  </main>
+
+  <footer id="site-footer">
+    {%- include footer.html -%}
+  </footer>
+
+  <!-- Google translation widget -->
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+
+      // Shorten widget content
+      var translateButtonContent = document.getElementsByClassName('goog-te-menu-value')[0];
+      translateButtonContent.innerHTML = 'Language';
+    }
+  </script>
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  <script src="{{ "/assets/js/script.js" | relative_url }}"></script>
+</body>
 </html>

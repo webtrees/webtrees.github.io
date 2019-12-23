@@ -1,0 +1,106 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <span class="tagline">the web’s leading online collaborative genealogy application</span>
+
+  <a href="{% link _readme/index.md %}" class="button">Get Started</a>
+</section>
+
+<div class="alert">
+  <i class="fas fa-exclamation-triangle"></i> This site will eventually replace <a href="http://wiki.webtrees.net">http://wiki.webtrees.net</a> and the non-forum pages in <a href="https://www.webtrees.net">https://www.webtrees.net</a>.
+</div>
+
+<section>
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-half">
+        <span class="icon-lg">
+          <i class="far fa-file-code"></i>
+        </span>
+
+        <h2>Free & Open-Source</h2>
+
+        <p>webtrees is open-source software, which means it’s constantly improved by a community of developers and costs $0 - yes, that means totally FREE! All you need to use it is a website with PHP and MySQL installed.</p>
+
+        <p>It works from standard GEDCOM files, and is therefore compatible with every major desktop application; and it aims to be efficient and effective by using the right combination of third-party tools, design techniques and open standards.</p>
+      </div>
+      <div class="one-half">
+        <img src="assets/img/tree-mock-screen.png" alt="Example Pedigree Screenshot">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #f7f7f7;">
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-users"></i>
+        </span>
+
+        <h2>Collaborative</h2>
+
+        <p>Create additional user accounts so you can build your tree together with your relatives around the world.</p>
+      </div>
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-cogs"></i>
+        </span>
+
+        <h2>Customizable</h2>
+
+        <p>Configure page modules, menus, charts, reports, and more. Give your site a little flair with different themes- choose from the six default or browse themes from the community.</p>
+      </div>
+      <div class="one-third">
+        <span class="icon-md inverted">
+          <i class="fas fa-globe"></i>
+        </span>
+
+        <h2>International</h2>
+
+        <p>Choose from over 60 languages and numerous surname conventions, such as surname-first order, matrilineal surname tradition, patronymic or matronymic surnames, and more.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #092134; color: #fff;">
+  <div class="narrow-wrapper">
+    <div class="col-container">
+      <div class="one-third">
+        <span class="icon-lg float-right">
+          <i class="fas fa-lock"></i>
+        </span>
+      </div>
+      <div class="two-thirds">
+        <h2>Secure & Private</h2>
+
+        <p>This is a VERY important aspect of putting your family history on the web. With webtrees your data is as secure as you want it to be. Privacy settings are flexible, and control is configurable at multiple levels.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background-color: #f7f7f7;">
+  <div class="narrow-wrapper text-center">
+    <p>See more <a href="{% link features.md %}">features</a>, try a <a href="https://dev.webtrees.net/demo-stable">demo</a>, or</p>
+
+    <a href="{% link _readme/index.md %}" class="button">Get Started</a>
+  </div>
+</section>
+
+<section>
+  <div class="wide-wrapper">
+    <div class="col-container">
+      <div class="one-half bordered">
+        {%- include latest-posts.html -%}
+      </div>
+      <div class="one-half bordered">
+        {%- include latest-topics.html -%}
+      </div>
+    </div>
+  </div>
+</section>

@@ -3,7 +3,7 @@ layout: page
 title: FAQ - Cannot create thumbnails
 ---
 
-# FAQ - Cannot create thumbnails #
+## Cannot create thumbnails
 
 Creating thumbnail images (i.e. small versions) requires two things.
 

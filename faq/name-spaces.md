@@ -3,7 +3,7 @@ layout: page
 title: FAQ - missing spaces in names
 ---
 
-# FAQ - There are no spaces between the given names and surnames #
+## There are no spaces between the given names and surnames
 
 This is because the software that created your GEDCOM file did
 not include the space.

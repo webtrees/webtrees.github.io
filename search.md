@@ -1,15 +1,29 @@
 ---
 layout: page
 title: Search
-permalink: /search
 ---
 
-<script>
-	var results = new RegExp('[\?&]q=([^&#]*)').exec(window.location.href);
-	$("input[name=q]").val(results[1] || '');
-</script>
+<form action="search">
+  <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
+</form>
 
 <script>
+/*
+ * Populate title with search term
+ */
+
+const urlParams = new URLSearchParams(window.location.search);
+const query = urlParams.get('q');
+
+if (query) {
+  var pageHeading = document.getElementsByTagName('h1')[0];
+  pageHeading.innerHTML += ' for \'' + query + '\'';
+}
+
+/*
+ * Get search results
+ */
+
 	(function() {
 		var cx = '000152751295590832558:29llhg8imvi';
 		var gcse = document.createElement('script');
@@ -21,4 +35,3 @@ permalink: /search
 	})();
 </script>
 <gcse:search></gcse:search>
-

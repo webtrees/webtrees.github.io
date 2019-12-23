@@ -4,22 +4,23 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<title>{%- if page.title -%}{{ page.title | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%}</title>
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <!-- Stylesheets -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous" />
-
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Nunito:400,400i,800,800i&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+<!-- RSS Feed -->
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="/feed.xml">
 
 <!-- Javascript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.js" integrity="sha256-2JRzNxMJiS0aHOJjG+liqsEOuBb6++9cY4dSOyiijX4=" crossorigin="anonymous"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/popper.min.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=" crossorigin="anonymous"></script>
+{%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- include analytics.html -%}
+{%- endif -%}

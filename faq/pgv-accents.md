@@ -3,7 +3,7 @@ layout: page
 title: FAQ - PGV letters with accents are corrupted
 ---
 
-# FAQ - Letters with accents have become corrupted, so é becomes Ã©, è becomes Ã¨, and so on. #
+## Letters with accents have become corrupted, so é becomes Ã©, è becomes Ã¨, and so on.
 
 Modern software uses UTF8 encoding to store letters with accents, foreign scripts, etc.
 

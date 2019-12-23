@@ -3,7 +3,7 @@ layout: page
 title: FAQ - password
 ---
 
-# FAQ - I forgot my password and cannot log in #
+## I forgot my password and cannot log in
 
 There are several ways to reset your password.
 
@@ -65,4 +65,3 @@ if ($stmt->rowCount() > 0) {
 Copy the file to the webserver and run it by typing the URL into your browser.  e.g. `http://your-site.com/path-to-webtrees/password.php`.
 
 Remember to delete the file when you are finished.
-

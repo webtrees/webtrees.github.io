@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: documentation
 title: Backup
 order: 7
 ---
-
-# Backup
 
 Backups are good. Whatever problem you have, it can always be fixed from a good backup.
 
