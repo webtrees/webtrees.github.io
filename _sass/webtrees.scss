@@ -20,6 +20,14 @@ $breakpoint-charlie: 600px;
   box-sizing: border-box;
 }
 
+/* The webtrees logo uses the Anja Eliane font.  The subset contains just the letters bestrw. */
+@font-face {
+  font-family: 'webtrees';
+  src: url('/assets/fonts/AnjaEliane-subset.woff2') format('woff2'),
+  url('/assets/fonts/AnjaEliane-subset.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /*
  * Global Elements
@@ -406,10 +414,11 @@ button,
 }
 
 #site-title {
+  font-family: webtrees, sans-serif;
+  -webkit-text-stroke: thin black;
   color: #fff;
-  font-size: 32px;
-  font-size: 3.2rem;
-  font-weight: bold;
+  font-size: 40px;
+  font-size: 4rem;
   margin-right: 40px;
   margin-right: 4rem;
 
