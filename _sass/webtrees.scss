@@ -218,6 +218,7 @@ button,
   border-radius: 3px;
   box-shadow: 1px 4px 6px #ddd;
   color: #fff;
+  display: inline-block;
   font-size: 16px;
   font-size: 1.6rem;
   padding: 12px 15px;
@@ -424,6 +425,8 @@ button,
   margin-right: 4rem;
 
   @media (max-width: $breakpoint-alpha) {
+    font-size: 32px;
+    font-size: 3.2rem;
     margin-right: 20px;
     margin-right: 2rem;
   }
@@ -469,12 +472,14 @@ button,
   ul ul {
     background-color: #f7f7f7;
     border-radius: 3px;
-    display: none;
-    padding: 10px 0;
-    padding: 1rem 0;
+    height: auto;
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
     position: absolute;
     top: 36px;
     top: 3.6rem;
+    transition: max-height .1s, padding .1s;
     width: 200px;
     width: 20rem;
 
@@ -499,8 +504,10 @@ button,
     }
   }
 
-  ul li:hover ul {
-    display: block;
+  ul li.opened ul {
+    max-height: 500px;
+    padding: 10px 0;
+    padding: 1rem 0;
   }
 
   @media (max-width: $breakpoint-charlie) {
@@ -542,7 +549,8 @@ button,
     }
 
     ul ul {
-      display: block;
+      max-height: 500px;
+      max-height: 50rem;
       padding: 0;
       position: static;
       width: 100%;
@@ -571,8 +579,8 @@ button,
   left: 0;
   margin-right: 20px;
   margin-right: 2rem;
-  padding: 23px 15px;
-  padding: 2.3rem 1.5rem;
+  padding: 22.5px 15px;
+  padding: 2.25rem 1.5rem;
   position: absolute;
   top: 0;
   z-index: 99;
@@ -693,8 +701,13 @@ button,
 /* Site Body */
 
 #site-content {
-  margin-top: 104px;
-  margin-top: 10.4rem;
+  margin-top: 105px;
+  margin-top: 10.5rem;
+
+  @media (max-width: $breakpoint-alpha) {
+    margin-top: 104px;
+    margin-top: 10.4rem;
+  }
 
   @media (max-width: $breakpoint-bravo) {
     margin-top: 56px;
@@ -702,8 +715,8 @@ button,
   }
 
   @media (max-width: $breakpoint-charlie) {
-    margin-top: 48px;
-    margin-top: 4.8rem;
+    margin-top: 47px;
+    margin-top: 4.7rem;
   }
 }
 
@@ -744,10 +757,6 @@ button,
     &.opened {
       right: 0;
     }
-  }
-
-  @media (max-width: $breakpoint-charlie) {
-    top: 48px;
   }
 }
 
