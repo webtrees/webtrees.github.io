@@ -25,7 +25,6 @@ paginate_path: "/blog/page:num/"
 
 # External accounts
 main_github_repo:  fisharebest/webtrees
-google_analytics: UA-89628860-1
 
 # Build settings
 markdown: kramdown
