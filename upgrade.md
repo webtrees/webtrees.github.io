@@ -7,7 +7,7 @@ title: Upgrade from webtrees-1.7 to webtrees-2.0
 
 1. Backup both your webtrees directory and your MySQL database.
 2. Optional: If you wish to gracefully handle visitors during the upgrade, create a file `/data/offline.txt`. If it contains a message, it will be shown to your users.  Otherwise a default message will be shown.
-3. [Download](https://github.com/fisharebest/webtrees/releases/tag/2.0.0) the webtrees-2.0 .zip file.
+3. Download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD].
 4. Unzip the files and upload them to the webtrees directory on your web server.
 5. If you had created an `offline.txt` file, delete it now.
 6. Because your database connection details were preserved in `config.ini.php` in the `data` directory, your database should be subsequently updated the next time you access your webtrees installation via a web browser.
@@ -99,3 +99,5 @@ You did this by creating a file on the server to replace the default thumbnail. 
 In webtrees-2.0, you create custom thumbnails by adding a second media file to a media object.  (Media objects can now contain many media files.)
 
 There is a tool in the control panel to help find and import custom thumbnails.
+
+[DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip

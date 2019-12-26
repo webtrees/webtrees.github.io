@@ -5,6 +5,8 @@ email: fisharebest@gmail.com
 description: >
   webtrees is a web application that allows you to publish your genealogy online,
   collaborate with family members and take control of your data.
+latest_version: "2.0.0"
+latest_version_17: "1.7.16"
 url: "https://webtrees.github.io"
 this_github_repo: webtrees/webtrees.github.io
 edit_text: Edit this page
