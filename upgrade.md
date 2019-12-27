@@ -18,7 +18,7 @@ title: Upgrade from webtrees-1.7 to webtrees-2.0
 
 In webtrees-1.7, webtrees attempted to detect the URL of the site.  This was not always reliable.  Sometimes, it was not even possible.
 
-In webtrees-2.0, you must specify the URL of your site in the file `/data/config.ini`. Add a line using the following format:
+In webtrees-2.0, you must specify the URL of your site in the file `/data/config.ini.php`. Add a line using the following format:
 
 `base_url="https://www.example.com/webtrees"`
 
