@@ -2,6 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 permalink: faq/
+date: 2019-12-31
 ---
 
 ## Server administration ##

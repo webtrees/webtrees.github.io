@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - password
+date: 2019-12-31
 ---
 
 ## I forgot my password and cannot log in

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - How do I see errors in XHR requests
+date: 2019-12-31
 ---
 
 ## How do I see errors in XHR requests?

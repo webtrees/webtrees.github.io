@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - How do I enable pretty URLs?
+date: 2019-12-31
 ---
 
 ## How do I enable pretty URLs?

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - missing spaces in names
+date: 2019-12-31
 ---
 
 ## There are no spaces between the given names and surnames

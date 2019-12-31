@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The GEDCOM data format
+date: 2019-12-31
 ---
 
 GEDCOM stands for “**GE**nealogy **D**ata **COM**munciation”. It is a file-format used to transfer genealogy data from one application to another.  It was created by the Church Of Latter Day Saints and has since become a standard format used by almost all genealogy applications.

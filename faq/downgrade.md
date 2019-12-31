@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - Downgrade
+date: 2019-12-31
 ---
 
 ## Can I downgrade to an earlier version?

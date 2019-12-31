@@ -2,6 +2,7 @@
 layout: page
 title: Download
 permalink: download/
+date: 2019-12-31
 ---
 
 The latest version of webtrees requires a [supported version of PHP][PHP].

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - Template for config.ini.php
+date: 2019-12-31
 ---
 
 ## What should the file data/config.ini.php look like?

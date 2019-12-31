@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - The upgrade fails with the error “A non well formed numeric value encountered”
+date: 2019-12-31
 ---
 
 ## The upgrade fails with the error “A non well formed numeric value encountered”

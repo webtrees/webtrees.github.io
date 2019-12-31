@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - Cannot create thumbnails
+date: 2019-12-31
 ---
 
 ## Cannot create thumbnails

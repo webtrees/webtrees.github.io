@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - PGV letters with accents are corrupted
+date: 2019-12-31
 ---
 
 ## Letters with accents have become corrupted, so é becomes Ã©, è becomes Ã¨, and so on.

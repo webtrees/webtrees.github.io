@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "New webtrees release 2.0.0"
-date:   2019-12-07 00:00:00 +0000
-categories:
+title:  "webtrees 2.0.0 released"
+date:   2019-12-07
+sitemap:
+    priority: 0.7
 ---
 
 webtrees 2.0.0 is now available for download. Yay!

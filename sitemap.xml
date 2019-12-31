@@ -1,0 +1,30 @@
+---
+layout: null
+sitemap:
+    exclude: "yes"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gitcdn.xyz/repo/pedroborges/xml-sitemap-stylesheet/master/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in site.pages %}
+    {%if page.sitemap.exclude != "yes" %}
+    <url>
+        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+        <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+        <changefreq>{{ page.sitemap.changefreq | default: "monthly" }}</changefreq>
+        <priority>{{ page.sitemap.priority | default: "1.0" }}</priority>
+    </url>
+    {% endif %}
+    {% endfor %}
+
+    {% for post in site.posts %}
+    {%if post.sitemap.exclude != "yes" %}
+    <url>
+        <loc>{{ site.url }}{{ post.url | remove: "index.html" }}</loc>
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <changefreq>{{ post.sitemap.changefreq | default: "monthly" }}</changefreq>
+        <priority>{{ post.sitemap.priority | default: "1.0" }}</priority>
+    </url>
+    {% endif %}
+    {% endfor %}
+</urlset>

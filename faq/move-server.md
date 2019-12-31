@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - move to a new server
+date: 2019-12-31
 ---
 
 ## How to move webtrees to a new server

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Upgrade from webtrees-1.7 to webtrees-2.0
+date: 2019-12-31
 ---
 
 ## Manual Upgrade Steps

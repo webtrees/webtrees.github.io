@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ - iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed
+date: 2019-12-31
 ---
 
 ## iconv() Wrong charset, conversion from 'utf-8' to 'utf-16be' is not allowed

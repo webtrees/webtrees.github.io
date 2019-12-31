@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Search
+date: 2019-12-31
+sitemap:
+    exclude: yes
 ---
 
 <form action="search">

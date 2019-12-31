@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "New webtrees release 1.7.16"
-date:   2019-12-07 00:00:00 +0000
-categories:
+title:  "webtrees 1.7.16 release"
+date:   2019-12-07
+sitemap:
+    priority: 0.7
 ---
 
 webtrees 1.7.16 is now available. As well as a new translation (Hindi), it also includes a security fix.
