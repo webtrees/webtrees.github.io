@@ -6,7 +6,8 @@ sitemap:
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="https://gitcdn.xyz/repo/pedroborges/xml-sitemap-stylesheet/master/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
+    {% assign pages = site.pages | sort: 'url' %}
+    {% for page in pages %}
     {%if page.sitemap.exclude != "yes" %}
     <url>
         <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
