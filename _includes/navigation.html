@@ -25,11 +25,12 @@
         Forum{%- if segment[1] == 'forum' -%} <span class="sr-only">(current)</span>{%- endif -%}
       </a>
     </li>
-    <li>
+    <li class="{% if segment[1] == 'demo' %}active{% endif %}">
       <a href="#">Demo</a>
       <ul>
-        <li><a href="https://dev.webtrees.net/demo-stable">Stable version</a></li>
-        <li><a href="https://dev.webtrees.net/demo-dev">Beta version</a></li>
+        <li><a href="https://dev.webtrees.net/demo-stable">Live demo - {{ site.latest_version}}</a></li>
+        <li><a href="https://dev.webtrees.net/demo-dev">Live demo - dev</a></li>
+        <li><a href="{% link demo/gallery.md %}">Gallery</a></li>
       </ul>
     </li>
     <li{% if segment[1] == 'download' %} class="active"{% endif %}>
