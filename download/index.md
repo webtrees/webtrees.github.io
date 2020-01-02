@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download
-permalink: download/
+title: Download webtrees
+permalink: download
 date: 2019-12-31
 ---
 

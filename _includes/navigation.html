@@ -1,42 +1,83 @@
 {%- assign segment = page.url | split: '/' -%}
 
 <nav id="site-navigation">
-  <button id="site-nav-toggle">
-    <span class="menu-icon"></span>
-  </button>
+    <button id="site-nav-toggle">
+        <span class="menu-icon"></span>
+    </button>
 
-  <ul>
-    <li>
-      <a href="#">
-        Docs
-      </a>
-      <ul>
-        <li{% if segment[1] == 'readme' %} class="active"{% endif %}><a href="{% link _readme/index.md %}">Readme{%- if segment[1] == 'readme' -%} <span class="sr-only">(current)</span>{%- endif -%}</a></li>
-        <li{% if segment[1] == 'faq' %} class="active"{% endif %}><a href="{% link faq/index.md %}">FAQ{%- if segment[1] == 'faq' -%} <span class="sr-only">(current)</span>{%- endif -%}</a></li>
-      </ul>
-    </li>
-    <li{% if segment[1] == 'blog' %} class="active"{% endif %}>
-      <a href="{% link blog/index.html %}">
-        Blog{%- if segment[1] == 'blog' -%} <span class="sr-only">(current)</span>{%- endif -%}
-      </a>
-    </li>
-    <li{% if segment[1] == 'forum' %} class="active"{% endif %}>
-      <a href="https://www.webtrees.net/index.php/en/forum">
-        Forum{%- if segment[1] == 'forum' -%} <span class="sr-only">(current)</span>{%- endif -%}
-      </a>
-    </li>
-    <li class="{% if segment[1] == 'demo' %}active{% endif %}">
-      <a href="#">Demo</a>
-      <ul>
-        <li><a href="https://dev.webtrees.net/demo-stable">Live demo - {{ site.latest_version}}</a></li>
-        <li><a href="https://dev.webtrees.net/demo-dev">Live demo - dev</a></li>
-        <li><a href="{% link demo/gallery.md %}">Gallery</a></li>
-      </ul>
-    </li>
-    <li{% if segment[1] == 'download' %} class="active"{% endif %}>
-      <a href="{% link download/index.md %}">
-        Download{%- if segment[1] == 'download' -%} <span class="sr-only">(current)</span>{%- endif -%}
-      </a>
-    </li>
-  </ul>
+    <ul>
+        <li>
+            <a href="#">Docs</a>
+            <ul>
+                <li {% if segment[1]=='readme' %} class="active" {% endif %}>
+                    <a href="{% link _readme/index.md %}">Readme
+                        {%- if segment[1] == 'readme' -%}<span class="sr-only">(current)</span>{%- endif -%}
+                    </a>
+                </li>
+                <li
+                {% if segment[1]==
+                'faq' %} class="active"{% endif %}><a href="{% link faq/index.md %}">FAQ{%- if segment[1] == 'faq' -%}
+                <span class="sr-only">(current)</span>{%- endif -%}</a></li>
+            </ul>
+        </li>
+        <li
+        {% if segment[1]==
+        'blog' %} class="active"{% endif %}>
+        <a href="{% link blog/index.html %}">
+            Blog{%- if segment[1] == 'blog' -%}
+            <span class="sr-only">(current)</span>{%- endif -%}
+        </a>
+        </li>
+
+        <li class="{% if segment[1]=='forum' %}active{% endif %}">
+            <a href="https://www.webtrees.net/index.php/en/forum">
+                Forum
+                {%- if segment[1] == 'forum' -%}<span class="sr-only">(current)</span>{%- endif -%}
+            </a>
+        </li>
+
+        <li class="{% if segment[1] == 'demo' %}active{% endif %}">
+            <a href="#">
+              Demo
+              {%- if segment[1] == 'demo' -%}<span class="sr-only">(current)</span>{%- endif -%}
+            </a>
+            <ul>
+                <li>
+                    <a href="https://dev.webtrees.net/demo-stable">Live demo - {{ site.latest_version}}</a>
+                </li>
+
+                <li>
+                    <a href="https://dev.webtrees.net/demo-dev">Live demo - dev</a>
+                </li>
+
+                <li class="{% if segment[2] == 'gallery' %}active{% endif %}">
+                    <a href="{% link demo/gallery.md %}">Gallery</a>
+                    {% if segment[2] == 'gallery' %}<span class="sr-only">(current)</span>{% endif %}
+                </li>
+            </ul>
+        </li>
+
+        <li class="{% if segment[1] == 'download' %}active{% endif %}">
+            <a href="#">
+              Download
+              {%- if segment[1] == 'download' -%}<span class="sr-only">(current)</span>{%- endif -%}
+            </a>
+
+            <ul>
+                <li class="{% if segment[2] == null %}active{% endif %}">
+                    <a href="{% link download/index.md %}">
+                        webtrees
+                        {% if segment[2] == '' %}<span class="sr-only">(current)</span>{% endif %}
+                    </a>
+                </li>
+
+                <li class="{% if segment[2] == 'modules' %}active{% endif %}">
+                    <a href="{% link download/modules.md %}">
+                        Modules
+                        {% if segment[2] == 'modules' %}<span class="sr-only">(current)</span>{% endif %}
+                    </a>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </nav>
