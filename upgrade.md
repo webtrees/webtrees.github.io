@@ -35,6 +35,14 @@ In webtrees-1.7, the `/data` folder could contain symbolic links.
 
 In webtrees-2.0, symbolic links are not allowed.
 
+### Sending e-mail
+
+webtrees 2.0 no longer provides the “PHP Mail” option for sending e-mail.
+PHP Mail has serious security vulnerabilityes, and is no longer supported by
+major mail libraries.
+
+You will need to use sendmail (if your server provides it), or an SMTP server.
+
 ### robots.txt
 
 In webtrees-1.7, you must create this file yourself, using `robots-example.txt`.
