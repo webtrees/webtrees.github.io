@@ -57,6 +57,17 @@ However, if you enable [pretty URLs](/faq/urls), then webtrees will generate sui
 
 For example, the old URL `individual.php?ged=demo&pid=X123` will be redirected to the new URL `trees/demo/individual/X123`.
 
+### Notes tab - visibility and privacy
+
+In webtrees 1.7, setting the access level for the notes tab would implicitly
+set a privacy restriction for the notes themselves.  Hiding the tab would also hide
+the notes.
+
+In webtrees 2.0, if you disable or restrict access to the notes/media/sources tabs,
+then the note/media/source facts will instead be displayed on the “Facts and events” tab.
+
+You should add a privacy restriction for notes as well.
+
 ### “Primary” parents
 
 An individual can have multiple parents, for example birth and adopted.
