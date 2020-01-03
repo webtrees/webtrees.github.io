@@ -9,6 +9,16 @@ order: 3
 3. Open your web browser and type the URL for your webtrees site (for example, `http://www.yourserver.com/webtrees`) into the address bar.
 4. The webtrees setup wizard will automatically take you through the required steps.
 
+## Third-party installers
+
+There are a number of third-party installers and pre-built packages.
+If you have any problems with these installers, please contact the provider directly.
+
+* [Softaculous][SOFTACULOUS]
+* [Yunohost][YUNOHOST]
+* [Docker][DOCKER]
+
+
 ## Setup Wizard
 
 1. Language selection
@@ -28,3 +38,7 @@ If you have a GEDCOM file, you can import it into the tree. If not, just start c
 ## Next steps
 
 There are lots of configuration options. You'll probably want to review the privacy settings first. Don't worry too much about all the other options - the defaults are good for most people. If you get stuck, you can get friendly help and advice from the [Help forum](https://www.webtrees.net/index.php/en/forum/help-for-2-0).
+
+[SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
+[YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
+[DOCKER]: https://github.com/Salokyn/webtrees/tree/docker-2.0/docker
