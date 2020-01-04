@@ -77,6 +77,13 @@
                         {% if segment[2] == 'modules' %}<span class="sr-only">(current)</span>{% endif %}
                     </a>
                 </li>
+
+                <li class="{% if segment[2] == 'locations' %}active{% endif %}">
+                    <a href="{% link download/locations.md %}">
+                        Geographic data
+                        {% if segment[2] == 'locations' %}<span class="sr-only">(current)</span>{% endif %}
+                    </a>
+                </li>
             </ul>
         </li>
     </ul>
