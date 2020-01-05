@@ -46,11 +46,17 @@ NOTE: This function is a standard part of webtrees 2.0.
 
 ----------
 
+### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
+ 
+This module provides an extended “Relationships” chart. It also displays additional relationship
+information via the extended “Families” tab, and the extended “Facts and Events” tab.
+ 
+----------
+
 ### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-branches)
 
-This module is an enhancement of the webtrees Branches list which can be found in the
-main menu under Lists / Branches. If this module is activated it allows the user to
-expand or collapse each family branch to make viewing easier.
+This module is an modified version of the existing webtrees Branches list.
+It allows the user to expand or collapse each family branch to make viewing easier.
 
 ----------
 
@@ -135,8 +141,38 @@ module which customises the JustLight theme and provides more features.
 
 ----------
 
+### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
+ 
+This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
+using [OpenStreetMap](https://www.openstreetmap.org).
+ 
+----------
+
+### Places and Pedigree Map - by ric2016 - `2.0` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
+ 
+This module provides replacements for the original “Places” and “Pedigree map” modules,
+using location data from GEDCOM, as well as location data provided by other modules.
+ 
+----------
+
 ### Rural Theme - by jon48 - `1.7` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 It is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. Contrary to the majority of themes, it does not use the whole width of the screen, but wrap the content within a white panel on a brown background.
+
+----------
+
+### Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
+ 
+This module supports shared places as level 0 GEDCOM objects, on the basis of the
+[GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
+[GEDCOM 5.5.1](/downloads/gedcom-551.pdf) specification.
+It displays data via the extended “Facts and Events” tab, enhancing places with data
+obtained from the respective shared place.
+ 
+----------
+
+### Topola Interactive Tree - by PeWu - `1.7` - [website](https://github.com/PeWu/topola-webtrees)
+
+An interactive tree, showing ancestors and descendants.
 
 ----------
