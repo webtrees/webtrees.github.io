@@ -30,6 +30,20 @@ To remove a module or theme, just delete it.
 
 ----------
 
+### Ancestor Fan Chart - by MagicSunday - `2.0` - [website](https://github.com/magicsunday/webtrees-fan-chart)
+
+A replacement for the webtrees fan chart, this module uses the D3JS library to provide
+an attractive, animated fan chart.
+
+----------
+
+### Branch Export - by BlasiusSecundus - `1.7` - [website](https://github.com/BlasiusSecundus/branch_export)
+
+An alternative to the clippings cart, which allows parts of a tree to be extracted to
+a GEDCOM file.
+
+----------
+
 ### CommonCSS - by makitso - `2.0` - [website](https://github.com/makitso/commoncss) - [demo](https://skatekey.net)
 
 Global modifications to all themes, to provide a more compact display and allowing more
@@ -174,5 +188,11 @@ obtained from the respective shared place.
 ### Topola Interactive Tree - by PeWu - `1.7` - [website](https://github.com/PeWu/topola-webtrees)
 
 An interactive tree, showing ancestors and descendants.
+
+----------
+
+### Various - by André Dumas - `1.7` - [website](http://www.adumas.eu/wt/box)
+
+André has written several modules, but the download links on his site are not currently working.
 
 ----------
