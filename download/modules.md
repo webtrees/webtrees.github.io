@@ -37,6 +37,15 @@ information to fit on each page.
 
 ----------
 
+### Custom JS - by JustCarmen - `1.7` - [download](/downloads/modules/custom_js.zip)
+
+Allows you to add JavaScript to every webtrees page.  Typical uses are adding code for
+tools such as Google Analytics, or modifying existing content, such as adding footers.
+
+NOTE: This function is a standard part of webtrees 2.0.
+
+----------
+
 ### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-branches)
 
 This module is an enhancement of the webtrees Branches list which can be found in the
@@ -94,7 +103,14 @@ first generation down to the last, and provide a narrative overview of your fami
  
 ----------
 
-### JustBlack Theme - by JustCarmen - `1.7` [website](https://justcarmen.nl/themes/justblack-theme) - [demo](http://www.ahnen-recherche.de/webtrees)
+### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
+ 
+It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
+creating a place hierarchy with administrative levels from the date of the respective event.
+ 
+----------
+
+### JustBlack Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justblack-theme) - [demo](http://www.ahnen-recherche.de/webtrees)
 
 A dark-gray layout with orange and yellow accents. Smooth Top Navigation Menu.
 Nice font for titles. Colorbox support for pdf files. Responsive dialog boxes.
