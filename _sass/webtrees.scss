@@ -7,9 +7,9 @@ $breakpoint-alpha: 1200px;
 $breakpoint-bravo: 900px;
 $breakpoint-charlie: 600px;
 
-$header-height-alpha: 104px;
-$header-height-bravo: 56px;
-$header-height-charlie: 47px;
+$header-height-alpha: 6.5rem;
+$header-height-bravo: 3.5rem;
+$header-height-charlie: 2.938rem;
 
 
 /*
@@ -38,55 +38,44 @@ $header-height-charlie: 47px;
  */
 
 html {
-  font-size: 62.5%;
   overflow-x: hidden;
 }
 
 body {
   color: $text-color;
   font-family: Nunito, Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  font-size: 1.6rem;
+  font-size: 1rem;
   margin: 0;
   min-height: 100vh; // Make the footer stick to the bottom of the window
   overflow-x: hidden;
 }
 
 h1 {
-  font-size: 44px;
-  font-size: 4.4rem;
+  font-size: 2.75rem;
   font-weight: normal;
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
+  margin: 0 0 1.75rem 0;
 }
 
 h2 {
-  font-size: 26px;
-  font-size: 2.6rem;
+  font-size: 1.625rem;
   font-weight: normal;
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
+  margin: 0 0 1.75rem 0;
 }
 
 h3 {
-  font-size: 18px;
-  font-size: 1.8rem;
+  font-size: 1.125rem;
   font-weight: bold;
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
+  margin: 0 0 1.75rem 0;
 }
 
 p {
-  line-height: 28px;
-  line-height: 2.8rem;
-  margin: 0 0 28px 0;
-  margin-bottom: 0 0 2.8rem 0;
+  line-height: 1.75;
+  margin: 0 0 1.75rem 0;
 }
 
 ol,
 ul {
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
+  margin: 0 0 1.75rem 0;
 
   &.list-unstyled {
     padding: 0;
@@ -97,16 +86,13 @@ ul {
   }
 
   @media (max-width: $breakpoint-charlie) {
-    padding-left: 20px;
-    padding-left: 2rem;
+    padding-left: 1.25rem;
   }
 }
 
 li {
-  font-size: 16px;
-  font-size: 1.6rem;
-  line-height: 28px;
-  line-height: 2.8rem;
+  font-size: 1rem;
+  line-height: 1.75rem;
 }
 
 a {
@@ -119,8 +105,7 @@ a {
 }
 
 img {
-  margin-bottom: 20px;
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
   max-width: 100%;
 }
 
@@ -128,15 +113,14 @@ hr {
   background-color: #ddd;
   border: none;
   height: 1px;
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
+  margin: 0 0 1.75rem 0;
 }
 
 code {
   background-color: #eaeff2;
   border-radius: 3px;
   font-family: "Source Code Pro", Consolas, "Courier New", monospace;
-  padding: 2px 8px;
+  padding: 0.125rem 0.5rem;
   word-break: normal;
 }
 
@@ -144,16 +128,12 @@ div[class*="language-"] {
   background-color: #092134;
   border-radius: 3px;
   color: #fff;
-  font-size: 16px;
-  font-size: 1.6rem;
-  margin-bottom: 28px;
-  margin-bottom: 2.8rem;
-  padding: 40px;
-  padding: 4rem;
+  font-size: 1rem;
+  margin-bottom: 1.75rem;
+  padding: 2.5rem;
 
   pre {
-    line-height: 22px;
-    line-height: 2.2rem;
+    line-height: 1.375;
     margin: 0;
     white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
@@ -170,10 +150,8 @@ div[class*="language-"] {
 
 table {
   border-collapse: collapse;
-  margin: 0 0 28px 0;
-  margin: 0 0 2.8rem 0;
-  line-height: 22px;
-  line-height: 2.2rem;
+  margin: 0 0 1.75rem 0;
+  line-height: 1.375;
 }
 
 tr:nth-child(2n) {
@@ -187,14 +165,12 @@ tr:nth-child(2n+1) {
 th,
 td {
   border: 1px solid #ddd;
-  padding: 5px 10px;
-  padding: 0.5rem 1rem;
+  padding: 0.313rem 0.625rem;
 }
 
 th {
   background-color: #f4f4f4;
-  padding: 10px;
-  padding: 1rem;
+  padding: 0.625rem;
 }
 
 /* Forms */
@@ -204,23 +180,20 @@ input {
   border: 1px solid #ddd;
   border-radius: 3px;
   color: #888;
-  font-size: 16px;
-  font-size: 1.6rem;
-  margin-bottom: 28px;
-  margin-bottom: 2.8rem;
-  padding: 12px 15px;
-  padding: 1.2rem 1.5rem;
+  font-size: 1rem;
+  margin-bottom: 1.75rem;
+  padding: 0.75rem 0.938rem;
 
   &:focus {
-    box-shadow: 0 0 0 3px #f4f4f4;
+    box-shadow: 0 0 0 0.188rem #f4f4f4;
   }
 
   &[type="search"] {
     background-image: url('../img/icon_search.svg');
-    background-position: 15px center;
+    background-position: 0.833rem center;
     background-repeat: no-repeat;
-    background-size: 16px 16px;
-    padding: 12px 15px 12px 45px;
+    background-size: 1rem 1rem;
+    padding: 0.75rem 0.938rem 0.75rem 2.813rem;
   }
 }
 
@@ -229,13 +202,11 @@ button,
   background-color: $secondary-color;
   border: 1px solid $secondary-color;
   border-radius: 3px;
-  box-shadow: 1px 4px 6px #ddd;
+  box-shadow: 0.063rem 0.25rem 0.375rem #ddd;
   color: #fff;
   display: inline-block;
-  font-size: 16px;
-  font-size: 1.6rem;
-  padding: 12px 15px;
-  padding: 1.2rem 1.5rem;
+  font-size: 1rem;
+  padding: 0.75rem 0.938rem;
   text-transform: uppercase;
   transition: background 0.2s, border 0.2s;
 
@@ -257,26 +228,20 @@ button,
 .wide-wrapper {
   margin: auto;
   max-width: 1200px;
-  max-width: 120rem;
-  padding: 0 40px;
-  padding: 0 4rem;
+  padding: 0 2.5rem;
 
   @media (max-width: $breakpoint-charlie) {
-    padding: 0 30px;
-    padding: 0 3rem;
+    padding: 0 1.875rem;
   }
 }
 
 .narrow-wrapper {
   margin: auto;
   max-width: 720px;
-  max-width: 72rem;
-  padding: 0 40px;
-  padding: 0 4rem;
+  padding: 0 2.5rem;
 
   @media (max-width: $breakpoint-charlie) {
-    padding: 0 30px;
-    padding: 0 3rem;
+    padding: 0 1.875rem;
   }
 }
 
@@ -299,32 +264,27 @@ button,
   flex-basis: 50%;
 
   &:first-child {
-    padding-right: 20px;
-    padding-right: 2rem;
+    padding-right: 1.25rem;
   }
 
   &:last-child {
-    padding-left: 20px;
-    padding-left: 2rem;
+    padding-left: 1.25rem;
   }
 
   &.bordered {
     &:first-child {
       border-right: 1px solid #ddd;
-      padding-right: 40px;
-      padding-right: 4rem;
+      padding-right: 2.5rem;
     }
 
     &:last-child {
-      padding-left: 40px;
-      padding-left: 4rem;
+      padding-left: 2.5rem;
     }
   }
 
   @media (max-width: $breakpoint-bravo) {
     &:first-child {
-      padding: 0 0 20px 0;
-      padding: 0 0 2rem 0;
+      padding: 0 0 1.25rem 0;
     }
 
     &:last-child {
@@ -335,10 +295,8 @@ button,
       &:first-child {
         border-right: none;
         border-bottom: 1px solid #ddd;
-        margin-bottom: 40px;
-        margin-bottom: 4rem;
-        padding: 0 0 40px 0;
-        padding: 0 0 4rem 0;
+        margin-bottom: 2.5rem;
+        padding: 0 0 2.5rem 0;
       }
 
       &:last-child {
@@ -357,20 +315,17 @@ button,
   }
 
   &:nth-child(2) {
-    padding: 0 20px;
-    padding: 0 2rem;
+    padding: 0 1.25rem;
   }
 
   &:last-child {
-    padding-left: 20px;
-    padding-left: 2rem;
+    padding-left: 1.25rem;
   }
 
   @media (max-width: $breakpoint-bravo) {
     &:first-child,
     &:nth-child(2) {
-      padding: 0 0 20px 0;
-      padding: 0 0 2rem 0;
+      padding: 0 0 1.25rem 0;
     }
 
     &:last-child {
@@ -383,13 +338,11 @@ button,
   flex-basis: 66.66%;
 
   &:last-child {
-    padding-left: 20px;
-    padding-left: 2rem;
+    padding-left: 1.25rem;
   }
 
   @media (max-width: $breakpoint-bravo) {
-    padding: 0 0 20px 0;
-    padding: 0 0 2rem 0;
+    padding: 0 0 1.25rem 0;
 
     &:last-child {
       padding: 0;
@@ -403,8 +356,7 @@ button,
   background-color: $primary-color;
   color: #fff;
   left: 0;
-  padding: 30px 0;
-  padding: 3rem 0;
+  padding: 1.875rem 0;
   position: fixed;
   right: 0;
   top: 0;
@@ -422,32 +374,26 @@ button,
   }
 
   @media (max-width: $breakpoint-bravo) {
-    padding: 10px 0;
-    padding: 1rem 0;
+    padding: 0.625rem 0;
   }
 }
 
 #site-title {
-  font-family: webtrees, sans-serif;
+  color: #fff;
+  font-family: webtrees, Nunito, Arial, Helvetica, sans-serif;
+  font-size: 2.5rem;
+  margin-right: 2.5rem;
   -webkit-text-stroke: thin black;
   text-shadow: 0.2rem 0.2rem 0.4rem gray;
-  color: #fff;
-  font-size: 40px;
-  font-size: 4rem;
-  margin-right: 40px;
-  margin-right: 4rem;
 
   @media (max-width: $breakpoint-alpha) {
-    font-size: 32px;
-    font-size: 3.2rem;
-    margin-right: 20px;
-    margin-right: 2rem;
+    font-size: 2rem;
+    margin-right: 1.25rem;
   }
 
   @media (max-width: $breakpoint-charlie) {
-    font-size: 24px;
-    font-size: 2.4rem;
-    margin-left: 40px;
+    font-size: 1.5rem;
+    margin-left: 2.5rem;
   }
 }
 
@@ -471,12 +417,10 @@ button,
 
   a {
     color: #fff;
-    padding: 15px;
-    padding: 1.5rem;
+    padding: 0.938rem;
 
     @media (max-width: $breakpoint-alpha) {
-      padding: 15px 10px;
-      padding: 1.5rem 1rem;;
+      padding: 0.938rem 0.625rem;
     }
   }
 
@@ -490,11 +434,9 @@ button,
     overflow: hidden;
     padding: 0;
     position: absolute;
-    top: 36px;
-    top: 3.6rem;
-    transition: max-height .1s, padding .1s;
-    width: 200px;
-    width: 20rem;
+    top: 2.25rem;
+    transition: max-height 0.1s, padding 0.1s;
+    width: 12.5rem;
 
     li {
       display: block;
@@ -508,8 +450,7 @@ button,
     a {
       color: $text-color;
       display: block;
-      padding: 4px 14px;
-      padding: 0.4rem 1.4rem;
+      padding: 0.25rem 0.875rem;
 
       &:hover {
         color: $primary-color;
@@ -518,9 +459,8 @@ button,
   }
 
   ul li.opened ul {
-    max-height: 500px;
-    padding: 10px 0;
-    padding: 1rem 0;
+    max-height: 31.25rem;
+    padding: 0.625rem 0;
   }
 
   @media (max-width: $breakpoint-charlie) {
@@ -529,11 +469,10 @@ button,
       bottom: 0;
       left: -85%;
       overflow-y: scroll;
-      padding: 48px 0 0 0;
-      padding: 4.8rem 0 0 0;
+      padding: 3rem 0 0 0;
       position: fixed;
       top: 0;
-      transition: left .1s ease-out;
+      transition: left 0.1s ease-out;
       width: 85%;
 
       &.opened {
@@ -557,13 +496,11 @@ button,
     a {
       color: $text-color;
       display: block;
-      padding: 10px 30px;
-      padding: 1rem 3rem;
+      padding: 0.625rem 1.875rem;
     }
 
     ul ul {
-      max-height: 500px;
-      max-height: 50rem;
+      max-height: 31.25rem;
       padding: 0;
       position: static;
       width: 100%;
@@ -571,8 +508,7 @@ button,
       a {
         color: $text-color;
         display: block;
-        padding: 10px 40px;
-        padding: 1rem 4rem;
+        padding: 0.625rem 2.5rem;
 
         &:hover {
           color: $primary-color;
@@ -590,10 +526,8 @@ button,
   border-radius: 0;
   display: none;
   left: 0;
-  margin-right: 20px;
-  margin-right: 2rem;
-  padding: 22.5px 15px;
-  padding: 2.25rem 1.5rem;
+  margin-right: 1.25rem;
+  padding: 1.406rem 0.938rem;
   position: absolute;
   top: 0;
   z-index: 99;
@@ -610,11 +544,11 @@ button,
 .menu-icon {
   background: #fff;
   display: block;
-  height: 2px;
+  height: 0.125rem;
   position: relative;
-  -webkit-transition: background .2s ease-out;
-  transition: background .2s ease-out;
-  width: 18px;
+  -webkit-transition: background 0.2s ease-out;
+  transition: background 0.2s ease-out;
+  width: 1.125rem;
 
   #site-nav-toggle:hover & {
     background-color: $text-color;
@@ -631,8 +565,8 @@ button,
   display: block;
   height: 100%;
   position: absolute;
-  -webkit-transition: all .2s ease-out;
-  transition: all .2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
   width: 100%;
 
   #site-nav-toggle.opened:hover & {
@@ -645,7 +579,7 @@ button,
 }
 
 .menu-icon::before {
-  top: 5px;
+  top: 0.313rem;
 
   #site-nav-toggle.opened & {
     -webkit-transform: rotate(-45deg);
@@ -654,7 +588,7 @@ button,
 }
 
 .menu-icon::after {
-  top: -5px;
+  top: -0.313rem;
 
   #site-nav-toggle.opened & {
     -webkit-transform: rotate(45deg);
@@ -668,8 +602,7 @@ button,
 }
 
 #google_translate_element {
-  padding: 0 20px;
-  padding: 0 2rem;
+  padding: 0 1.25rem;
 
   .goog-te-gadget-icon {
     margin-bottom: 0;
@@ -683,14 +616,12 @@ button,
     background-color: #fcfcfc;
     border: 1px solid #ddd;
     border-radius: 3px;
-    padding: 12px 15px;
-    padding: 1.2rem 1.5rem;
+    padding: 0.75rem 0.938rem;
 
     .goog-te-menu-value {
       color: #888;
       font-family: Nunito, Arial, Helvetica, sans-serif;
-      font-size: 16px;
-      font-size: 1.6rem;
+      font-size: 1rem;
     }
   }
 
@@ -702,7 +633,7 @@ button,
 #site-search {
   @media (max-width: $breakpoint-alpha) {
     input {
-      max-width: 150px;
+      max-width: 9.375rem;
     }
   }
 
@@ -714,8 +645,7 @@ button,
 /* Site Body */
 
 #site-content {
-  margin-top: 105px;
-  margin-top: 10.5rem;
+  margin-top: 6.563rem;
 
   @media (max-width: $breakpoint-alpha) {
     margin-top: $header-height-alpha;
@@ -734,24 +664,20 @@ button,
   flex-basis: 0%;
   flex-grow: 1;
   flex-shrink: 1;
-  padding: 50px 0;
-  padding: 5rem 0;
+  padding: 3.125rem 0;
 }
 
 /* Documentation Two-Column Layout */
 
 #documentation #page-content {
-  max-width: 1200px;
-  max-width: 120rem;
-  padding: 50px 40px;
-  padding: 5rem 4rem;
+  max-width: 75rem;
+  padding: 3.125rem 2.5rem;
 }
 
 #page-sidebar {
   background-color: #f7f7f7;
-  padding: 50px 0;
-  padding: 5rem 0;
-  transition: right .1s ease-out;
+  padding: 3.125rem 0;
+  transition: right 0.1s ease-out;
 
   .col-container {
     position: relative;
@@ -783,13 +709,11 @@ button,
   box-shadow: none;
   color: $text-color;
   display: none;
-  padding: 16px 20px;
-  padding: 1.6rem 2rem;
+  padding: 1rem 1.25rem;
   position: absolute;
   text-align: right;
   top: 0;
-  left: -50px;
-  left: -5rem;
+  left: -3.125rem;
 
   .fa-chevron-right {
     display: none;
@@ -816,7 +740,6 @@ button,
     &.opened {
       left: auto;
       right: 0;
-      width: 100%;
     }
   }
 }
@@ -838,8 +761,7 @@ button,
   a {
     color: $text-color;
     display: block;
-    padding: 8px 40px;
-    padding: 0.8rem 4rem;
+    padding: 0.5rem 2.5rem;
 
     &:hover {
       color: $primary-color;
@@ -853,8 +775,7 @@ button,
   background-color: $text-color;
   color: #fff;
   margin: 0;
-  padding: 40px 0;
-  padding: 4rem 0;
+  padding: 2.5rem 0;
 
   a:hover {
     color: #fff;
@@ -869,26 +790,21 @@ button,
   background-position: left bottom;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 32px;
-  font-size: 3.2rem;
-  padding: 150px 50px !important;
-  padding: 15rem 5rem !important;
+  font-size: 2rem;
+  padding: 9.375rem 3.125rem !important;
   text-align: center;
 
   .tagline {
     display: block;
-    line-height: 36px;
-    line-height: 3.6rem;
-    margin: 0 auto 28px auto;
-    margin: 0 auto 2.8rem auto;
+    line-height: 1.125;
+    margin: 0 auto 1.75rem auto;
     max-width: 50%;
   }
 
   button,
   .button {
-    box-shadow: 1px 4px 6px #041522;
-    padding: 16px 50px;
-    padding: 1.6rem 5rem;
+    box-shadow: 0.063rem 0.25rem 0.375rem #041522;
+    padding: 1rem 3.125rem;
   }
 
   @media (max-width: $breakpoint-alpha) {
@@ -898,8 +814,7 @@ button,
   }
 
   @media (max-width: $breakpoint-bravo) {
-    padding: 100px 50px !important;
-    padding: 10rem 5rem !important;
+    padding: 6.25rem 3.125rem !important;
 
     .tagline {
       max-width: 90%;
@@ -907,14 +822,12 @@ button,
 
     button,
     .button {
-      padding: 12px 15px;
-      padding: 1.2rem 1.5rem;
+      padding: 0.75rem 0.938rem;
     }
   }
 
   @media (max-width: $breakpoint-charlie) {
-    padding: 100px 20px !important;
-    padding: 10rem 2rem !important;
+    padding: 6.25rem 1.25rem !important;
 
     .tagline {
       max-width: 100%;
@@ -923,34 +836,28 @@ button,
 }
 
 #home section {
-  padding: 50px 0;
-  padding: 5rem 0;
+  padding: 3.125rem 0;
 
   @media (max-width: $breakpoint-charlie) {
-    padding: 30px 0;
-    padding: 3rem 0;
+    padding: 1.875rem 0;
   }
 }
 
 /* Blog posts & forum topics */
 
 #blog .post-list {
-  margin-bottom: 20px;
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
 
   .post {
     border-bottom: 1px solid #ddd;
-    margin-bottom: 40px;
-    margin-bottom: 4rem;
-    padding-bottom: 28px;
-    padding-bottom: 2.8rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.75rem;
   }
 }
 
 .post,
 .topic {
-  margin-bottom: 28px;
-  margin-bottom: 2.8rem;
+  margin-bottom: 1.75rem;
 }
 
 .post-title,
@@ -966,31 +873,24 @@ button,
 .topic-updated {
   color: #888;
   display: block;
-  font-size: 24px;
-  font-size: 2.4rem;
+  font-size: 1.5rem;
 
   #home & {
-    font-size: 14px;
-    font-size: 1.4rem;
-    line-height: 22px;
-    line-height: 2.2rem;
+    font-size: 0.875rem;
+    line-height: 1.571;
   }
 
   #blog & {
-    font-size: 16px;
-    font-size: 1.6rem;
-    line-height: 28px;
-    line-height: 2.8rem;
+    font-size: 1rem;
+    line-height: 1.75;
   }
 }
 
 .post-date {
-  margin-bottom: 28px;
-  margin-bottom: 2.8 rem;
+  margin-bottom: 1.75rem;
 
   #home & {
-    margin-bottom: 20px;
-    margin-bottom: 2rem;
+    margin-bottom: 1.25rem;
   }
 }
 
@@ -999,12 +899,10 @@ button,
 }
 
 .post-excerpt, {
-  font-size: 14px;
-  font-size: 1.4rem;
+  font-size: 0.875rem;
 
   p {
-    line-height: 22px;
-    line-height: 2.2rem;
+    line-height: 1.571;
     margin: 0;
   }
 }
@@ -1012,10 +910,8 @@ button,
 .topic-category,
 .topic-updater {
   display: block;
-  font-size: 14px;
-  font-size: 1.4rem;
-  line-height: 22px;
-  line-height: 2.2rem;
+  font-size: 0.875rem;
+  line-height: 1.571;
 }
 
 .pagination {
@@ -1027,7 +923,7 @@ button,
     border-radius: 3px;
 
     display: inline-block;
-    padding: 5px 10px;
+    padding: 0.313rem 0.625rem;
   }
 
   a {
@@ -1075,14 +971,12 @@ button,
 
 .float-left {
   float: left;
-  margin-right: 20px;
-  margin-right: 2rem;
+  margin-right: 1.25rem;
 }
 
 .float-right {
   float: right;
-  margin-left: 20px;
-  margin-left: 2rem;
+  margin-left: 1.25rem;
 }
 
 /* >100% width images */
@@ -1091,10 +985,10 @@ button,
     height: auto;
     margin-right: 0;
     margin-left: 0;
-    max-width: calc(100% + 100px);
-    width: calc(100% + 100px);
-    -webkit-transform: translateX(-50px);
-    transform: translateX(-50px);
+    max-width: calc(100% + 6.25rem);
+    width: calc(100% + 6.25rem);
+    -webkit-transform: translateX(-3.125rem);
+    transform: translateX(-3.125rem);
 }
 
 /* Icons as images */
@@ -1102,43 +996,32 @@ button,
 .icon-lg,
 .icon-md {
   display: block;
-  margin-bottom: 28px;
-  margin-bottom: 2.8rem;
+  margin-bottom: 1.75rem;
 }
 
 .icon-lg {
-  font-size: 75px;
-  font-size: 7.5rem;
+  font-size: 4.588rem;
 
   &.inverted {
-    border-radius: 68px;
-    border-radius: 6.8rem;
+    border-radius: 50%;
     display: block;
-    height: 135px;
-    height: 13.5rem;
-    padding-top: 30px;
-    padding-top: 3rem;
+    height: 8.438rem;
+    padding-top: 1.875rem;
     text-align: center;
-    width: 135px;
-    width: 13.5rem;
+    width: 8.438rem;
   }
 }
 
 .icon-md {
-  font-size: 35px;
-  font-size: 3.5rem;
+  font-size: 2.188rem;
 
   &.inverted {
-    border-radius: 38px;
-    border-radius: 3.8rem;
+    border-radius: 50%;
     display: block;
-    height: 75px;
-    height: 7.5rem;
-    padding-top: 20px;
-    padding-top: 2rem;
+    height: 4.688rem;
+    padding-top: 1.25rem;
     text-align: center;
-    width: 75px;
-    width: 7.5rem;
+    width: 4.688rem;
   }
 }
 
@@ -1152,8 +1035,7 @@ button,
 .alert {
   background-color: #cd4448;
   color: #fff;
-  padding: 20px;
-  padding: 2rem;
+  padding: 1.25rem;
   text-align: center;
 
   a {
@@ -1165,8 +1047,7 @@ button,
   }
 
   @media (max-width: $breakpoint-charlie) {
-    font-size: 14px;
-    font-size: 1.4rem;
+    font-size: 0.875rem;
   }
 }
 
