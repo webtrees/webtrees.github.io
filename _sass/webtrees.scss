@@ -7,6 +7,10 @@ $breakpoint-alpha: 1200px;
 $breakpoint-bravo: 900px;
 $breakpoint-charlie: 600px;
 
+$header-height-alpha: 104px;
+$header-height-bravo: 56px;
+$header-height-charlie: 47px;
+
 
 /*
  * Normalize/Reset
@@ -35,6 +39,7 @@ $breakpoint-charlie: 600px;
 
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -713,18 +718,15 @@ button,
   margin-top: 10.5rem;
 
   @media (max-width: $breakpoint-alpha) {
-    margin-top: 104px;
-    margin-top: 10.4rem;
+    margin-top: $header-height-alpha;
   }
 
   @media (max-width: $breakpoint-bravo) {
-    margin-top: 56px;
-    margin-top: 5.6rem;
+    margin-top: $header-height-bravo;
   }
 
   @media (max-width: $breakpoint-charlie) {
-    margin-top: 47px;
-    margin-top: 4.7rem;
+    margin-top: $header-height-charlie;
   }
 }
 
@@ -758,13 +760,17 @@ button,
   @media (max-width: $breakpoint-bravo) {
     bottom: 0;
     position: absolute;
-    top: 0;
+    top: $header-height-bravo;
     right: -85%;
     width: 85%;
 
     &.opened {
       right: 0;
     }
+  }
+
+  @media (max-width: $breakpoint-charlie) {
+    top: $header-height-charlie;
   }
 }
 
@@ -780,6 +786,7 @@ button,
   padding: 16px 20px;
   padding: 1.6rem 2rem;
   position: absolute;
+  text-align: right;
   top: 0;
   left: -50px;
   left: -5rem;
@@ -805,6 +812,12 @@ button,
 
   @media (max-width: $breakpoint-bravo) {
     display: inline-block;
+
+    &.opened {
+      left: auto;
+      right: 0;
+      width: 100%;
+    }
   }
 }
 
