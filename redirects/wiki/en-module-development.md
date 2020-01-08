@@ -1,7 +1,7 @@
 ---
 permalink: /en/Module_Development
 layout:    redirect
-redirect:  /
+redirect:  https://github.com/fisharebest/webtrees/tree/master/modules_v4
 sitemap:
     exclude: yes
 ---

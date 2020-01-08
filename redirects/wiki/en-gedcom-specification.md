@@ -1,7 +1,7 @@
 ---
 permalink: /en/GEDCOM_Specification
 layout:    redirect
-redirect:  /
+redirect:  /gedcom
 sitemap:
     exclude: yes
 ---
