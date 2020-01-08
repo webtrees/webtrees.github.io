@@ -67,6 +67,12 @@ information via the extended “Families” tab, and the extended “Facts and E
  
 ----------
 
+### Faces - by UKsusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-faces)
+ 
+Tag faces on photos.
+ 
+----------
+
 ### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-branches)
 
 This module is an modified version of the existing webtrees Branches list.
@@ -166,6 +172,12 @@ using [OpenStreetMap](https://www.openstreetmap.org).
  
 This module provides replacements for the original “Places” and “Pedigree map” modules,
 using location data from GEDCOM, as well as location data provided by other modules.
+ 
+----------
+
+### Reminders - by UKsusoFF - `2.0` - [website](https://github.com/UksusoFF/webtrees-reminder)
+ 
+Sends a daily reminder of anniversaries.
  
 ----------
 
