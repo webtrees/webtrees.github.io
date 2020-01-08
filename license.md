@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licence
+title: License
 date: 2020-01-08
 sitemap:
     priority: 0.2
