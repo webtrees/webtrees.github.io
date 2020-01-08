@@ -51,6 +51,12 @@ information to fit on each page.
 
 ----------
 
+### Cousins - by vytux - `1.7` - `2.0` - [website](https://github.com/vytux-com/vytux_cousins)
+
+A tab which shows all the cousins of an individual.
+
+----------
+
 ### Custom JS - by JustCarmen - `1.7` - [download](/downloads/modules/custom_js.zip)
 
 Allows you to add JavaScript to every webtrees page.  Typical uses are adding code for
@@ -129,6 +135,12 @@ first generation down to the last, and provide a narrative overview of your fami
  
 ----------
 
+### Gallery - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_gallery3)
+
+Display all the photos in a folder.
+
+----------
+
 ### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
  
 It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
@@ -161,11 +173,23 @@ module which customises the JustLight theme and provides more features.
 
 ----------
 
+### Menu - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_menu2)
+
+Add more menu items to the main menu.
+
+----------
+
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
  
 This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
 using [OpenStreetMap](https://www.openstreetmap.org).
  
+----------
+
+### Pages - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_pages)
+
+Add pages of information, with links from the main menu.
+
 ----------
 
 ### Places and Pedigree Map - by ric2016 - `2.0` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
