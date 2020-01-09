@@ -73,7 +73,7 @@ information via the extended “Families” tab, and the extended “Facts and E
  
 ----------
 
-### Faces - by UKsusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-faces)
+### Faces - by UksusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-faces)
  
 Tag faces on photos.
  
@@ -199,7 +199,7 @@ using location data from GEDCOM, as well as location data provided by other modu
  
 ----------
 
-### Reminders - by UKsusoFF - `2.0` - [website](https://github.com/UksusoFF/webtrees-reminder)
+### Reminder - by UksusoFF - `2.0` - [website](https://github.com/UksusoFF/webtrees-reminder)
  
 Sends a daily reminder of anniversaries.
  
@@ -224,6 +224,12 @@ obtained from the respective shared place.
 ### Topola Interactive Tree - by PeWu - `1.7` - [website](https://github.com/PeWu/topola-webtrees)
 
 An interactive tree, showing ancestors and descendants.
+
+----------
+
+### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
+
+Add full screen button for interactive tree view tab.
 
 ----------
 
