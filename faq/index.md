@@ -8,6 +8,7 @@ date: 2019-12-31
 ## Server administration ##
 
 * [How do I enable pretty URLs?](urls)
+* [How do change the default language?](language)
 * [Can I downgrade to an earlier version?](downgrade)
 * [How do I move webtrees to a new server.](move-server)
 
