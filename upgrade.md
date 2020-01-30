@@ -15,6 +15,8 @@ date: 2020-01-02
 
 ## Upgrade Notes
 
+There are some key differences between webtrees-1.X and webtrees-2.X to keep in mind when upgrading.
+
 ### Base URL detection
 
 In webtrees-1.7, webtrees attempted to detect the URL of the site.  This was not always reliable.  Sometimes, it was not even possible.
@@ -119,5 +121,11 @@ You did this by creating a file on the server to replace the default thumbnail. 
 In webtrees-2.0, you create custom thumbnails by adding a second media file to a media object.  (Media objects can now contain many media files.)
 
 There is a tool in the control panel to help find and import custom thumbnails.
+
+### XREFs
+
+In webtrees-1.X, the prefix of the cross-reference ID (XREF), the unique identifier assigned to every object added to a tree, was different for each object type (e.g., I for individuals, F for families, S for sources, etc.). And there was the ability to customize the XREF prefixes for each tree.
+
+Due to the potential for confusion (I with 1, S with 5, O with 0, etc.), all new objects created in webtrees-2.X will have XREFs beginning with X, regardless of type. (All existing objects will retain their XREFs with the old prefixes unless they are renumbered.)
 
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
