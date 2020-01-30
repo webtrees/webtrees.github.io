@@ -126,6 +126,6 @@ There is a tool in the control panel to help find and import custom thumbnails.
 
 In webtrees-1.X, the prefix of the cross-reference ID (XREF), the unique identifier assigned to every object added to a tree, was different for each object type (e.g., I for individuals, F for families, S for sources, etc.). And there was the ability to customize the XREF prefixes for each tree.
 
-Due to the potential for confusion (I with 1, S with 5, O with 0, etc.), all XREFs in webtrees-2.X begin with X, regardless of type.
+Due to the potential for confusion (I with 1, S with 5, O with 0, etc.), all new objects created in webtrees-2.X will have XREFs beginning with X, regardless of type. (All existing objects will retain their XREFs with the old prefixes unless they are renumbered.)
 
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
