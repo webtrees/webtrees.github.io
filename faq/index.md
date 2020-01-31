@@ -5,6 +5,9 @@ permalink: faq/
 date: 2020-01-25
 ---
 
+## Differences between webtrees 1.7 and 2.0 ##
+* [Why is the text so large?]({% link faq/text-size.md %})
+
 ## Server administration ##
 
 * [How do I enable pretty URLs?]({% link faq/urls.md %})
