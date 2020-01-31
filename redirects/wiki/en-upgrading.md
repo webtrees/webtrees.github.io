@@ -1,7 +1,7 @@
 ---
 permalink: /en/Upgrading
 layout:    redirect
-redirect:  /
+redirect:  /upgrade/
 sitemap:
     exclude: yes
 ---

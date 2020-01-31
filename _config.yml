@@ -8,10 +8,12 @@ description: >
 latest_version: "2.0.2"
 latest_version_17: "1.7.16"
 url: "https://webtrees.github.io"
+demo_dev_url: "https://dev.webtrees.net/demo-dev"
+demo_stable_url: "https://dev.webtrees.net/demo-stable"
 this_github_repo: webtrees/webtrees.github.io
 edit_text: Edit this page
 baseurl: ""
-date_format: "%b %-d, %Y"
+date_format: "%-d %B %Y"
 show_excerpts: true
 permalink: pretty
 collections:
@@ -19,6 +21,8 @@ collections:
     output: true
     permalink: /blog/:categories/:year/:month/:day/:title:output_ext
   readme:
+    output: true
+  upgrade:
     output: true
 paginate: 5
 paginate_path: "/blog/page:num/"

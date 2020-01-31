@@ -1,7 +1,7 @@
 ---
 permalink: /en/Licence
 layout:    redirect
-redirect:  /license
+redirect:  /license/
 sitemap:
     exclude: yes
 ---

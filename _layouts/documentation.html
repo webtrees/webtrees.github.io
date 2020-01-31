@@ -21,9 +21,19 @@ layout: default
 
       <!-- Generate navigation links for pages in collection -->
       {%- assign doclist = site[page.collection] | sort: 'order' -%}
+
       <ul>
         {%- for doc in doclist -%}
-        <!-- Only list child content pages -->
+        {%- if doc.slug == "index" -%}
+        <li{% if page.slug == doc.slug %} class="active"{% endif %}><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+
+      <hr>
+
+      <ul>
+        {%- for doc in doclist -%}
         {%- if doc.slug != "index" -%}
           <li{% if page.slug == doc.slug %} class="active"{% endif %}><a href="{{ doc.url }}">{{ doc.title }}</a></li>
         {%- endif -%}
