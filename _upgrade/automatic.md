@@ -21,7 +21,7 @@ to store and unpack the new version.
   
 The upgrade will typically take between 15 and 60 seconds.
 If there is no response after five minutes, then it is likely
-that a CPU time limit has been reached, and that the upgradeh as failed.
+that a CPU time limit has been reached, and that the upgrade has failed.
   
 If the automatic upgrade fails for any reason, follow the
 instructions for a [manual]({% link _upgrade/manual.md %}) upgrade.
