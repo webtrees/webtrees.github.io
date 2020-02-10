@@ -58,8 +58,9 @@ if(secondaryNavToggle) {
  */
 
 var siteNavItems = document.getElementById('site-navigation').getElementsByTagName('li');
-Array.from(siteNavItems).forEach(function(item, index) {
-  item.addEventListener('click', function(event) {
+Array.from(siteNavItems).forEach(function(navItem, index) {
+  var navItemLink = navItem.getElementsByTagName('a')[0];
+  navItemLink.addEventListener('click', function(event) {
     // Close all other dropdown menus
     for (var i = 0; i < siteNavItems.length; i++) {
       if ( i != index ) {
@@ -68,6 +69,11 @@ Array.from(siteNavItems).forEach(function(item, index) {
     }
 
     // Toggle clicked dropdown menu
-    toggleClass(item, 'opened');
+    toggleClass(navItem, 'opened');
+
+    // Prevent jump to top of page for anchor links
+    if(navItemLink.getAttribute('href') == '#') {
+      event.preventDefault();
+    }
   });
 });

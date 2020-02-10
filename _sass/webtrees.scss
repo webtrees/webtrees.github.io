@@ -515,6 +515,10 @@ button,
         }
       }
     }
+
+    ul li.opened ul {
+      padding: 0;
+    }
   }
 }
 
