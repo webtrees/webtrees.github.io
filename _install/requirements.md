@@ -1,0 +1,41 @@
+---
+layout: documentation
+title:  Server Requirements
+date:   2020-02-09
+order:  1
+---
+
+## PHP Requirements
+
+webtrees {{ site.latest_version }} requires PHP 7.1 — 7.4.  Higher
+versions generally give better performance than lower versions.
+
+If your server only has PHP 5.3 — 7.0, then you will need to install
+webtrees {{ site.latest_version_17 }}.
+Note that this version of webtrees only supports MySQL.
+
+## Database Requirements
+
+webtrees uses the Laravel Database component to provide support for these
+popular database engines.
+
+* MySQL
+* PostgreSQL
+* SQLite
+* SQL-Server
+
+MySQL is recommended for production servers.  webtrees uses MySQL’s collation
+features to search and sort names correctly in different languages.
+
+PostgreSQL and SQL-Server are largely untested, but should work.
+
+SQLite is fine for small sites, but does not scale well with concurrent users.
+
+## Web-server requirements
+
+You will need approximately 100MB of disk space for webtrees files - plus whatever
+is needed for your media and GEDCOM files.
+
+webtrees supports “pretty URLs”, using web-server rewrite rules.
+You should not enable this until after the setup is complete.
+Otherwise the setup wizard may not be able to detect the base URL.

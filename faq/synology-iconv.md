@@ -11,4 +11,4 @@ Synology servers disable various PHP modules, even though they should be enabled
 This includes `iconv` which is required by webtrees.
 
 The control panel / administration interface for the Synology Box contains an option to
-enable PHP modules.  Find and enable `iconv`.  Restart the webserver.
+enable PHP modules.  Find and enable `iconv`.  Restart the web-server.

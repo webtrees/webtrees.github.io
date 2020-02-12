@@ -6,7 +6,7 @@ order: 2
 
 To install webtrees, you need:
 
-## Webserver
+## Web-server
 Apache, Nginx and IIS are the most common types. To use “pretty URLs”, you will need to configure URL rewriting.
 
 ## Database

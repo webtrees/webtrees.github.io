@@ -20,6 +20,15 @@
                 </li>
                 -->
 
+                <li class="{% if segment[1] == 'install ' %}active {% endif %}">
+                    <a href="{% link _install/index.md %}">
+                        Install
+                        {%- if segment[1] == 'install' -%}
+                        <span class="sr-only">current page</span>
+                        {%- endif -%}
+                    </a>
+                </li>
+
                 <li class="{% if segment[1] == 'upgrade' %}active {% endif %}">
                     <a href="{% link _upgrade/index.md %}">
                         Upgrade

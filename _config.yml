@@ -22,6 +22,8 @@ collections:
     permalink: /blog/:categories/:year/:month/:day/:title:output_ext
   readme:
     output: true
+  install:
+    output: true
   upgrade:
     output: true
 paginate: 5

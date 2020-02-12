@@ -20,7 +20,7 @@ The login page has a "forgot password" link. It will send a new password to you 
 
 Find the table `wt_user` and the row for your user account.  Set the `password` field to the value `$1$VDnz7rNf$nDgfF52rgdz89uTSJ1sa41`.  This is the encrypted form of the text `password`.
 
-## Can you access the files on your webserver? (e.g. using FTP / SFTP) ##
+## Can you access the files on your web-server? (e.g. using FTP / SFTP) ##
 
 Create a text file called `password.php` with the following content.  Copy it to the webtrees folder on your server.  Replace each occurrence of `XXXXX` as appropriate
 
@@ -63,6 +63,6 @@ if ($stmt->rowCount() > 0) {
 	</div>
 </div>
 
-Copy the file to the webserver and run it by typing the URL into your browser.  e.g. `http://your-site.com/path-to-webtrees/password.php`.
+Copy the file to the web-server and run it by typing the URL into your browser.  e.g. `http://your-site.com/path-to-webtrees/password.php`.
 
 Remember to delete the file when you are finished.

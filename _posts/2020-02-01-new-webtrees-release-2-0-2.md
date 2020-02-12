@@ -21,6 +21,6 @@ There is a new historic-event module, for Czech history.
 Pretty URLs are updated to work better with non-latin characters.
 
 HTTP security headers are now added by default, as most users are not
-able to set these in their webserver configuration.
+able to set these in their web-server configuration.
 
 Fixes for over 50 reported issues.
