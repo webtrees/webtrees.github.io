@@ -26,6 +26,8 @@ collections:
     output: true
   upgrade:
     output: true
+  admin:
+    output: true
 paginate: 5
 paginate_path: "/blog/page:num/"
 

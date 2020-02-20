@@ -38,6 +38,15 @@
                     </a>
                 </li>
 
+                <li class="{% if segment[1] == 'admin' %}active {% endif %}">
+                    <a href="{% link _admin/index.md %}">
+                        Administration
+                        {%- if segment[1] == 'admin' -%}
+                        <span class="sr-only">current page</span>
+                        {%- endif -%}
+                    </a>
+                </li>
+
                 <li class="{% if segment[1] == 'faq' %}active {% endif %}">
                     <a href="{% link faq/index.md %}">
                         FAQ
