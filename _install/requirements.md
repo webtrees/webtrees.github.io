@@ -19,17 +19,19 @@ Note that this version of webtrees only supports MySQL.
 webtrees uses the Laravel Database component to provide support for these
 popular database engines.
 
-* MySQL
-* PostgreSQL
-* SQLite
-* SQL-Server
+* MySQL - version 5.6 or higher
+* MariaDB - version 10.0 or higher
+* PostgreSQL - version 9.4 or higher
+* SQLite - version 3.7.11 or higher
+* SQL-Server - 2017 or higher
 
-MySQL is recommended for production servers.  webtrees uses MySQL’s collation
-features to search and sort names correctly in different languages.
+MySQL/MariaDB is recommended for production servers.
+webtrees uses MySQL’s collation features to search and sort names correctly
+in different languages.
 
 PostgreSQL and SQL-Server are largely untested, but should work.
 
-SQLite is fine for small sites, but does not scale well with concurrent users.
+SQLite is fine for small sites, but does not scale well with many concurrent users.
 
 ## Web-server requirements
 
