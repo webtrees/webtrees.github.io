@@ -35,7 +35,7 @@ different data folder in the control panel.
 * Upload the contents of the `webtrees` folder to the corresponding folder on your web server.
 * Delete the file `data/offline.txt`.
 
-## After the backup
+## After the upgrade
 
 If any database upgrades are required, these will happen automatically when
 you next visit the site.
