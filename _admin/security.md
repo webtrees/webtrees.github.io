@@ -1,7 +1,8 @@
 ---
 layout: documentation
-title: Security
-order: 6
+title:  Security
+date:   2020-02-29
+order:  5
 ---
 
 Security in webtrees means ensuring your site is safe from unwanted intrusions, hacking, or access to data and configuration files. The developers of webtrees regard security as an extremely important part of its development and have made every attempt to ensure your data is safe.
@@ -42,3 +43,6 @@ webtrees supports [https](https://en.wikipedia.org/wiki/HTTP_Secure) access. You
 ```
 base_url="https://www.example.com/webtrees"
 ```
+
+
+

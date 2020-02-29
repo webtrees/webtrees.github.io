@@ -9,17 +9,6 @@
         <li>
             <a href="#">Docs</a>
             <ul>
-                <!--
-                <li class="{% if segment[1] == 'readme' %}active {% endif %}">
-                    <a href="{% link _readme/index.md %}">
-                        Readme
-                        {%- if segment[1] == 'readme' -%}
-                        <span class="sr-only">current page</span>
-                        {%- endif -%}
-                    </a>
-                </li>
-                -->
-
                 <li class="{% if segment[1] == 'install ' %}active {% endif %}">
                     <a href="{% link _install/index.md %}">
                         Install
@@ -38,9 +27,27 @@
                     </a>
                 </li>
 
+                <li class="{% if segment[1] == 'user' %}active {% endif %}">
+                    <a href="{% link _user/index.md %}">
+                        User
+                        {%- if segment[1] == 'admin' -%}
+                        <span class="sr-only">current page</span>
+                        {%- endif -%}
+                    </a>
+                </li>
+
                 <li class="{% if segment[1] == 'admin' %}active {% endif %}">
                     <a href="{% link _admin/index.md %}">
-                        Administration
+                        Administrator
+                        {%- if segment[1] == 'admin' -%}
+                        <span class="sr-only">current page</span>
+                        {%- endif -%}
+                    </a>
+                </li>
+
+                <li class="{% if segment[1] == 'develop' %}active {% endif %}">
+                    <a href="{% link _develop/index.md %}">
+                        Developer
                         {%- if segment[1] == 'admin' -%}
                         <span class="sr-only">current page</span>
                         {%- endif -%}

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Read me
-permalink: readme/
+title: Developer documentation
+permalink: develop/
+date:  2020-02-20
 ---
 
-Basic instructions for installing and managing webtrees
-
-{% assign doclist = site.readme | sort: 'order' %}
+{% assign doclist = site.develop | sort: 'order' %}
 <ul>
     {% for doc in doclist %}
         {% if doc.title != page.title %}

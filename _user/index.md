@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Administrator documentation
-permalink: admin/
+title: User documentation
+permalink: user/
 date:  2020-02-20
 ---
 
-{% assign doclist = site.admin | sort: 'order' %}
+{% assign doclist = site.user | sort: 'order' %}
 <ul>
     {% for doc in doclist %}
         {% if doc.title != page.title %}
