@@ -5,7 +5,7 @@ date:   2020-02-09
 order:  99
 ---
 
-[XAMPP](XAMPP) is a package for Microsoft Windows that allows you
+[XAMPP][XAMPP] is a package for Microsoft Windows that allows you
 to run web-server software on your local computer.
 It contains everything you need to run webtrees.
 It works well for local testing and development - or if you only
