@@ -5,7 +5,7 @@ date:   2020-02-09
 order:  99
 ---
 
-[MAMP](MAMP) is a package for Apple computers that allows you
+[MAMP][MAMP] is a package for Apple computers that allows you
 to run web-server software on your local computer.
 It contains everything you need to run webtrees.
 It works well for local testing and development - or if you only
