@@ -14,6 +14,11 @@ need an offline/standalone version of webtrees.
 The "document root" (the folder where you install webtrees) is usually
 `C:/xampp/htdocs`.  The URL for this folder will be `http://localhost`.
 
+NOTE: If you use Microsoft Edge or IE, then you should use
+`http://127.0.0.1` instead of `http://localhost`.
+These browsers do not set cookies properly when the domain name does not
+contain a `.`.  Other browsers are OK.
+
 You should copy webtrees to this folder.  Many people install to a
 sub-folder, such as `C:/xampp/htdocs/webtrees`.
 This will have the URL `http://localhost/webtrees`.
