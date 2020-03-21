@@ -4,5 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-This site will eventually replace <http://wiki.webtrees.net> and the non-forum pages in <https://www.webtrees.net>.
