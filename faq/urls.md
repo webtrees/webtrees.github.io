@@ -83,11 +83,15 @@ location = /webtrees/index.php {
 
 ## Example configuration for Apache ##
 
-Here is example configuration for a `.htaccess` file.
+Store the following `.htaccess` file in the webtrees folder.
 
 ```
 RewriteEngine On
+RewriteBase /webtrees/
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php [L]
+RewriteRule ^ index.php [L]
 ```
+
+Change the entry for `RewriteBase` to match the folder part of your
+webtrees URL.
