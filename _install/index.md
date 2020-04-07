@@ -27,6 +27,7 @@ things you should know.
 
 * [Bluehost]({% link _install/bluehost.md %})
 * [MAMP]({% link _install/mamp.md %})
+* [Microsoft/IIS]({% link _install/iis.md %})
 * [OVH]({% link _install/ovh.md %})
 * [XAMPP]({% link _install/xampp.md %})
 
