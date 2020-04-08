@@ -26,6 +26,7 @@ If you use one of the hosts or platforms listed below, there are some additional
 things you should know.
 
 * [Bluehost]({% link _install/bluehost.md %})
+* [Cloudflare]({% link _install/cloudflare.md %})
 * [MAMP]({% link _install/mamp.md %})
 * [Microsoft/IIS]({% link _install/iis.md %})
 * [OVH]({% link _install/ovh.md %})
