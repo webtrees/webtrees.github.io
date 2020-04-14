@@ -37,12 +37,14 @@ things you should know.
 There are a number of unofficial third-party installers and pre-built packages.
 If you have any problems with these installers, please contact the provider directly.
 
+* [Docker][DOCKER]
+* [Installatron][INSTALLATRON]
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
-* [Docker][DOCKER]
 
-[SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
-[YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
 [DOCKER]: https://github.com/Salokyn/webtrees/tree/docker-2.0/docker
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
 [DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip
+[INSTALLATRON]: https://installatron.com/apps
+[SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
+[YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
