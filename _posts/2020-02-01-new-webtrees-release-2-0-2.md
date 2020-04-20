@@ -23,4 +23,4 @@ Pretty URLs are updated to work better with non-latin characters.
 HTTP security headers are now added by default, as most users are not
 able to set these in their web-server configuration.
 
-Fixes for over 50 reported issues.
+Fixes for over 50 reported issues. [CHANGELOG](https://github.com/fisharebest/webtrees/compare/2.0.1...2.0.2)

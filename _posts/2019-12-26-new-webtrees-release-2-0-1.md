@@ -12,3 +12,5 @@ webtrees 2.0.1 is now available for download.
 
 There are also fixes for 50 or so issues that were raised on the 2.0.0 rewrite.
 Thanks to everyone who reported them.
+
+[CHANGELOG](https://github.com/fisharebest/webtrees/compare/2.0.0...2.0.1)
