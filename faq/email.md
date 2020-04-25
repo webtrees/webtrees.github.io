@@ -4,13 +4,11 @@ title: FAQ - How do I configure webtrees to send e-mail?
 date: 2020-04-25
 ---
 
-## How do I configure webtrees to send e-mail?
-
 Sending e-mail is difficult.  Because of spam, many systems exist to block
 e-mails.  Even if your server is sending e-mail, there is no guarantee that
 it will be delivered.
 
-### Methods for sending e-mail.
+## Methods for sending e-mail.
 
 There are two systems for sending mail - SMTP and Sendmail.
 
@@ -27,14 +25,14 @@ function `mail()`.  Most mail libraries no longer support this option.
 Firstly, it always reports “success”, even if it fails to send the message.
 Secondly, it has serious security weaknesses, which cannot be fixed.
 
-### SMTP Configuration
+## SMTP Configuration
 
 To set the SMTP options, visit Control panel -> Website -> Sending e-mail.
 
 The settings for each SMTP server will be different.  Please consult
 your provider’s documentation for details.
 
-### How to test e-mail
+## How to test e-mail
 
 At the bottom of the e-mail preferences page is a "Send a test mail" checkbox.
 When you select this and save the settings, webtrees will send you a message.
@@ -49,7 +47,7 @@ You should find a (hopefully helpful) error message.
 It can help to do a web-search of this message and the name of your
 SMTP provider.
 
-### What is the “Sender name”
+## What is the “Sender name”
 
 This the email address that will be used in the “From” field when sending e-mail.
 
@@ -57,7 +55,7 @@ A typical setting might be “no-reply@mydomain.com”.
 
 Some SMTP servers may only deliver mail from known addresses or domain names.
 
-### Using a Google Gmail account
+## Using a Google Gmail account
 
 If you have a Gmail account, you can use Google’s SMTP server.
 
