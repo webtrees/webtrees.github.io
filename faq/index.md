@@ -11,6 +11,7 @@ date: 2020-01-25
 ## Server administration ##
 
 * [How do I enable pretty URLs?]({% link faq/urls.md %})
+* [How do I configure webtrees to send e-mail?]({% link faq/email.md %})
 * [How do change the default language?]({% link faq/language.md %})
 * [Can I downgrade to an earlier version?]({% link faq/downgrade.md %})
 * [How do I move webtrees to a new server.]({% link faq/move-server.md %})
