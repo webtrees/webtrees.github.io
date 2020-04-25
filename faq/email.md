@@ -63,10 +63,9 @@ If you have a Gmail account, you can use Google’s SMTP server.
 
 To do this, you must enable two-factor-authentication on your account,
 and create an “app password” at <https://myaccount.google.com/apppasswords>.
-Use this “app password” instead of your Google account password.
 
-Server name: smtp.google.com
-Port number: 587
-Secure connection: tls
-Username: xxxx@gmail.com
-Password: The “app password” that you created earlier.
+* Server name: smtp.google.com
+* Port number: 587
+* Secure connection: tls
+* Username: xxxx@gmail.com
+* Password: The “app password” that you created earlier (not your Google account password)
