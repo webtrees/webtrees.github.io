@@ -65,7 +65,7 @@ Use this “app password” in the SMTP settings.
 
 If you have not enabled two-factor-authentication on your account, then you
 must enable "less secure apps at <https://myaccount.google.com/lesssecureapps>.
-Use user Google account password in the SMTP settings.
+Use your Google account password in the SMTP settings.
 Note that Google will disable this option if you do not use it regularly,
 and you will need to enable it again.
 
