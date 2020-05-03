@@ -83,6 +83,11 @@ location = /webtrees/index.php {
 
 ## Example configuration for Apache ##
 
+Does your server support `.htaccess` files?  To test this, try to view
+your webtrees configuration file in your browser (e.g. `https://<your.site.com>/data/config.ini.php`).  If `.htaccess`
+files are supported, you will get 403/Access-denied error.  If not, you
+will see a page containing just a semicolon.
+
 Store the following `.htaccess` file in the webtrees folder.
 
 ```
