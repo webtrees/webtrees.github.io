@@ -91,11 +91,13 @@ will see a page containing just a semicolon.
 Store the following `.htaccess` file in the webtrees folder.
 
 ```
-RewriteEngine On
-RewriteBase /webtrees/
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [L]
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /webtrees/
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ index.php [L]
+</IfModule>
 ```
 
 Change the entry for `RewriteBase` to match the folder part of your
