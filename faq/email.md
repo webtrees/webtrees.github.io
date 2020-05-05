@@ -25,6 +25,14 @@ function `mail()`.  Most mail libraries no longer support this option.
 Firstly, it always reports “success”, even if it fails to send the message.
 Secondly, it has serious security weaknesses, which cannot be fixed.
 
+## Sendmail configuration
+
+By default, webtrees will use the command `/usr/sbin/sendmail -bs` to send mail. To use a different command or options, add a line to `data/config.ini.php`.  e.g.
+
+```
+sendmail_command="/path/to/sendmail -x -y -z"
+```
+
 ## SMTP Configuration
 
 To set the SMTP options, visit Control panel -> Website -> Sending e-mail.
