@@ -10,7 +10,7 @@ Default URLs look like: `https://example.com/index.php?route=/tree/demo`.
 
 Pretty URLs look like: `https://example.com/tree/demo`.
 
-To enable "pretty URLs", you need two things.
+To enable “pretty URLs”, you need two things.
 
 Firstly, you must configure your web-server to accept pretty URLs,
 and forward them to webtrees.  The exact configuration will be
