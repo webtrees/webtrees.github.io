@@ -3,7 +3,7 @@ layout: post
 title:  "webtrees 2.0.3 released"
 date:   2020-03-17
 sitemap:
-    priority: 1.0
+    priority: 0.7
 ---
 
 webtrees 2.0.3 is now available for download.
