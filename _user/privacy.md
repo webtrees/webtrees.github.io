@@ -32,21 +32,22 @@ If a record has a privacy restriction, this takes priority.
 Privacy restrictions are added in the same way as other facts
 such as birth, marriage and death.
 
-(Note, you can also add a privacy restriction to a record using the
-“Privacy rules” in the tree’s privacy settings.  This function
+If a record does not have a privacy restriction, then webtrees looks
+at the “Privacy rules” in the tree’s privacy settings.
+
+You can set a rule for all records of a specific type (except
+individual and family — which have special logic).
+
+You can also set a rule for a specific record. This function
 is designed for people who use webtrees to display data that is
 maintained in another application, and which does not support
 privacy restrictions.  You should add privacy restrictions to the
-records themselves wherever possible.)
+records themselves wherever possible.
 
-If a record does not have a privacy restriction, then webtrees looks
-at the “Privacy rules” in the tree’s privacy settings.
-You can set a default rule for all record types except individual
-and family (which have special logic).
-By default, new trees have rules to make sources, repositories and
-submitters private.
+By default, new trees have rules to make all sources, repositories
+and submitters private.
 
-If there is no privacy rule for the record type, then webtrees uses
+If there is no privacy rule for the record, then webtrees uses
 the following logic for each record type.
 
 ### Individual records
@@ -55,16 +56,32 @@ Living individuals are private, dead individuals are public.
 If there is insufficient information to determine whether the
 individual is living or dead, webtrees assumes that they are living.
 
+In most countries, your right to privacy ends with your death.
+In others, it can extend for a number of years afterwards.
+There is an option in the privacy settings to support this.
+Beware that this option causes a small decrease in performance.
+
 You can also apply “relationship privacy” to specific users.
 This will restrict them to living individuals within a certain
 number of relationship steps.  You can set this in their user
-account page.  Beware that this option can be slow for large
-number steps.
+account page.
+Beware that this option can be slow for large numbers of steps.
+
+You can relax the privacy relating to indivdiuals with the
+“Show private names” option.  This will show the names, but no
+other information of private individuals.  It is often used
+with the “Show private relationships” option.  You can override
+this for specific names by giving them a privacy restriction.
+These will be hidden, even when this setting is used.
 
 ### Family records
 
 Family records are private if any member of the family is private.
 This includes children as well as spouses.
+
+You can relax the privacy relating to families with the
+“Show private relationships” option.  This will show the structure
+of families, without showing the details.
 
 ### Media and note records
 
