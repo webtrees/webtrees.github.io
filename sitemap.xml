@@ -8,24 +8,27 @@ sitemap:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% assign pages = site.pages | sort: 'url' %}
     {% for page in pages %}
-    {%if page.sitemap.exclude != "yes" %}
-    <url>
-        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-        <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq | default: "monthly" }}</changefreq>
-        <priority>{{ page.sitemap.priority | default: "1.0" }}</priority>
-    </url>
-    {% endif %}
+        {%if page.sitemap.exclude != "yes" %}
+        <url>
+            <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+            <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+            <changefreq>{{ page.sitemap.changefreq | default: "monthly" }}</changefreq>
+            <priority>{{ page.sitemap.priority | default: "1.0" }}</priority>
+        </url>
+        {% endif %}
     {% endfor %}
 
-    {% for post in site.posts %}
-    {%if post.sitemap.exclude != "yes" %}
-    <url>
-        <loc>{{ site.url }}{{ post.url | remove: "index.html" }}</loc>
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ post.sitemap.changefreq | default: "monthly" }}</changefreq>
-        <priority>{{ post.sitemap.priority | default: "1.0" }}</priority>
-    </url>
-    {% endif %}
+    {% for collection in site.collections %}
+        {% assign pages = collection.docs | sort: 'url' %}
+        {% for page in pages %}
+            {%if page.sitemap.exclude != "yes" %}
+                <url>
+                    <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+                    <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+                    <changefreq>{{ page.sitemap.changefreq | default: "monthly" }}</changefreq>
+                    <priority>{{ page.sitemap.priority | default: "1.0" }}</priority>
+                </url>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
 </urlset>
