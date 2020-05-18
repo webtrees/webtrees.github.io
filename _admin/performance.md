@@ -30,3 +30,9 @@ To calculate the privacy of these media objects, webtrees must calculate the pri
 
 If you know that these images will always be public , then you can add an explicit privacy restriction
 to that record: "Privacy: show to visitors".
+
+## Thumbnail images
+
+webtrees can use two different PHP extensions to create thumbnail images - GD and ImageMagick.
+ImageMagick is much faster than, so you should install it if you can.
+See the FAQ entry for [thumbnails](https://webtrees.net/faq/thumbnails/)
