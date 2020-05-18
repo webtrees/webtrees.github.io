@@ -1,4 +1,4 @@
-# Jekyll configuration for www.webtrees.net
+# Jekyll configuration for webtrees.net
 
 title: webtrees
 email: greg@subaqua.co.uk
@@ -30,7 +30,7 @@ collections:
     output: true
   user:
     output: true
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 # External accounts
