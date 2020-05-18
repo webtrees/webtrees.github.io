@@ -11,8 +11,9 @@ TODO:
 
 ## [hosting.webtrees.net](https://hosting.webtrees.net)
 
-details
+* Operated by Greg Roach (aka fisharebest), author of webtrees
+* other details…
 
 ## [www.genonline.de](https://www.genonline.de)
 
-details
+* other details…
