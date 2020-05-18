@@ -9,10 +9,10 @@ TODO:
 * what to look for in a hosting provider
 * why use specialist webtrees hosting
 
-## <a href="https://hosting.webtrees.net">hosting.webtrees.net</a>
+## [hosting.webtrees.net](https://hosting.webtrees.net">hosting.webtrees.net)
 
 details
 
-## Other provider
+## [https://www.genonline.de](www.genonline.de)
 
 details
