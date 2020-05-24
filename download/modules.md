@@ -141,6 +141,18 @@ Display all the photos in a folder.
 
 ----------
 
+### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
+
+Provides historical facts (in German language) - Chancellors and Presidents of Germany (since 1949).
+
+----------
+
+### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
+
+Provides historical facts (in German language) - Wars and Battles Worldwide (since 900).
+
+----------
+
 ### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
  
 It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
