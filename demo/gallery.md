@@ -42,6 +42,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Familles Rivière-Le Dû](http://gustine.eu/wt)
 * [Freawine.com](http://www.freawine.com)
 * [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu)
+* [Genealogia da Família Chiele](https://www.chiele.net)
 * [Généalogie de Noyon](http://familytree.noyon.org)
 * [Généalogie de la famille de Prelle de la Nieppe](http://genealogie.deprelledelanieppe.be)
 * [Généalogie des Lapierre d’Amérique](http://cnl-gla.ca/lapierre-amerique)
