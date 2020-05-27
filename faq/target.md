@@ -24,9 +24,9 @@ following to the `<body>` section:
 ```
 <script>
 document.addEventListener('click', function(event) {
-  if (event.target.tagName === 'a' && event.target.link.hostname !== location.hostname) {
-      event.target.link.target="_blank";
-      event.target.link.rel="noopener";
+  if (event.target.tagName === 'A' && !event.target.href.includes('//' + location.hostname)) {
+      event.target.target="_blank";
+      event.target.rel="noopener";
   }
 });
 </script>
