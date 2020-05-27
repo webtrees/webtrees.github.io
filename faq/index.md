@@ -24,6 +24,7 @@ date: 2020-01-25
 * [Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported.]({% link faq/ansel.md %})
 * [I cannot upload large files]({% link faq/file-upload.md %})
 * [Upgrade fails “A non well formed numeric value encountered”]({% link faq/upgrade-numeric.md %})
+* [Upgrade fails “PCLZIP_ERR_BAD_FORMAT (-10) : Unable to find End of Central Dir Record signature””]({% link faq/upgrade-pclzip.md %})
 
 ## Media files and images ##
 
