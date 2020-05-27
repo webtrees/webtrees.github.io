@@ -16,6 +16,6 @@ As a result, webtrees cannot understand the response.
 You have two options.
 
 1) Apply the [patch](https://github.com/fisharebest/webtrees/commit/3bd4111244f5c168957c240a88cec8da69221538)
-This is a one-line edit.  You must replace `L` with `[Ll]`.
+This is a one-line (line `58`) edit of file `/app/file.php`.  You must replace `L` with `[Ll]`.
 
 2) You can [upgrade manually]({% link _upgrade/manual.md %}).
