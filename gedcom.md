@@ -14,10 +14,11 @@ of the more common extensions that were created by other applications.
 ## Official versions
 
 * [GEDCOM 5.5.1]({% link downloads/gedcom-551.pdf %}) - 2019-11-15
-* [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-551-draft.pdf %}) - 1999-10-02 - the de-facto standard.
-* [GEDCOM 5.5]({% link downloads/gedcom-55.pdf %}) - 1995-12-11.
-* [GEDCOM 5.4 (draft)]({% link downloads/gedcom-54.pdf %}) - 1995-08-21.
-* [GEDCOM 5.3 (draft)]({% link downloads/gedcom-53.pdf %}) - 1993-11-04.
+* [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-551-draft.pdf %}) - 1999-10-02
+* [GEDCOM 5.5]({% link downloads/gedcom-55.pdf %}) - 1995-12-11
+* [GEDCOM 5.4 (draft)]({% link downloads/gedcom-54.pdf %}) - 1995-08-21
+* [GEDCOM 5.3 (draft)]({% link downloads/gedcom-53.pdf %}) - 1993-11-04
+* GEDCOM 5.2 (draft) -
 * GEDCOM 5.1 (draft) - 1992-09-18
 * GEDCOM 5.0 - 1991-09-25
 * GEDCOM 4.0 - 1989-08-04	 
