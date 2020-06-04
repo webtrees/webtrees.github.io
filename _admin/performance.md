@@ -34,5 +34,5 @@ to that record: "Privacy: show to visitors".
 ## Thumbnail images
 
 webtrees can use two different PHP extensions to create thumbnail images - GD and ImageMagick.
-ImageMagick is much faster than, so you should install it if you can.
+ImageMagick is much faster than GD, so you should install it if you can.
 See the FAQ entry for [thumbnails](https://webtrees.net/faq/thumbnails/)
