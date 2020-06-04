@@ -36,3 +36,12 @@ to that record: "Privacy: show to visitors".
 webtrees can use two different PHP extensions to create thumbnail images - GD and ImageMagick.
 ImageMagick is much faster than GD, so you should install it if you can.
 See the FAQ entry for [thumbnails](https://webtrees.net/faq/thumbnails/)
+
+## Watermarks
+
+Watermarks discourage visitors from downloading public images on your site,
+and hot-linking to them.
+
+Adding watermarks to thumbnail images is resource intensive.
+If you do not need watermarks, you can disable this feature in the preferences
+for each tree.
