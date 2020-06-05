@@ -13,3 +13,5 @@ date:  2020-02-20
         {% endif %}
     {% endfor %}
 </ul>
+
+There is some unofficial (but pretty good!) documentation available at <https://webtreesmanual.com>
