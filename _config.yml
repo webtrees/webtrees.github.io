@@ -5,7 +5,7 @@ email: greg@subaqua.co.uk
 description: >
   webtrees is a web application that allows you to publish your genealogy online,
   collaborate with family members and take control of your data.
-latest_version: "2.0.5"
+latest_version: "2.0.6"
 latest_version_17: "1.7.17"
 url: "https://webtrees.github.io"
 demo_dev_url: "https://dev.webtrees.net/demo-dev"
