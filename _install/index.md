@@ -42,7 +42,7 @@ If you have any problems with these installers, please contact the provider dire
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
 
-[DOCKER]: https://github.com/Salokyn/webtrees/tree/docker-2.0/docker
+[DOCKER]: https://github.com/H2CK/webtrees
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
 [DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
