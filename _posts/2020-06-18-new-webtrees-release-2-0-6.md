@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "webtrees 2.0.6 released"
-date:   2020-06-14
+date:   2020-06-18
 sitemap:
-    priority: 1.0
+    priority: 0.7
 ---
 
 webtrees 2.0.6 is now available for download.
