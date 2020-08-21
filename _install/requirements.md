@@ -14,6 +14,16 @@ If your server only has PHP 5.3 — 7.0, then you will need to install
 webtrees {{ site.latest_version_17 }}.
 Note that this version of webtrees only supports MySQL.
 
+### PHP Modules
+webtrees relies on following php modules: 
+* php-gd
+* php-xml
+* php-mbstring
+
+According to the used Database it needs additionally:
+* php-mysql
+* ??
+
 ## Database Requirements
 
 webtrees uses the Laravel Database component to provide support for these
