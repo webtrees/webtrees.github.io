@@ -170,7 +170,7 @@ module which customises the JustBlack theme and provides more features.
 
 ----------
 
-### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - [demo](https://wijzijnfamilie.nl)
+### JustLight Theme - by JustCarmen - `1.7` - `2.0` - [website](https://justcarmen.nl/themes/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
 This is a modern theme in clean white and blue. The layout is adjusted as much as possible
 for use on touch devices like tablets and mobile phones.
