@@ -12,6 +12,18 @@ There are two ways to upgrade webtrees -
 If you are currently using a version of webtrees listed below,
 there are some additional instructions.
 
+## webtrees 2.0.8
+
+webtrees 2.0.8 contains a bug in the auto-upgrade code.  It was quickly
+withdrawn, but a few users have installed it.  To use the automatic
+upgrade you need to edit two files.
+
+Firstly, edit `app/Factories/FilesystemFactory.php` and change line 40
+from `'/../../..'` to `'/../..'`.  This fixes the bug.
+
+Secondaly, edit `app/Webtrees.php` and change line 101 from
+`'2.0.8'` to `'2.0.7'`.  This will enable the automatic upgrade.
+
 ## webtrees 1.7.10 – {{ site.latest_version_17 }}
 
 There are several important [differences]({% link _upgrade/2.0.md %})

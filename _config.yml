@@ -30,7 +30,7 @@ collections:
     output: true
   user:
     output: true
-paginate: 11
+paginate: 20
 paginate_path: "/blog/page:num/"
 
 # External accounts
