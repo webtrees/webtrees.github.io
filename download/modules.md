@@ -93,7 +93,7 @@ genealogical search engines.
 
 ----------
 
-### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-imagebar)
+### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-imagebar) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
 
 The Fancy Imagebar is a row of images between header and content of your webtrees site.
 The image bar is built up with pictures from the media objects in your tree.
