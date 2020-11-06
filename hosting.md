@@ -23,9 +23,13 @@ Nowadays there are numerous web hosters who offer their services. These do not d
 The hosting providers listed below use server configurations that are specifically designed to meet the needs of a webtrees installation. These providers are also better able than any other web host to offer specific webtrees support. A webtrees hosting package is ideal for those who want to use one of the best genealogy programs available on the market, but do not want to bother with setting up and running the application. The user is provided with a completely installed and preconfigured system and only has to take care of his own data. All the other stuff is done by the service provider in the background. He takes care of the technology, administers the system and ensures that webtrees and the necessary system components are always up-to-date.
 
 ## hosting offers for webtrees: ##
+
 ## [hosting.webtrees.net](https://hosting.webtrees.net) ##
-Operated by Greg Roach (aka fisharebest), author of webtrees
-* other details…hosting.webtrees.net
+Operated by Greg Roach (aka fisharebest) - author of webtrees
+* Fast server, hosted in the EU (AWS Dublin)
+* Use your own domain name, or a sub-domain of webtrees.net
+* Unlimited priority support
+* Custom development and modifications available
 
 ## [genonline.de](https://genonline.de) ##
 Operated by Peter Schulz (aka Peter_S)
