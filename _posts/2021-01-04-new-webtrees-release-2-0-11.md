@@ -17,6 +17,10 @@ It fixes
 * import errors with inline media objects
 * many minor bugs.
 
+Notes for developers:
+
+* The Age::ageAtEvent and Age::timeAfterDeath have been deprecated.
+
 See the [change log](https://github.com/fisharebest/webtrees/compare/2.0.10...2.0.11)
 for a complete list of updates and bug-fixes.
 
