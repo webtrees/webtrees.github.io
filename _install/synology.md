@@ -74,7 +74,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 16. Still in "File Station", right click on the `webtrees` (or any other name) folder you created at step 4, then click on "Properties". Click on the "Permission" tab.
 17. Click on "Create", then fill the "Permission Editor" window (this will allow Webtrees to automatically update):
    * User of group: http
-   * Inherit from: <None>
+   * Inherit from: \<None\>
    * Type: Allow
    * Apply to: All
    * Leave "Administration" unticked.
