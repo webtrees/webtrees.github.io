@@ -105,4 +105,4 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
    ![Main folder properties.](../assets/img/synology/WS-MainFolderProperties.png)
 24. Last step is to create the user account that will be used as your main Webtrees account.
 
-Any question, post it on the (Webtrees Forum)[https://www.webtrees.net/index.php/en/forum].
+Any question, post it on the [Webtrees Forum](https://www.webtrees.net/index.php/en/forum).
