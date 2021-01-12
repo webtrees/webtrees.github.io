@@ -30,6 +30,7 @@ things you should know.
 * [MAMP]({% link _install/mamp.md %})
 * [Microsoft/IIS]({% link _install/iis.md %})
 * [OVH]({% link _install/ovh.md %})
+* [Synology]({% link _install/synology.md %})
 * [XAMPP]({% link _install/xampp.md %})
 
 ## Third-party installers
