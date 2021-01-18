@@ -15,7 +15,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 * Web Station
 * MariaDB 10
 * phpMyAdmin (only required for initial set-up of the database, may be removed once webtrees is running).
-* PHP (install the latest version available for uour NAS, 7.3 being the minimum recommended version).
+* PHP (install the latest version available for your NAS, 7.3 being the minimum recommended version).
 
 ## Webstation configuration
 
