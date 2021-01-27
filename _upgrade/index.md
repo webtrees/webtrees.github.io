@@ -21,7 +21,7 @@ upgrade you need to edit two files.
 Firstly, edit `app/Factories/FilesystemFactory.php` and change line 40
 from `'/../../..'` to `'/../..'`.  This fixes the bug.
 
-Secondaly, edit `app/Webtrees.php` and change line 101 from
+Secondly, edit `app/Webtrees.php` and change line 101 from
 `'2.0.8'` to `'2.0.7'`.  This will enable the automatic upgrade.
 
 ## webtrees 1.7.10 – {{ site.latest_version_17 }}
