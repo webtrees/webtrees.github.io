@@ -34,6 +34,7 @@ date: 2020-01-25
 
 * [There are no spaces between the given names and the surname.]({% link faq/name-spaces.md %})
 * [How can I show the GEDCOM IDs (XREFs) in webtrees?]({% link faq/xref.md %})
+* [How can I insert special characters or letters from a Czech or Norwegian keyboard?]({% link faq/special-letters.md %})
 
 ## Oops - I screwed up ##
 
