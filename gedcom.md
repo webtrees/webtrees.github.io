@@ -32,6 +32,7 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 ## Unofficial versions and extensions
 
 * [Event GEDCOM 1.0]({% link downloads/eged10ww.pdf %}) - Created by Commsoft, based on GEDCOM 5.3.
+* [GEDCOM-L]({% link downloads/gedcom-l.pdf %}) - Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
 * GEDCOM 5.5EL (available in [English](http://wiki-en.genealogy.net/Gedcom_5.5EL) and [German](http://wiki.genealogy.net/Gedcom_5.5EL)) - An extension which includes locations as first-class entities.
 * [The FamilySearch GEDCOM 5.5.1 Specification Annotated Edition]({% link downloads/TFG551SAE_Rev1_2018-07-05.pdf %}) - Revision 1, 2018-07-05), created by [Tamura Jones](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml)
 * [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - Based on the 5.5.1 annotated edition by Tamura Jones
