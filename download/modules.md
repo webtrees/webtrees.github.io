@@ -217,7 +217,7 @@ Sends a daily reminder of anniversaries.
 
 ----------
 
-### Rural Theme - by jon48 - `1.7` - `2.0` - [website](https://github.com/jon48/webtrees-theme-rural/releases) - [demo](https://genea.jaubart.com/wt)
+### Rural Theme - by jon48 - `1.7` - `2.0` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 The Rural theme is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. A companion of webtrees for over a decade now, its characteric layout is still organised around the main genealogical content being wrapped within a responsive white panel on a brown background.
 
