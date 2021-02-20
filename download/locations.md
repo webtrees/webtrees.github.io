@@ -45,7 +45,7 @@ translations for place names. See <https://github.com/webtrees/geodata>.
 * [New Zealand](/downloads/geographic-data/new-zealand.csv)
 * [Norway](/downloads/geographic-data/norway.zip)
 * [Palau](/downloads/geographic-data/palau.csv)
-* [Poland](/downloads/geographic-data/poland.csv)
+* [Poland](/downloads/geographic-data/poland.zip)
 * [Puerto Rico](/downloads/geographic-data/puerto-rico.csv)
 * [Réunion](/downloads/geographic-data/reunion.csv)
 * [Romania](/downloads/geographic-data/romania.zip)
