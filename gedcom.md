@@ -13,7 +13,7 @@ of the more common extensions that were created by other applications.
 
 ## Official versions
 
-* [GEDCOM 7.0.0-rc1]({% link downloads/gedcom-7.0.0-rc1.pdf %}) - 2021-02-10
+* GEDCOM 7.0.0-rc1[^1] - 2021-02-10
 * [GEDCOM 5.5.1]({% link downloads/gedcom-551.pdf %}) - 2019-11-15
 * [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-551-draft.pdf %}) - 1999-10-02
 * [GEDCOM 5.5]({% link downloads/gedcom-55.pdf %}) - 1995-12-11
@@ -40,3 +40,5 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 * [GedXML 5.6]({% link downloads/gedxml-56.pdf %})
 * [GedXML 6.0]({% link downloads/gedxml-60.pdf %})
 * [GEDCOM-X](http://www.gedcomx.org)
+
+[^1]: At the request of familysearch.org, the 7.0.0-rc1 document has been removed from this site.
