@@ -27,10 +27,12 @@ Secondly, it has serious security weaknesses, which cannot be fixed.
 
 ## Sendmail configuration
 
-By default, webtrees will use the command `/usr/sbin/sendmail -bs` to send mail. To use a different command or options, add a line to `data/config.ini.php`.  e.g.
+By default, webtrees will use the command `/usr/sbin/sendmail -bs` to
+send mail.  If your server requires different options (e.g. `-t`), add
+a line to `data/config.ini.php`.  e.g.
 
 ```
-sendmail_command="/path/to/sendmail -x -y -z"
+sendmail_command="/path/to/sendmail -t"
 ```
 
 ## SMTP Configuration
