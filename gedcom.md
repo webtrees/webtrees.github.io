@@ -13,7 +13,6 @@ of the more common extensions that were created by other applications.
 
 ## Official versions
 
-* GEDCOM 7.0.0-rc1[^1] - 2021-02-10
 * [GEDCOM 5.5.1]({% link downloads/gedcom-551.pdf %}) - 2019-11-15
 * [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-551-draft.pdf %}) - 1999-10-02
 * [GEDCOM 5.5]({% link downloads/gedcom-55.pdf %}) - 1995-12-11
@@ -35,11 +34,10 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 * [Event GEDCOM 1.0]({% link downloads/eged10ww.pdf %}) - Created by Commsoft, based on GEDCOM 5.3.
 * [GEDCOM-L]({% link downloads/gedcom-l.pdf %}) - Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
 * GEDCOM 5.5EL (available in [English](http://wiki-en.genealogy.net/Gedcom_5.5EL) and [German](http://wiki.genealogy.net/Gedcom_5.5EL)) - An extension which includes locations as first-class entities.
-* GEDCOM 5.5.1 Annotated Edition[^2] - Created by [Tamura Jones](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml)
+* GEDCOM 5.5.1 Annotated Edition[^1] - Created by [Tamura Jones](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml)
 * [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - Based on the 5.5.1 annotated edition by Tamura Jones
 * [GedXML 5.6]({% link downloads/gedxml-56.pdf %})
 * [GedXML 6.0]({% link downloads/gedxml-60.pdf %})
 * [GEDCOM-X](http://www.gedcomx.org)
 
-[^1]: At the request of familysearch.org, the 7.0.0-rc1 document has been removed from this site.
-[^2]: At the request of Tamura Jones, the Annotated Edition has been removed from this site.
+[^1]: At the request of Tamura Jones, the Annotated Edition has been removed from this site.
