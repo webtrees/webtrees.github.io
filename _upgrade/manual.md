@@ -25,7 +25,7 @@ They may also have upgrades available.
 
 ## Upgrade Steps
 
-* Download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD] or [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17] as appropriate.
+* Download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD], [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20] or [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17] as appropriate.
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Create a file `data/offline.txt` on the server.
 If it contains a message, it will be shown to your users.
@@ -42,4 +42,5 @@ you next visit the site.
 For this reason, the first page may take longer than usual to be displayed.
 
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
+[DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip

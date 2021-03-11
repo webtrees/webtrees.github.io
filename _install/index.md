@@ -13,7 +13,8 @@ the detailed [requirements]({% link _install/requirements.md%}).
 ## Installation steps
 
 * Check the version of PHP on your server.
-* For PHP 7.1 and later, download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD].
+* For PHP 7.3 and later, download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD].
+* For PHP 7.1 and 7.2, download [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20].
 * For PHP 7.0 and earlier download [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17].
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Upload the contents of the `webtrees` folder to a folder on your web server.
@@ -45,6 +46,7 @@ If you have any problems with these installers, please contact the provider dire
 
 [DOCKER]: https://github.com/H2CK/webtrees
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
+[DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
 [SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees

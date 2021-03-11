@@ -7,12 +7,13 @@ order:  1
 
 ## PHP Requirements
 
-webtrees {{ site.latest_version }} requires PHP 7.1 — 7.4.  Higher
-versions generally give better performance than lower versions.
+webtrees {{ site.latest_version }} requires PHP 7.3 — 8.0.
 
-If your server only has PHP 5.3 — 7.0, then you will need to install
-webtrees {{ site.latest_version_17 }}.
-Note that this version of webtrees only supports MySQL.
+webtrees {{ site.latest_version_20 }} requires PHP 7.1 — 7.4.
+
+webtrees {{ site.latest_version_17 }} requires PHP 5.3 — 7.0.
+Note that this version of webtrees only supports MySQL, and is
+no longer supported.
 
 ## Database Requirements
 
