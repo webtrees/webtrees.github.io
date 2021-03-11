@@ -3,7 +3,7 @@ layout: post
 title:  "webtrees 2.0.11 released"
 date:   2021-01-04
 sitemap:
-    priority: 1.0
+    priority: 0.7
 ---
 
 webtrees 2.0.11 is now available for download.
