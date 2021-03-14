@@ -24,6 +24,6 @@ net start w3svc
 ```
 
 Some versions of IIS do not include a root certificate file `cacert.pem`, and cannot make outgoing HTTPS
-connections.  This breaks the "check for upgrades" option does not work.
+connections.  This breaks the "check for upgrades" feature.
 
 You may need to configure this yourself.  There are more details at <https://www.php.net/manual/en/curl.configuration.php>.
