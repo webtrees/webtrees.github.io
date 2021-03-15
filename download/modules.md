@@ -66,6 +66,13 @@ NOTE: This function is a standard part of webtrees 2.0.
 
 ----------
 
+### Descendants Chart - by MagicSunday - `2.0` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
+
+This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
+an attractive descendants chart capable to display up to 25 generations.
+
+----------
+
 ### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
 
 This module provides an extended “Relationships” chart. It also displays additional relationship
