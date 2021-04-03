@@ -15,7 +15,7 @@ but it cannot store the location of "London, England".
 Consider an individual with three events, all in the same town:  
 For the birth, we have the co-ordinates of the hospital.  
 For the burial, we have the co-ordinates of the cemetery.  
-For the baptism, we have no-coordinates.
+For the baptism, we do not have the co-ordinates.
 
 ```
 0 @X1@ INDI
@@ -59,3 +59,22 @@ Now, webtrees will show the baptism on a map - at the town centre.
 
 ![Milton Keynes Gedcom](mk-map-2.png)
 
+Why doesn’t webtrees copy co-ordinates from the gazetteer to the events?
+========================================================================
+
+Consider the example above.
+If webtrees copied the co-ordinates for Milton Keynes (the town centre)
+into the baptism record, it would imply that the baptism occured at the
+town centre.  This would be incorrect.
+
+It would also make it impossible to know which co-ordinates are for the
+actual event, and which are for the town centre.
+
+Why doesn’t webtrees copy co-ordinates from the events to the gazetteer?
+========================================================================
+
+Consider the example above.
+We have co-ordinates for two different events.  Which one would we copy?
+
+Also, it would imply that the baptism occured at the hospital (or the cemetery).
+This would be incorrect.
