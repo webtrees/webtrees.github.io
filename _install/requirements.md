@@ -17,12 +17,12 @@ no longer supported.
 
 ## Database Requirements
 
-webtrees uses the Laravel Database component to provide support for these
+webtrees uses the [Laravel Database](https://laravel.com/docs/8.x/database) component to provide support for these
 popular database engines.
 
-* MySQL - version 5.6 or higher
-* MariaDB - version 10.0 or higher
-* PostgreSQL - version 9.4 or higher
+* MySQL - version 5.7 or higher
+* MariaDB - version 10.3 or higher
+* PostgreSQL - version 9.6 or higher
 * SQLite - version 3.8.8 or higher
 * SQL-Server - 2017 or higher
 
