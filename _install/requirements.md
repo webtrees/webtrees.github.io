@@ -23,7 +23,7 @@ popular database engines.
 * MySQL - version 5.6 or higher
 * MariaDB - version 10.0 or higher
 * PostgreSQL - version 9.4 or higher
-* SQLite - version 3.7.11 or higher
+* SQLite - version 3.8.8 or higher
 * SQL-Server - 2017 or higher
 
 MySQL/MariaDB is recommended for production servers.
