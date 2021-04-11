@@ -49,6 +49,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Généalogie des Lapierre d’Amérique](http://cnl-gla.ca/lapierre-amerique)
 * [Généalogie Dolman](http://www.dolman.fr)
 * [Généalogie du Pays Gallo (Morbihan, Ille-et-Vilaine / Bretagne)](https://paysgallo.webtrees.net)
+* [Genealogie Hermsdörfer - Hermersdörfer - Hermannsdörfer - Hermsdorf](http://hermsdoerfer.familyds.com/webtrees)
 * [Généalogie Momier-Momy Genealogy](http://www.momy-genealogie.info)
 * [Généalogie Rochas](http://escarton-oulx.eu/webtrees)
 * [Genealogy Zeitz family, Saarland, Germany](https://www.zeitzfamily.org/webtrees_2012)
@@ -57,7 +58,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Hartenthaler](http://ahnen.hartenthaler.eu)
 * [Heinrich Family](http://www.heinrich.id.au/webtrees)
 * [Helmut Paul‘s extended family](http://www.helmutpaul.at)
-* [Hermsdörfer](http://hermsdoerfer.familyds.com/hermsdoerfer)
 * [Heroes, Heritage, and History](http://unigen.us)
 * [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) - JustLight theme.
 * [Jans Slægtstræ](http://www.ju-n.dk/webtrees)
