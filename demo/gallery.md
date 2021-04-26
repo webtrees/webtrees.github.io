@@ -66,7 +66,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Le Grand Arbre Commun](http://wt.rauhut.eu)
 * [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg)
 * [Les familles de Cherence](http://www.cherence95-fr.org/webtrees) - Rural theme.
-* [M Steve Todd’s family tree](https://webtrees.mstevetodd.com)
+* [M Steve Todd’s family tree](https://webtrees.mstevetodd.com) - JustLight theme.
 * [MaLiBeLe](http://www.malibele.org)
 * [Marilyn Simmons Family Tree](http://www.josephsimmons.com)
 * [McCaskill Family](http://www.mccaskillfamily.net/webtrees)
