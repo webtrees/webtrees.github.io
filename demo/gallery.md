@@ -70,7 +70,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [MaLiBeLe](http://www.malibele.org)
 * [Marilyn Simmons Family Tree](http://www.josephsimmons.com)
 * [McCaskill Family](http://www.mccaskillfamily.net/webtrees)
-* [melfar.dk](https://www.melfar.dk)
+* [melfar.dk](https://www.melfar.dk) - JustLight theme.
 * [Meads & other family trees](http://ft.meads.co.nz)
 * [My Norfolk Ancestors](https://mynorfolkancestors.net) - Custom theme.
 * [Orchard Family](http://www.ourkin.org)
