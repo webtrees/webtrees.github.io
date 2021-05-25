@@ -191,6 +191,13 @@ Add more menu items to the main menu.
 
 ----------
 
+### Multi-Treeview - by H&Hwt - `2.0` - [website](https://github.com/huhwt/huhwt-mtv)
+
+This module shows two copies of the interactive tree side-by-side, to help when
+merging duplicate individuals.
+
+----------
+
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
 
 This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
