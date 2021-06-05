@@ -73,6 +73,12 @@ an attractive descendants chart capable to display up to 25 generations.
 
 ----------
 
+### Extended Family - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/hh_extended_family)
+
+This module creates an additional tab in the Individual view which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
+
+----------
+
 ### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
 
 This module provides an extended “Relationships” chart. It also displays additional relationship
