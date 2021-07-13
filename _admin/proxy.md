@@ -2,7 +2,7 @@
 layout: documentation
 title:  Using webtrees behind a proxy server
 date:   2020-02-20
-order:  7
+order:  8
 ---
 
 ## What is a proxy server?
