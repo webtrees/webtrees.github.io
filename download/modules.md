@@ -251,6 +251,12 @@ The header image can be customised, by replacing the file `./modules_v4/myartjau
 
 ----------
 
+### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin) 
+
+This module provides a simple way to add a SSO auto login for webtrees in combination with a authentication proxy (like oauth2-proxy).
+
+----------
+
 ### Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
 
 This module supports shared places as level 0 GEDCOM objects, on the basis of the
