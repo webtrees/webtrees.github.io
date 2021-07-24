@@ -120,9 +120,9 @@ where you can review the privacy settings of each individual.
 
 ----------
 
-### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links)
+### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
 
-A sidebar module that provides quick links to the search functions in approximately 30
+A sidebar module that provides quick links to the search functions in approximately 40
 genealogy research websites.
 
 ----------
@@ -251,7 +251,7 @@ The header image can be customised, by replacing the file `./modules_v4/myartjau
 
 ----------
 
-### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin) 
+### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin)
 
 This module provides a simple way to add a SSO auto login for webtrees in combination with a authentication proxy (like oauth2-proxy).
 
