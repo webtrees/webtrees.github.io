@@ -267,7 +267,7 @@ obtained from the respective shared place.
 
 ----------
 
-### Topola Interactive Tree - by PeWu - `1.7` - [website](https://github.com/PeWu/topola-webtrees)
+### Topola Interactive Tree - by PeWu - `1.7` - `2.0` - [website](https://github.com/PeWu/topola-webtrees)
 
 An interactive tree, showing ancestors and descendants.
 
