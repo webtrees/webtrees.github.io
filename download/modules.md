@@ -261,7 +261,7 @@ This module provides a simple way to add a SSO auto login for webtrees in combin
 
 This module supports shared places as level 0 GEDCOM objects, on the basis of the
 [GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
-[GEDCOM 5.5.1](/downloads/gedcom-551.pdf) specification.
+[GEDCOM 5.5.1](/downloads/gedcom-5-5-1.pdf) specification.
 It displays data via the extended “Facts and Events” tab, enhancing places with data
 obtained from the respective shared place.
 
