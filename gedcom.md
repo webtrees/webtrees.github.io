@@ -27,7 +27,7 @@ of the more common extensions that were created by other applications.
 * GEDCOM 5.1 (draft) - 1992-09-18
 * [GEDCOM 5.0 (draft)]({% link downloads/gedcom-5-0-draft.pdf %}) - 1991-09-25
 * [GEDCOM 4.0 (draft)]({% link downloads/gedcom-4-0-draft.pdf %}) - 1989-08-04
-* [GEDCOM 3.0 (draft)]({% link downloads/gedcom-30-draft.pdf %}) - 1987-10-09
+* [GEDCOM 3.0 (draft)]({% link downloads/gedcom-3-0-draft.pdf %}) - 1987-10-09
 * GEDCOM 2.1 - 1987-02
 * GEDCOM 2.0 - 1985-12
 * GEDCOM 1.0 - 1984
