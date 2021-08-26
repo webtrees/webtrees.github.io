@@ -53,7 +53,7 @@ $pdo = new PDO(
   ), $DBUSER, $DBPASS);
 $sql = 'UPDATE `' . $TBLPFX . 'user` SET password = :password WHERE email = :email';
 $stmt = $pdo->prepare($sql);
-$stmt->execute(array('password' => crypt($PASSWD, ''), 'email' => $EMAIL));
+$stmt->execute(array('password' => password_hash($PASSWD,  PASSWORD_DEFAULT), 'email' => $EMAIL));
 if ($stmt->rowCount() > 0) {
   echo 'SUCCESS - The user account was updated.';
 } else {
