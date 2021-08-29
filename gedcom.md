@@ -20,6 +20,7 @@ of the more common extensions that were created by other applications.
 * [GEDCOM 7.0.0]({% link downloads/gedcom-7-0-0.pdf %}) - 2021-05-07
 * [GEDCOM 5.5.1]({% link downloads/gedcom-5-5-1.pdf %}) - 2019-11-15
 * [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-5-5-1-draft.pdf %}) - 1999-10-02
+* [GEDCOM 5.5 (errata)]({% link downloads/gedcom-5-5-errata.pdf %}) - 1996-02-10
 * [GEDCOM 5.5]({% link downloads/gedcom-5-5.pdf %}) - 1995-12-11
 * [GEDCOM 5.4 (draft)]({% link downloads/gedcom-5-4-draft.pdf %}) - 1995-08-21
 * [GEDCOM 5.3 (draft)]({% link downloads/gedcom-5-3-draft.pdf %}) - 1993-11-04
@@ -28,7 +29,10 @@ of the more common extensions that were created by other applications.
 * [GEDCOM 5.0 (draft)]({% link downloads/gedcom-5-0-draft.pdf %}) - 1991-09-25
 * [GEDCOM 4.0 (draft)]({% link downloads/gedcom-4-0-draft.pdf %}) - 1989-08-04
 * [GEDCOM 3.0 (draft)]({% link downloads/gedcom-3-0-draft.pdf %}) - 1987-10-09
-* GEDCOM 2.1 - 1987-02
+* GEDCOM 2.4 - 1985-12-23 (this release was mentioned in 3.0)
+* GEDCOM 2.3 -
+* GEDCOM 2.2 -
+* GEDCOM 2.1 -
 * GEDCOM 2.0 - 1985-12
 * GEDCOM 1.0 - 1984
 
