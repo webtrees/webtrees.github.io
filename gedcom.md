@@ -19,6 +19,8 @@ of the more common extensions that were created by other applications.
 * [GEDCOM 7.0.1]({% link downloads/gedcom-7-0-1.pdf %}) - 2021-06-07
 * [GEDCOM 7.0.0]({% link downloads/gedcom-7-0-0.pdf %}) - 2021-05-07
 * [GEDCOM 5.5.1]({% link downloads/gedcom-5-5-1.pdf %}) - 2019-11-15
+* [GedXML 6.0 (draft)]({% link downloads/gedxml-60.pdf %}) - 2001-12-28
+* [GedXML 5.6 (draft)]({% link downloads/gedxml-56.pdf %}) - 2000-12-18
 * [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-5-5-1-draft.pdf %}) - 1999-10-02
 * [GEDCOM 5.5 (errata)]({% link downloads/gedcom-5-5-errata.pdf %}) - 1996-02-10
 * [GEDCOM 5.5]({% link downloads/gedcom-5-5.pdf %}) - 1995-12-11
@@ -45,6 +47,4 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 * GEDCOM 5.5EL (available in [English](http://wiki-en.genealogy.net/Gedcom_5.5EL) and [German](http://wiki.genealogy.net/Gedcom_5.5EL)) - An extension which includes locations as first-class entities.
 * GEDCOM 5.5.1 Annotated Edition. At the request of Tamura Jones, the Annotated Edition has been removed from this site and is available [here](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml).
 * [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - Based on the 5.5.1 annotated edition by Tamura Jones
-* [GedXML 5.6]({% link downloads/gedxml-56.pdf %})
-* [GedXML 6.0]({% link downloads/gedxml-60.pdf %})
 * [GEDCOM-X](http://www.gedcomx.org)
