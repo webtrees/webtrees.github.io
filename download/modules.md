@@ -177,23 +177,15 @@ Creates an all-in-one tree in a variety of formats.
 A dark-gray layout with orange and yellow accents. Smooth Top Navigation Menu.
 Nice font for titles. Colorbox support for pdf files. Responsive dialog boxes.
 
-There is also a [JustBlack Theme options](https://github.com/JustCarmen/justblack_theme_options)
-module which customises the JustBlack theme and provides more features.
+_Note: In webtrees 2.0 the JustBlack theme is part of the JustLight theme (see below)_.
 
 ----------
 
 ### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
-This is a modern theme in clean white and blue. The layout is adjusted as much as possible
-for use on touch devices like tablets and mobile phones.
-The menu is responsive. This means it will collapse on smaller screens and have only
-clickable items. You might be used to hover over a menu item to get it’s submenu but
-on touch devices the hover functionality doesn’t exist. The tabs at the individual
-page are replaced by bootstrap panels for a better layout on mobile devices.
-Also the sidebar will collapse automatically when viewing from smaller screens.
+A light theme with focus on readibility. It uses a full screen where neccessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
-There is also a [JustLight Theme options](https://github.com/JustCarmen/justlight_theme_options)
-module which customises the JustLight theme and provides more features.
+There are two color palettes available. The JustLight palette is a modern palette in clean white and blue. The JustBlack palette has a dark background and orange accents. This palette is more relaxing for the eyes. You can set a default palette for all users or let your users make their own choice.
 
 ----------
 
