@@ -41,6 +41,7 @@ If you have any problems with these installers, please contact the provider dire
 * [Docker][DOCKER]
 * [Installatron][INSTALLATRON]
 * [OpenSuse][OPENSUSE]
+* [Puppet][PUPPET]
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
 
@@ -49,5 +50,6 @@ If you have any problems with these installers, please contact the provider dire
 [DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
 [OPENSUSE]: https://build.opensuse.org/package/show/home:ecsos:server/webtrees
+[PUPPET]: https://github.com/jjarokergc/puppet-webtrees
 [SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
 [YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
