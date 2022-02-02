@@ -3,7 +3,7 @@ layout: post
 title:  "webtrees 2.1.0-alpha.1 released"
 date:   2021-12-02
 sitemap:
-    priority: 1.0
+    priority: 0.7
 ---
 
 webtrees 2.1.0-alpha.1 is now available for download.
