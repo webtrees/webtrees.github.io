@@ -13,6 +13,7 @@ of the more common extensions that were created by other applications.
 
 ## Official versions
 
+* [GEDCOM 7.0.7]({% link downloads/gedcom-7-0-7.pdf %}) - 2022-02-08
 * [GEDCOM 7.0.6]({% link downloads/gedcom-7-0-6.pdf %}) - 2021-12-14
 * [GEDCOM 7.0.5]({% link downloads/gedcom-7-0-5.pdf %}) - 2021-09-29
 * [GEDCOM 7.0.4]({% link downloads/gedcom-7-0-4.pdf %}) - 2021-07-30
