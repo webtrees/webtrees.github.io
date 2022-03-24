@@ -99,3 +99,4 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [verwandten.info](http://www.verwandten.info/joomla/familienbuecher) - webtrees embedded in Joomla, custom theme.
 * [Wij zijn familie](https://wijzijnfamilie.nl) - JustLight themes and other modules
 * [睢宁王氏家族网](https://www.snwsjz.com) - Custom theme and other modifications.
+* [Die Sippe](https://freris.de) - all themes, all extensions
