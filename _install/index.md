@@ -13,7 +13,7 @@ the detailed [requirements]({% link _install/requirements.md%}).
 ## Installation steps
 
 * Check the version of PHP on your server.
-* For PHP 8.0 and later, [webtrees-{{ site.latest_version }}.zip][DOWNLOAD] will be coming soon.
+* For PHP 8.0 and later, download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD].
 * For PHP 7.1 to 7.4, download [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20].
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Upload the contents of the `webtrees` folder to a folder on your web server.
@@ -31,6 +31,7 @@ things you should know.
 * [Microsoft/IIS]({% link _install/iis.md %})
 * [OVH]({% link _install/ovh.md %})
 * [Synology]({% link _install/synology.md %})
+* [Ubserspace]({% link _install/ubserspace.md %})
 * [XAMPP]({% link _install/xampp.md %})
 
 ## Third-party installers
