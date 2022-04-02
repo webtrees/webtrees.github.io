@@ -85,6 +85,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Stamboom Jongman](https://roeljongman.nl)
 * [Stammbaum Anverwandte](http://stammbaum.anverwandte.info)
 * [Strickler Family worldwide](https://www.strickler.info/webtrees)
+* [Die Sippe](https://freris.de) - all themes, all extensions
 * [The Arnold and Moberly Family Genealogy](http://www.myarnolds.com)
 * [The Bournias family tree](http://webtrees.bournias.net)
 * [The Jonesipedia](https://www.jonesipedia.com) - Custom theme
