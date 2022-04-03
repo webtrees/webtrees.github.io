@@ -3,7 +3,7 @@ layout: post
 title:  "webtrees 2.1.0-beta.1 released"
 date:   2022-03-16
 sitemap:
-    priority: 1.0
+    priority: 0.7
 ---
 
 webtrees 2.1.0-beta.1 is now available for download.
