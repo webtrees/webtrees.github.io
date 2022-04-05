@@ -15,7 +15,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 * Web Station
 * MariaDB 10
 * phpMyAdmin (only required for initial set-up of the database, may be removed once webtrees is running).
-* PHP (install the latest version available for your NAS, 7.3 being the minimum recommended version).
+* PHP (install the latest version available for your NAS, 7.4 being the minimum recommended version).
 
 ## Webstation configuration
 
@@ -55,7 +55,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 
 ## Moving the files to your NAS
 
-1. Having installed PHP >= 7.3, you can safely [download the latest verion of webtrees](https://webtrees.net/download).
+1. Having installed PHP >= 7.4, you can safely [download the latest verion of webtrees](https://webtrees.net/download).
 2. Unpack this file on your computer.  You should have a folder called `webtrees`.
 3. On you NAS, open "File Station", navigate to your `web` folder.
 4. Create a `webtrees` folder (or any other name) inside your .
@@ -98,7 +98,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 
 ## Configuring webtrees
 
-1. Run the webtrees configuration wizard.
+1. Run the webtrees setup wizard.
 2. Once at the "Database connection" step, enter the following settings:
    - Server name: 127.0.0.1
    - Port number: 3307
