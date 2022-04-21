@@ -79,13 +79,6 @@ This module creates an additional tab in the Individual view which lists the mem
 
 ----------
 
-### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
-
-This module provides an extended “Relationships” chart. It also displays additional relationship
-information via the extended “Families” tab, and the extended “Facts and Events” tab.
-
-----------
-
 ### Faces - by UksusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-faces)
 
 Tag faces on photos.
@@ -159,13 +152,6 @@ Provides historical facts (in German language) - Wars and Battles Worldwide (sin
 
 ----------
 
-### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
-
-It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
-creating a place hierarchy with administrative levels from the date of the respective event.
-
-----------
-
 ### GVexport - by tillsc - `2.0`  - [website](https://github.com/tillsc/GVExport)
 
 Creates an all-in-one tree in a variety of formats.
@@ -222,13 +208,6 @@ Add pages of information, with links from the main menu.
 
 ----------
 
-### Places and Pedigree Map - by ric2016 - `2.0` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
-
-This module provides replacements for the original “Places” and “Pedigree map” modules,
-using location data from GEDCOM, as well as location data provided by other modules.
-
-----------
-
 ### Reminder - by UksusoFF - `2.0` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
@@ -249,16 +228,6 @@ This module provides a simple way to add a SSO auto login for webtrees in combin
 
 ----------
 
-### Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
-
-This module supports shared places as level 0 GEDCOM objects, on the basis of the
-[GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
-[GEDCOM 5.5.1](/downloads/gedcom-5-5-1.pdf) specification.
-It displays data via the extended “Facts and Events” tab, enhancing places with data
-obtained from the respective shared place.
-
-----------
-
 ### Topola Interactive Tree - by PeWu - `1.7` - `2.0` - [website](https://github.com/PeWu/topola-webtrees)
 
 An interactive tree, showing ancestors and descendants.
@@ -276,3 +245,47 @@ Add full screen button for interactive tree view tab.
 André has written several modules, but the download links on his site are not currently working.
 
 ----------
+
+### Vesta Classic Look & Feel - by ric2016 - `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf) - [demo](https://cissee.de/webtrees)
+
+This module adjusts all themes and other features, providing a look & feel closer to the webtrees 1.x version.
+
+----------
+
+### Vesta Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
+
+This module provides an extended “Relationships” chart. It also displays additional relationship
+information via the extended “Families” tab, and the extended “Facts and Events” tab.
+
+----------
+
+### Vesta Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
+
+This module enhances places with historical and current [GOV](http://gov.genealogy.net) data,
+creating a place hierarchy with administrative levels from the date of the respective event.
+
+----------
+
+### Vesta Places and Pedigree Map - by ric2016 - `2.1` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
+
+This module provides replacements for the original “Places” and “Pedigree map” modules,
+using location data from GEDCOM, as well as location data provided by other modules.
+
+----------
+
+### Vesta Research Suggestions - by ric2016 - `2.1` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_research_suggestions)
+
+This module provides suggestions for additional research, based on available sources. It is helpful in particular if you have a large number of unsourced events (e.g. events initially taken over from another tree) which are expected to be covered by a manageable number of shared sources.
+
+----------
+
+### Vesta Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
+
+This module supports shared places as level 0 GEDCOM objects, on the basis of the
+[GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
+[GEDCOM 5.5.1](/downloads/gedcom-5-5-1.pdf) specification.
+It displays data via the extended “Facts and Events” tab, enhancing places with data
+obtained from the respective shared place.
+
+----------
+
