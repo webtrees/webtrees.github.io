@@ -107,6 +107,19 @@ Store the following `.htaccess` file in the webtrees folder.
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /webtrees/
+  
+  # GIT config files can contain credentials or other sensitive data.
+  RewriteRule \.git - [F]
+
+  # User data is stored here by default.
+  RewriteRule ^data(/|$) - [F]
+
+  # Nothing sensitive here, but there is no need to publish it.
+  RewriteRule ^app(/|$) - [F]
+  RewriteRule ^modules - [F]
+  RewriteRule ^resources(/|$) - [F]
+  RewriteRule ^vendor(/|$) - [F]
+
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^ index.php [L]
