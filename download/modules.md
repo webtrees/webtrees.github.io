@@ -208,7 +208,7 @@ Add pages of information, with links from the main menu.
 
 ----------
 
-### Reminder - by UksusoFF - `2.0` - [website](https://github.com/UksusoFF/webtrees-reminder)
+### Reminder - by UksusoFF - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
 
