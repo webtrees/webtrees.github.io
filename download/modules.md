@@ -37,6 +37,12 @@ an attractive, animated fan chart.
 
 ----------
 
+### Argon Theme - by Jonathan Chue - `2.0` - [website](https://github.com/jchue/argon-webtrees-theme)
+
+A theme for the webtrees based on the Argon Design System.
+
+----------
+
 ### Branch Export - by BlasiusSecundus - `1.7` - [website](https://github.com/BlasiusSecundus/branch_export)
 
 An alternative to the clippings cart, which allows parts of a tree to be extracted to
