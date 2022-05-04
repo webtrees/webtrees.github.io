@@ -105,7 +105,7 @@ genealogical search engines.
 
 ----------
 
-### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-imagebar) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
+### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-imagebar) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
 
 The Fancy Imagebar is a row of images between header and content of your webtrees site.
 The image bar is built up with pictures from the media objects in your tree.
@@ -119,7 +119,7 @@ where you can review the privacy settings of each individual.
 
 ----------
 
-### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
+### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
 
 A sidebar module that provides quick links to the search functions in approximately 40
 genealogy research websites.
@@ -169,11 +169,11 @@ Creates an all-in-one tree in a variety of formats.
 A dark-gray layout with orange and yellow accents. Smooth Top Navigation Menu.
 Nice font for titles. Colorbox support for pdf files. Responsive dialog boxes.
 
-_Note: In webtrees 2.0 the JustBlack theme is part of the JustLight theme (see below)_.
+_Note: As of webtrees 2.0 the JustBlack theme is part of the JustLight theme (see below)_.
 
 ----------
 
-### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - `2.0` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
+### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
 A light theme with focus on readibility. It uses a full screen where neccessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
