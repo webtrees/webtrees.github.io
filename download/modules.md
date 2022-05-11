@@ -9,14 +9,14 @@ webtrees is designed to be extended and modified using modules.
 The following modules have been created by members of the webtrees community.
 
 Before installing a module, make sure that the module is compatible with your version of webtrees.
-Modules for webtrees 1.7 will not work with webtrees 2.0 and vice-versa.
+Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa.
 
 For support or to report issues, please contact the author of the module.
 To add your module to this list, please get in touch.
 
-## Installing/removing modules in webtrees 2.0
+## Installing/removing modules in webtrees 2.0 or 2.1
 
-To install a module in webtrees 2.0, copy it to the folder `/modules_v4/`.
+To install a module in webtrees 2.0 or 2.1, copy it to the folder `/modules_v4/`.
 Themes are just special types of module, and are installed in the same folder.
 To remove a module, just delete it.
 To temporarily disable a module, rename it from `/modules_v4/xxx` to `/modules_v4/xxx.disable`.
@@ -68,7 +68,7 @@ A tab which shows all the cousins of an individual.
 Allows you to add JavaScript to every webtrees page.  Typical uses are adding code for
 tools such as Google Analytics, or modifying existing content, such as adding footers.
 
-NOTE: This function is a standard part of webtrees 2.0.
+NOTE: This function is a standard part of webtrees 2.0 and 2.1.
 
 ----------
 
@@ -146,13 +146,13 @@ Display all the photos in a folder.
 
 ----------
 
-### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
+### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
 
 Provides historical facts (in German language) - Chancellors and Presidents of Germany (since 1949).
 
 ----------
 
-### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
+### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
 
 Provides historical facts (in German language) - Wars and Battles Worldwide (since 900).
 
@@ -178,6 +178,12 @@ _Note: As of webtrees 2.0 the JustBlack theme is part of the JustLight theme (se
 A light theme with focus on readibility. It uses a full screen where neccessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
 There are two color palettes available. The JustLight palette is a modern palette in clean white and blue. The JustBlack palette has a dark background and orange accents. This palette is more relaxing for the eyes. You can set a default palette for all users or let your users make their own choice.
+
+----------
+
+### Main menu manual - by jp - `2.1` - [website](https://github.com/jpretired/jp-main-menu-manual)
+
+Add main menu item which links to a page listing various webtrees manuals.
 
 ----------
 
@@ -240,7 +246,7 @@ An interactive tree, showing ancestors and descendants.
 
 ----------
 
-### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
+### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
 
 Add full screen button for interactive tree view tab.
 
