@@ -14,7 +14,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Altvater in Oberschwaben](http://micha-a.info/micgen) - JustLight theme.
 * [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) - Some customisations to display PDFs and handle chinese names.
 * [Ancestors of Iver Neumann-Korsgaard](http://iverneumann.no/webtrees)
-* [AncestryUnited.com](http://www.ancestryunited.com)
 * [Anderson+Berry/Lang+Buchholz/Gansemer+Strong/Kueter+Hoxmeier](http://genealogy.dbq-andersons.com)
 * [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr)
 * [Archief van Gemen](https://www.vangemen.nl)
