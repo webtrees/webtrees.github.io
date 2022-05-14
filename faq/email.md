@@ -84,6 +84,6 @@ Note that Google plan to stop support for "less secure apps" on 30 May 2022.
 
 * Server name: smtp.gmail.com
 * Port number: 587
-* Secure connection: tls
+* Secure connection: STARTTLS
 * Username: xxxx@gmail.com
 * Password: See above for which password to use
