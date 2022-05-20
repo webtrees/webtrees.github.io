@@ -29,7 +29,7 @@ of the more common extensions that were created by other applications.
 * [GEDCOM 5.5]({% link downloads/gedcom-5-5.pdf %}) - 1995-12-11
 * [GEDCOM 5.4 (draft)]({% link downloads/gedcom-5-4-draft.pdf %}) - 1995-08-21
 * [GEDCOM 5.3 (draft)]({% link downloads/gedcom-5-3-draft.pdf %}) - 1993-11-04
-* GEDCOM 5.2 (draft) - 1992-01-22
+* GEDCOM 5.2 (draft) - 1993-01-22(?)
 * GEDCOM 5.1 (draft) - 1992-09-18
 * [GEDCOM 5.0 (draft)]({% link downloads/gedcom-5-0-draft.pdf %}) - 1991-09-25
 * GEDCOM 4.2 Draft - 1990-01-25
@@ -46,7 +46,8 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 ## Unofficial versions and extensions
 
 * [Event GEDCOM 1.0]({% link downloads/eged10ww.pdf %}) - Created by Commsoft, based on GEDCOM 5.3.
-* [GEDCOM-L R1/R2]({% link downloads/gedcom-l.pdf %}) - 2020-02-22/2020-12-01 Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
+* [GEDCOM-L Release 1]({% link downloads/gedcom-l-r1.pdf %}) - 2020-01-01 Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
+* [GEDCOM-L Release 2]({% link downloads/gedcom-l-r2.pdf %}) - 2020-12-01 Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
 * GEDCOM 5.5EL (available in [English](http://wiki-en.genealogy.net/Gedcom_5.5EL) and [German](http://wiki.genealogy.net/Gedcom_5.5EL)) - An extension which includes locations as first-class entities.
 * GEDCOM 5.5.1 Annotated Edition. At the request of Tamura Jones, the Annotated Edition has been removed from this site and is available [here](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml).
 * [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - 2019-10-02 (based on the 5.5.1 annotated edition by Tamura Jones)
