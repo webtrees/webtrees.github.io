@@ -4,7 +4,7 @@ title: The GEDCOM data format
 date: 2021-08-23
 ---
 
-GEDCOM stands for “**GE**nealogy **D**ata **COM**munciation”. It is a file-format used to transfer genealogy data from one application to another.  It was created by the Church Of Latter Day Saints and has since become a standard format used by almost all genealogy applications.
+GEDCOM stands for “**GE**nealogy **D**ata **COM**munciation”. It is a file-format used to transfer genealogy data from one application to another.  It was created by "The Church of Jesus Christ of Latter-day Saints" and has since become a standard format used by almost all genealogy applications.
 
 Version 5.5.1 was draft for over 20 years before being finally issued.
 
@@ -20,24 +20,24 @@ of the more common extensions that were created by other applications.
 * [GEDCOM 7.0.3]({% link downloads/gedcom-7-0-3.pdf %}) - 2021-07-13
 * [GEDCOM 7.0.2]({% link downloads/gedcom-7-0-2.pdf %}) - 2021-06-16
 * [GEDCOM 7.0.1]({% link downloads/gedcom-7-0-1.pdf %}) - 2021-06-07
-* [GEDCOM 7.0.0]({% link downloads/gedcom-7-0-0.pdf %}) - 2021-05-07
+* [GEDCOM 7.0.0]({% link downloads/gedcom-7-0-0.pdf %}) - 2021-05-21
 * [GEDCOM 5.5.1]({% link downloads/gedcom-5-5-1.pdf %}) - 2019-11-15
 * [GedXML 6.0 (draft)]({% link downloads/gedxml-60.pdf %}) - 2001-12-28
-* [GedXML 5.6 (draft)]({% link downloads/gedxml-56.pdf %}) - 2000-12-18
+* [GedXML 5.6 (private draft)]({% link downloads/gedxml-56.pdf %}) - 2000-12-18
 * [GEDCOM 5.5.1 (draft)]({% link downloads/gedcom-5-5-1-draft.pdf %}) - 1999-10-02
 * [GEDCOM 5.5 (errata)]({% link downloads/gedcom-5-5-errata.pdf %}) - 1996-02-10
 * [GEDCOM 5.5]({% link downloads/gedcom-5-5.pdf %}) - 1995-12-11
 * [GEDCOM 5.4 (draft)]({% link downloads/gedcom-5-4-draft.pdf %}) - 1995-08-21
 * [GEDCOM 5.3 (draft)]({% link downloads/gedcom-5-3-draft.pdf %}) - 1993-11-04
-* GEDCOM 5.2 (draft) -
+* GEDCOM 5.2 (draft) - 1993-01-22(?)
 * GEDCOM 5.1 (draft) - 1992-09-18
 * [GEDCOM 5.0 (draft)]({% link downloads/gedcom-5-0-draft.pdf %}) - 1991-09-25
+* GEDCOM 4.2 Draft - 1990-01-25
 * [GEDCOM 4.0 (draft)]({% link downloads/gedcom-4-0-draft.pdf %}) - 1989-08-04
 * [GEDCOM 3.0 (draft)]({% link downloads/gedcom-3-0-draft.pdf %}) - 1987-10-09
-* GEDCOM 2.4 - 1985-12-23 (this release was mentioned in 3.0)
-* GEDCOM 2.3 -
-* GEDCOM 2.2 -
-* GEDCOM 2.1 -
+* GEDCOM 2.4 Draft - 1985-12-13 (this release was mentioned in 3.0)
+* GEDCOM 2.3 Draft - 1985-08-07
+* GEDCOM 2.1 - 1987-02
 * GEDCOM 2.0 - 1985-12
 * GEDCOM 1.0 - 1984
 
@@ -46,8 +46,9 @@ The GEDCOM specification is Copyright 1987, 1989, 1992, 1993, 1995, 1999, 2019 b
 ## Unofficial versions and extensions
 
 * [Event GEDCOM 1.0]({% link downloads/eged10ww.pdf %}) - Created by Commsoft, based on GEDCOM 5.3.
-* [GEDCOM-L]({% link downloads/gedcom-l.pdf %}) - Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
+* [GEDCOM-L Release 1]({% link downloads/gedcom-l-r1.pdf %}) - 2020-01-01 Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
+* [GEDCOM-L Release 2]({% link downloads/gedcom-l-r2.pdf %}) - 2020-12-01 Created by Computer Genealogy Society of Germany, based on GEDCOM 5.5.1.
 * GEDCOM 5.5EL (available in [English](http://wiki-en.genealogy.net/Gedcom_5.5EL) and [German](http://wiki.genealogy.net/Gedcom_5.5EL)) - An extension which includes locations as first-class entities.
 * GEDCOM 5.5.1 Annotated Edition. At the request of Tamura Jones, the Annotated Edition has been removed from this site and is available [here](https://www.tamurajones.net/GEDCOM551AnnotatedEdition.xhtml).
-* [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - Based on the 5.5.1 annotated edition by Tamura Jones
+* [GEDCOM 5.5.5]({% link downloads/gedcom-555.pdf %}) - 2019-10-02 (based on the 5.5.1 annotated edition by Tamura Jones)
 * [GEDCOM-X](http://www.gedcomx.org)
