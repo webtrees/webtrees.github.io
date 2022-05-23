@@ -122,7 +122,7 @@ where you can review the privacy settings of each individual.
 ### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
 
 A sidebar module that provides quick links to the search functions in approximately 80
-genealogy research websites, both international and country specific.
+genealogy research websites, both national and international.
 
 ----------
 
