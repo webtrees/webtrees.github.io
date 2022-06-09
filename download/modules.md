@@ -30,14 +30,14 @@ To remove a module or theme, just delete it.
 
 ----------
 
-### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.0` - [website](https://github.com/magicsunday/webtrees-fan-chart)
+### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-fan-chart)
 
 A replacement for the webtrees fan chart, this module uses the D3JS library to provide
 an attractive, animated fan chart.
 
 ----------
 
-### Argon Theme - by Jonathan Chue - `2.0` - [website](https://github.com/jchue/argon-webtrees-theme)
+### Argon Theme - by Jonathan Chue - `2.0` - `2.1` - [website](https://github.com/jchue/argon-webtrees-theme)
 
 A theme for the webtrees based on the Argon Design System.
 
@@ -57,7 +57,7 @@ information to fit on each page.
 
 ----------
 
-### Cousins - by vytux - `1.7` - `2.0` - [website](https://github.com/vytux-com/vytux_cousins)
+### Cousins - by vytux - `1.7` - `2.0` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
 
 A tab which shows all the cousins of an individual.
 
@@ -72,20 +72,20 @@ NOTE: This function is a standard part of webtrees 2.0 and 2.1.
 
 ----------
 
-### Descendants Chart - by MagicSunday - `2.0` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
+### Descendants Chart - by MagicSunday - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
 
 This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
 an attractive descendants chart capable to display up to 25 generations.
 
 ----------
 
-### Extended Family - by Hartenthaler - `2.0` - [website](https://github.com/hartenthaler/hh_extended_family)
+### Extended Family - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/hh_extended_family)
 
 This module creates an additional tab in the Individual view which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
 
 ----------
 
-### Faces - by UksusoFF - `1.7` - `2.0` - [website](https://github.com/UksusoFF/webtrees-faces)
+### Faces - by UksusoFF - `1.7` - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-faces)
 
 Tag faces on photos.
 
@@ -158,7 +158,7 @@ Provides historical facts (in German language) - Wars and Battles Worldwide (sin
 
 ----------
 
-### GVexport - by tillsc - `2.0`  - [website](https://github.com/tillsc/GVExport)
+### GVexport - by Neriderc - `2.1` - [website](https://github.com/Neriderc/GVExport)
 
 Creates an all-in-one tree in a variety of formats.
 
@@ -169,7 +169,7 @@ Creates an all-in-one tree in a variety of formats.
 A dark-gray layout with orange and yellow accents. Smooth Top Navigation Menu.
 Nice font for titles. Colorbox support for pdf files. Responsive dialog boxes.
 
-_Note: As of webtrees 2.0 the JustBlack theme is part of the JustLight theme (see below)_.
+_Note: As of webtrees 2.0/2.1 the JustBlack theme is part of the JustLight theme (see below)_.
 
 ----------
 
@@ -193,7 +193,7 @@ Add more menu items to the main menu.
 
 ----------
 
-### Multi-Treeview - by H&Hwt - `2.0` - [website](https://github.com/huhwt/huhwt-mtv)
+### Multi-Treeview - by H&Hwt - `2.0` - `2.1` - [website](https://github.com/huhwt/huhwt-mtv)
 
 This module shows two copies of the interactive tree side-by-side, to help when
 merging duplicate individuals.
@@ -207,7 +207,7 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ----------
 
-### Pedigree Chart - by MagicSunday - `2.0` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
+### Pedigree Chart - by MagicSunday - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
 
 A replacement for the webtrees pedigree chart, this module uses the D3JS library to provide
 an attractive pedigree chart capable to display up to 25 generations.
