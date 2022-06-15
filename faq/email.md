@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ - How do I configure webtrees to send e-mail?
-date: 2020-04-25
+date: 2022-06-15
 ---
 
 Sending e-mail is difficult.  Because of spam, many systems exist to block
@@ -13,12 +13,12 @@ it will be delivered.
 There are two systems for sending mail - SMTP and Sendmail.
 
 * “SMTP” is a protocol to communicate with other mail servers.
-Almost all webtrees sites will use this method.
+  Almost all webtrees sites will use this method.
 
 * “Sendmail” is a process that runs on your server.  It needs to be
-properly configured by your system administrator, and PHP needs to
-have permission to create processes on the server.
-Most webhosting packages will **not** allow you to do this.
+  properly configured by your system administrator, and PHP needs to
+  have permission to create processes on the server.
+  Most webhosting packages will **not** allow you to do this.
 
 Note: earlier versions of webtrees had an option to send e-mail using the PHP
 function `mail()`.  Most mail libraries no longer support this option.
@@ -69,18 +69,12 @@ Some SMTP servers may only deliver mail from known addresses or domain names.
 
 If you have a Gmail account, you can use Google’s SMTP server.
 
-If you have enabled two-factor-authentication on your account, then you
-must create an “app password” at <https://myaccount.google.com/apppasswords>.
+You must enable two-factor-authentication on your account, and then create
+an “app password” at <https://myaccount.google.com/apppasswords>.
 Use this “app password” in the SMTP settings.
 
-If you have not enabled two-factor-authentication on your account, then you
-must enable "less secure apps at <https://myaccount.google.com/lesssecureapps>.
-Use your Google account password in the SMTP settings.
-
-Note that Google will disable this option if you do not use it regularly,
-and you will need to enable it again.
-
-Note that Google plan to stop support for "less secure apps" on 30 May 2022.
+Note that support for "less secure apps" using your standard Google password
+ended on 30 May 2022.
 
 * Server name: smtp.gmail.com
 * Port number: 587
