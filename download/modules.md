@@ -50,6 +50,11 @@ a GEDCOM file.
 
 ----------
 
+### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.1` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](http://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
+
+This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [joomla](https://www.joomla.org).
+
+----------
 ### Custom CSS - by makitso - `2.0` - `2.1` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
 
 Global modifications to all themes, to provide a more compact display and allowing more
@@ -76,6 +81,12 @@ NOTE: This function is a standard part of webtrees 2.0 and 2.1.
 
 This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
 an attractive descendants chart capable to display up to 25 generations.
+
+----------
+
+### DownloadGedcomWithURL - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/DownloadGedcomWithURL)
+
+This module downloads GEDCOM files on URL requests with the tree name, GEDCOM file name, and authorization provided as parameters within the URL.
 
 ----------
 
@@ -226,6 +237,11 @@ Sends a daily reminder of anniversaries.
 
 ----------
 
+### Repository Hierarchy - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/RepositoryHierarchy) - [demo](http://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Frepositoryhierarchy%2Fxref%2FR1%2Fdelimiter_expression%2FLASA%252C%2520%255B%255Cw%255D%252A%2528%252C%2520%2529%253B%2528%252C%2520%2529Bg%253B%2528%252C%2520%2529%255BIX%255D%253B%2528%252C%2520%2529Nr%2Fcommand%2Fload_delimiter&language=en-GB)
+
+This module presents the structure of a repository and its sources in a hierarchical manner. The module uses delimiters to cut call numbers (of sources) into sub-strings and extracts call number categories. Based on the extracted categories, a hierarchical tree of call number categories and the related sources is constructed and shown.
+
+----------
 ### Rural Theme - by jon48 - `1.7` - `2.0` - `2.1` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 The Rural theme is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. A companion of webtrees for over a decade now, its characteric layout is still organised around the main genealogical content being wrapped within a responsive white panel on a brown background.
