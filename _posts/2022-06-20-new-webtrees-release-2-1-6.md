@@ -3,7 +3,7 @@ layout: post
 title:  "webtrees 2.1.6 released"
 date:   2022-06-20
 sitemap:
-priority: 1.0
+priority: 0.7
 ---
 
 webtrees 2.1.6 is now available for download.
@@ -34,4 +34,4 @@ There is one privacy-related fix:
 
 * Pending changes were wrongly being shown to visitors.
 
-See the [change log](https://github.com/fisharebest/webtrees/compare/2.1.4...2.1.5) for details.
+See the [change log](https://github.com/fisharebest/webtrees/compare/2.1.5...2.1.6) for details.
