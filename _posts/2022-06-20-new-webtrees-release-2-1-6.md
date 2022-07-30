@@ -12,17 +12,17 @@ There are a number of bug-fixes, including:
 
 * Fixes for Slovak, Czech and Hungarian alphabets.
 * Adoptions create multiple events of close relatives.
-* Display of SOUR:EVEN:ROLE tags.
-* Missing EMAIL/WWW/PHON/FAX fields for FAM:EVEN.
+* Display of `SOUR:EVEN:ROLE` tags.
+* Missing `EMAIL`/`WWW`/`PHON`/`FAX` fields for `FAM:EVEN`.
 * Missing spaces in multiline footnotes in reports.
 * Add "Multiple" role for associates - for twins, triplets, etc.
 * Browser error when language set to certain languages
-* _GODP, _WITN, ADOP not formatted correctly in events of close relatives.
-* SOUR:PUBL can now contain multi-line text.
+* `_GODP`, `_WITN`, `ADOP` not formatted correctly in events of close relatives.
+* `SOUR:PUBL` can now contain multi-line text.
 * Error when file extensions longer than 4 characters.
 * Unfriendly error when file-upload is empty.
 * Improved display of inline sources.
-* Wrong error message for FAM records containing too many HUSB/WIFE.
+* Wrong error message for `FAM` records containing too many `HUSB`/`WIFE`.
 * Add many missing subtags to facts and events.
 
 There are two new features:
