@@ -192,6 +192,12 @@ There are two color palettes available. The JustLight palette is a modern palett
 
 ----------
 
+### Mail system - by Evan Galli - `2.1` - [website](https://github.com/06Games/Webtrees-MailSystem)
+
+Sends an email to users at regular intervals to inform them of changes that have been made.
+
+----------
+
 ### Main menu manual - by jp - `2.1` - [website](https://github.com/jpretired/jp-main-menu-manual)
 
 Add main menu item which links to a page listing various webtrees manuals.
