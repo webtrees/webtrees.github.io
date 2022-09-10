@@ -39,14 +39,15 @@ things you should know.
 There are a number of unofficial third-party installers and pre-built packages.
 If you have any problems with these installers, please contact the provider directly.
 
-* [Docker][DOCKER]
+* [Docker][DOCKER] and [Docker Compose][DOCKERCOMPOSE]
 * [Installatron][INSTALLATRON]
 * [OpenSuse][OPENSUSE]
 * [Puppet][PUPPET]
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
 
-[DOCKER]: https://github.com/H2CK/webtrees
+[DOCKER]: https://hub.docker.com/r/dtjs48jkt/webtrees
+[DOCKERCOMPOSE]: https://hub.docker.com/r/nathanvaughn/webtrees
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
 [DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
