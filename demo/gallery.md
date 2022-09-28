@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2022-08-27
+date: 2022-09-28
 sitemap:
     priority: 0.5
 ---
@@ -13,6 +13,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 |---|---|---|---|---|
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) ||Colors Ash|2.1.8-dev|nl, us|
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) | embedded in Joomla |Xenea|2.1.7|de|
+| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight| 2.1.7 | de |
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees) | Runs on a synology home NAS.|Colors Aquamarin|2.1.7|fr|
 | [Familie Calleeuw](https://stamboom.calleeuw.be) ||Webtrees|2.1.6|be|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.7|fr, de|
@@ -31,7 +32,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||Webtrees|2.1.7|fr|
 | [melfar](https://melfar.dk/webtrees) |within https://www.melfar.dk|JustLight|2.1.7|dk|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
-| [Orchard Family](https://www.ourkin.org) ||Webtrees|2.1.4|au|
+| [Orchard Family](https://www.ourkin.org) ||Webtrees|2.1.7|au|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.7|at|
 | [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) ||JustLight|2.1.7|fr, de, us|
 | [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |Webtrees|2.1.7||
@@ -40,30 +41,31 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||Webtrees|2.1.7|fr|
 | [proavitus - Schmidt (Bühler / Hauer / Schwab)](https://www.proavitus.de) ||JustLight|2.1.7|de|
 | [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.7|pl|
+| [Familienforschung Schreiter](https://genealogie.schreiter.info) ||JustLight|2.1.7|de|
 | [Die Sippe](https://freris.de) | many themes, many extensions |Rural|2.1.7|de|
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.7|de|
 | [Our family tree](https://thespiegels.com/ourtree) ||F.A.B|2.1.7|de|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.7|de|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.7|uk, scot|
 | [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.7|no|
+| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors BelgianChocolate|2.1.7|cat|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.7|nl|
 | [Wij zijn familie](https://wijzijnfamilie.nl) | some other modules |JustLight|2.1.7|nl|
 | [Genealogy Zeitz family, Saarland, Germany](https://www.zeitzfamily.org/webtrees_2012) ||Webtrees|2.1.7|de|
 ||||older 2.0. versions||
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn|
-| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight| 2.0.16 | de |
 | [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |Display PDFs and handle chinese names.|Clouds|2.0.16|en|
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |Webtrees|2.0.23|no|
 | [Roots of my children](https://genealogy.dbq-andersons.com) |Anderson/Lang/Gansemer/Kueter|Rural|2.0.19| us |
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.0.23| nl |
-| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors BelgianChocolate|2.0.19|cat|
 | [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.0.19|de|
 | [Ghezibde: Généalogies en Flandre & Ardenne / Genealogie in Vlanderen / Ardenen](https://www.ghezibde.net/genealogie) ||Xenea|2.0.19|be|
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) ||Webtrees|2.0.17|au|
-| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg) ||JustLight|2.0.19|it|
+| [Craig and Ennis Kin](https://craigkin.com/tree/Craig) ||Craigkin (Custom)|2.0.11|us|
 | [M Steve Todd’s family tree](https://webtrees.mstevetodd.com) ||JustLight|2.0.15|us|
 | [My Norfolk Ancestors](https://mynorfolkancestors.net) ||Epoque (Custom)|2.0.12|en|
 | [The Bournias family tree](http://webtrees.bournias.net) ||minimal|2.0.16|gr|
+| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |familles Ziliotto, ...|JustLight|2.0.25|it|
 ||||older 1.7. versions||
 | [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) || JustBlack | 1.7.11 | de |
 | [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 1.7.18 | it |
@@ -82,5 +84,3 @@ These are examples of webtrees sites from around the world.  The list was last c
 ||||---||
 | [Ahnenforschung der Familie Bär](http://www.baer-ahnen.de/stammbaum) | webtrees embedded in Joomla. || 1.6.2 | de |
 ||||not accessible||
-| [Craig and Ennis Kin](https://craigkin.tk) |!!!no access|Craigkin (Custom)|2.0.14|us|
-| [Familienforschung Schreiter](https://genealogie.schreiter.info) |!!!error|JustLight|2.0.21|de|
