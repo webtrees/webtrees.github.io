@@ -5,7 +5,7 @@ date:   2022-03-25
 order:  99
 ---
 
-Ubserspace installs a non-standard PHP library `php-psr` as part of PHP 7.4.
+Uberspace installs a non-standard PHP library `php-psr` as part of PHP 7.4.
 
 This library in incompatible with webtrees and many other applications.
 
