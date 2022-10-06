@@ -14,7 +14,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) ||Colors Ash|2.1.8-dev|nl, us|
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) | embedded in Joomla |Xenea|2.1.7|de|
 | [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight| 2.1.7 | de |
-| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees) | Runs on a synology home NAS.|Colors Aquamarin|2.1.7|fr|
 | [Familie Calleeuw](https://stamboom.calleeuw.be) ||Webtrees|2.1.6|be|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.7|fr, de|
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.7|fr|
@@ -52,6 +51,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.7|nl|
 | [Wij zijn familie](https://wijzijnfamilie.nl) | some other modules |JustLight|2.1.7|nl|
 | [Genealogy Zeitz family, Saarland, Germany](https://www.zeitzfamily.org/webtrees_2012) ||Webtrees|2.1.7|de|
+| [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.7|de|
 ||||older 2.0. versions||
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn|
 | [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |Display PDFs and handle chinese names.|Clouds|2.0.16|en|
