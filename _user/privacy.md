@@ -109,7 +109,7 @@ A common use for this is to make the record of a living individual public –
 but some of the facts private.
 Many webtrees users do this for their own individual record.
 We do it for
-[Queen Elizabeth’s record](https://dev.webtrees.net/demo-dev/tree/demo/individual/i1/Queen-Elizabeth-II)
+[King Charles’s record](https://dev.webtrees.net/demo-dev/tree/demo/individual/I10084/King-Charles-III)
 on the demo site.
 
 ## Privacy for attributes of facts
