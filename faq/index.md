@@ -2,7 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 permalink: faq/
-date: 2020-01-25
+date: 2022-11-19
 ---
 
 ## Differences between webtrees 1.7 and 2.0 ##
@@ -16,6 +16,7 @@ date: 2020-01-25
 * [How do change the default language?]({% link faq/language.md %})
 * [Can I downgrade to an earlier version?]({% link faq/downgrade.md %})
 * [How do I move webtrees to a new server.]({% link faq/move-server.md %})
+* [Timeouts]({% link faq/timeout.md %})
 
 ## Errors ##
 
