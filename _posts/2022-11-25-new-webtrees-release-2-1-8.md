@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "webtrees 2.1.7 released"
+title:  "webtrees 2.1.8 released"
 date:   2022-11-27
 sitemap:
 priority: 1.0
