@@ -7,7 +7,9 @@ order:  1
 
 ## PHP Requirements
 
-webtrees {{ site.latest_version }} requires PHP 7.4 — 8.2.
+The next release of webtrees {{ site.latest_version }} will require PHP 8.0 — 8.2.
+
+webtrees {{ site.latest_version_21 }} requires PHP 7.4 — 8.2.
 
 webtrees {{ site.latest_version_20 }} requires PHP 7.1 — 7.4.
 

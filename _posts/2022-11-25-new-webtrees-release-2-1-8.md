@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "webtrees 2.1.7 released"
-date:   2022-11-25
+date:   2022-11-27
 sitemap:
 priority: 1.0
 ---
@@ -13,6 +13,7 @@ Bug-fixes:
 * Not all images were shown on the slideshow
 * Should not save empty names, containing only "//"
 * Error when generating 405 responses for robots
+* Add verification for more search robots
 * GOV IDs can be 14 characters, not 12
 * `INDI:_MILI` is a fact, not an event
 * `FAM:NCHI` is not valid in GEDCOM 5.5.1, only GEDCOM 7.0
@@ -33,10 +34,18 @@ Bug-fixes:
 * Checkboxes initialised in wrong state
 * Private shared notes shown on some public pages
 * Wrong plural rules for Farsi
+* Allow empty slugs in URLs
 * Various HTML errors
+* Fact delete confirmation dialog malformed
+* Deleted research tasks shown on home page
 
 Changes:
 
+* Add logging of searches
+* Add fullscreen mode for maps
+* Add fullscreen mode for the interactive tree
+* Add edit links for location in place-hierarchy
+* Allow notes to be added to research tasks
 * 404 image placeholders now include an error message in the headers
 * Improve support for `_RUFNAME`
 * Add compatibility with PHP 8.2
