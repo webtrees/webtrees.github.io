@@ -12,7 +12,7 @@ There are two ways to upgrade webtrees -
 If you are currently using a version of webtrees listed below,
 there are some additional instructions.
 
-## webtrees 2.1.7 and 2.1.8
+## webtrees 2.1.8 and 2.1.9
 
 These two versions of webtrees contain a bug in the auto-upgrade code.
 The upgrade will appear to run successfully, but it does not install any files.
