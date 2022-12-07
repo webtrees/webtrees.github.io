@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2022-11-18
+date: 2022-12-7
 sitemap:
     priority: 0.5
 ---
