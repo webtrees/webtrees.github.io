@@ -19,11 +19,11 @@ order:  1
 
 | webtrees branch | status              | latest version               | MySQL | MariaDB | SQLite | SQL Server | PostgreSQL |
 |-----------------|---------------------|------------------------------|-------|---------|--------|------------|------------|
-| 2.2             | development         | {{ site.latest_version_22 }} | 5.7+  | 10.3+   | 3.8.8+ | 2017+      | 10.0+      |
-| 2.1             | stable              | {{ site.latest_version_21 }} | 5.7+  | 10.2+   | 3.8.8+ | 2017+      | 9.6+       |
-| 2.0             | security fixes only | {{ site.latest_version_20 }} | 5.6+  | 10.1+   | ❌      | ❌          | ❌          |
-| 1.7             | end-of-life         | {{ site.latest_version_17 }} | 5.5+  | 5.5+    | ❌      | ❌          | ❌          |
-| 1.4             | end-of-life         | {{ site.latest_version_14 }} | 5.5+  | 5.5+    | ❌      | ❌          | ❌          |
+| 2.2             | development         | {{ site.latest_version_22 }} | ✅ 5.7+  | ✅ 10.3+   | ✅ 3.8.8+ | ✅ 2017+      | ✅ 10.0+      |
+| 2.1             | stable              | {{ site.latest_version_21 }} | ✅ 5.7+  | ✅ 10.2+   | ✅ 3.8.8+ | ✅ 2017+      | ✅ 9.6+       |
+| 2.0             | security fixes only | {{ site.latest_version_20 }} | ✅ 5.6+  | ✅ 10.1+   | ❌      | ❌          | ❌          |
+| 1.7             | end-of-life         | {{ site.latest_version_17 }} | ✅ 5.5+  | ✅ 5.5+    | ❌      | ❌          | ❌          |
+| 1.4             | end-of-life         | {{ site.latest_version_14 }} | ✅ 5.5+  | ✅ 5.5+    | ❌      | ❌          | ❌          |
 
 ## Web-server requirements
 
