@@ -10,7 +10,6 @@ webtrees 2.1.13 is now available for download.
 
 Fixes:
 
-* Compatibility issues with PostgreSQL, SQLite and SQL-Server.
 * Cannot save tree-preferences without contact details.
 * Provide select-options for `NAME:FONE/ROMN:TYPE`.
 * HTML error prevents privacy rules from saving.
