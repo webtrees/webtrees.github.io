@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "webtrees 2.1.7 released"
-date:   2022-07-29
+date:   2022-06-29
 sitemap:
-priority: 1.0
+priority: 0.7
 ---
 
 webtrees 2.1.7 is now available for download.
