@@ -43,6 +43,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hartenthaler](https://ahnen.hartenthaler.eu) ||webtrees|2.1.13|de|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.13|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.13|at|
+| [Hemprich](https://www.familienforschung-hemprich.de) |#6777, 708*Hemprich, embedded in Joomla|Colors Ash|2.1.13|de|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.13|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.13|us|
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) |#11186, 241*Huppé|Rural|2.1.13|fr|
