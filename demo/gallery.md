@@ -40,7 +40,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Ghezibde: Généalogies en Flandre & Ardenne / Genealogie in Vlanderen / Ardenen](https://www.ghezibde.net/genealogie) ||Xenea|2.0.19|be|
 | [Greg Roach and Kim Froggitt Genealogy](https://fisharebest.webtrees.net) |#8593, 760*Afford, Greg is the author of webtrees.|webtrees|2.1.13|en|
 | [Généalogie Dolman](https://www.dolman.fr) |#5333, 153*Dolman|Dolman (Custom)|2.1.13|fr, en|
-| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |#12.092, 256*Hartenthaler, 200*Schindler|JustLight|2.1.15|de, at|
+| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |#12092, 256*Hartenthaler, all custom modules installed|JustLight|2.1.15|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.13|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.13|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |#6777, 708*Hemprich, embedded in Joomla|Colors Ash|2.1.15|de|
