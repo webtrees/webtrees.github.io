@@ -186,7 +186,7 @@ _Note: As of webtrees 2.0/2.1 the JustBlack theme is part of the JustLight theme
 
 ### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
-A light theme with focus on readibility. It uses a full screen where neccessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
+A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
 There are two color palettes available. The JustLight palette is a modern palette in clean white and blue. The JustBlack palette has a dark background and orange accents. This palette is more relaxing for the eyes. You can set a default palette for all users or let your users make their own choice.
 
