@@ -55,7 +55,7 @@ Open the DiskStation Manager interface. Use the Package Center to install the fo
 
 ## Moving the files to your NAS
 
-1. Having installed PHP >= 7.4, you can safely [download the latest verion of webtrees](https://webtrees.net/download).
+1. Having installed PHP >= 7.4, you can safely [download the latest version of webtrees](https://webtrees.net/download).
 2. Unpack this file on your computer.  You should have a folder called `webtrees`.
 3. On you NAS, open "File Station", navigate to your `web` folder.
 4. Create a `webtrees` folder (or any other name) inside your .
