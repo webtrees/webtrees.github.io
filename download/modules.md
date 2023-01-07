@@ -102,49 +102,55 @@ Tag faces on photos.
 
 ----------
 
-### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-branches)
+### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-branches)
 
 This module is an modified version of the existing webtrees Branches list.
 It allows the user to expand or collapse each family branch to make viewing easier.
 
 ----------
 
-### Fancy Gendex - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-gendex)
+### Fancy Gendex - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-gendex)
 
 Create [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into
 genealogical search engines.
 
 ----------
 
-### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-imagebar) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
+### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-imagebar) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
 
 The Fancy Imagebar is a row of images between header and content of your webtrees site.
 The image bar is built up with pictures from the media objects in your tree.
 
 ----------
 
-### Fancy Privacy List - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-privacy-list)
+### Fancy Privacy List - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-privacy-list)
 
 This is an administration module, which shows a list of all individuals in your family tree,
 where you can review the privacy settings of each individual.
 
 ----------
 
-### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-research-links) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
+### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-research-links) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
 
-A sidebar module that provides quick links to the search functions in approximately 80
+A sidebar module that provides quick links to the search functions in approximately 100
 genealogy research websites, both national and international.
 
 ----------
 
-### Fancy Tree View - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-treeview)
+### Fancy Tree View - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-treeview)
+
+This module adds an additional tab "Descendants and Ancestors" to the individual page, which provide a narrative overview of your family tree. With a few clicks, the administrator can also add pages to the Fancy Treeview menu with links to the Fancy Treeview page for specific individuals.
+
+----------
+
+### Fancy Tree View - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview)
 
 This module adds pages for several branches in your family tree. These are listed from the
 first generation down to the last, and provide a narrative overview of your family tree.
 
 ----------
 
-### Fancy Tree View PDF - by JustCarmen - `1.7` - [website](https://justcarmen.nl/fancy-modules/fancy-treeview-pdf)
+### Fancy Tree View PDF - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview-pdf)
 
  This module is an extension for the Fancy Tree View module which gives the option to
  download a Fancy Treeview page as a PDF file.
@@ -175,7 +181,7 @@ Creates an all-in-one tree in a variety of formats.
 
 ----------
 
-### JustBlack Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justblack-theme) - [demo](http://www.ahnen-recherche.de/webtrees)
+### JustBlack Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/justblack-theme) - [demo](http://www.ahnen-recherche.de/webtrees)
 
 A dark-gray layout with orange and yellow accents. Smooth Top Navigation Menu.
 Nice font for titles. Colorbox support for pdf files. Responsive dialog boxes.
@@ -184,7 +190,7 @@ _Note: As of webtrees 2.0/2.1 the JustBlack theme is part of the JustLight theme
 
 ----------
 
-### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/themes/justlight-theme) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
+### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/justlight-theme) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
 A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
@@ -259,6 +265,18 @@ The header image can be customised, by replacing the file `./modules_v4/myartjau
 ### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin)
 
 This module provides a simple way to add a SSO auto login for webtrees in combination with a authentication proxy (like oauth2-proxy).
+
+----------
+
+### Simple Media Display - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-media-display/)
+
+As of webtrees 2.1, additional images belonging to the same media objects are ignored on the facts and events tab and in the scrolling image box. Additional notes are also no longer visible. With this simple module you get back the old behavior of webtrees 2.0.
+
+----------
+
+### Simple Menu - by JustCarmen - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-menu/)
+
+This simple module allows you to set up a new menu item and a new page. It is designed to quickly add a new menu item and page to webtrees, nothing more. It does not allow you to add submenu items or different pages per language.
 
 ----------
 
