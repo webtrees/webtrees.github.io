@@ -39,7 +39,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Genealogia da Família Chiele](https://www.chiele.net) |#1223, 125*Chiele|webtrees|2.1.6|it|
 | [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) ||Xenea|2.1.13|be|
 | [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.7|de|
-| [Greg Roach and Kim Froggitt Genealogy](https://fisharebest.webtrees.net) |#8593, 760*Afford, Greg is the author of webtrees.|webtrees|2.1.15|en|
+| [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |#8593, 760*Afford, Greg is the author of webtrees.|webtrees|2.1.15|en|
 | [Généalogie Dolman](https://www.dolman.fr) |#5333, 153*Dolman|Dolman (Custom)|2.1.15|fr, en|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |#12.092, 256*Hartenthaler, 200*Schindler|JustLight|2.1.15|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.15|de|
