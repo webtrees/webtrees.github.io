@@ -268,6 +268,12 @@ This module provides a simple way to add a SSO auto login for webtrees in combin
 
 ----------
 
+### Simple Footer - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-footer/)
+
+This simple module allows you to set up a new footer item with or without link to an additional page. You can use it to add your credits or copyright to the footer or to add a link to your own custom page with your privacy policy or additional conditions. You can write the page text using the build-in texteditor.
+
+----------
+
 ### Simple Media Display - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-media-display/)
 
 As of webtrees 2.1, additional images belonging to the same media objects are ignored on the facts and events tab and in the scrolling image box. Additional notes are also no longer visible. With this simple module you get back the old behavior of webtrees 2.0.
@@ -276,7 +282,7 @@ As of webtrees 2.1, additional images belonging to the same media objects are ig
 
 ### Simple Menu - by JustCarmen - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-menu/)
 
-This simple module allows you to set up a new menu item and a new page. It is designed to quickly add a new menu item and page to webtrees, nothing more. It does not allow you to add submenu items or different pages per language.
+This simple module allows you to set up a new menu item and a new page. You can write the page text using the build-in texteditor.
 
 ----------
 
