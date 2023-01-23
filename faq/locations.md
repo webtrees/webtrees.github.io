@@ -12,9 +12,9 @@ GEDCOM allows you to store the co-ordinates (latitude/longitude) of
 So, it can store the location of a specific birth, marriage or burial -
 but it cannot store the location of "London, England".
 
-Consider an individual with three events, all in the same town:  
-For the birth, we have the co-ordinates of the hospital.  
-For the burial, we have the co-ordinates of the cemetery.  
+Consider an individual with three events, all in the same town:
+For the birth, we have the co-ordinates of the hospital.
+For the burial, we have the co-ordinates of the cemetery.
 For the baptism, we do not have the co-ordinates.
 
 ```
@@ -64,7 +64,7 @@ Why doesn’t webtrees copy co-ordinates from the gazetteer to the events?
 
 Consider the example above.
 If webtrees copied the co-ordinates for Milton Keynes (the town centre)
-into the baptism record, it would imply that the baptism occured at the
+into the baptism record, it would imply that the baptism occurred at the
 town centre.  This would be incorrect.
 
 It would also make it impossible to know which co-ordinates are for the
@@ -76,5 +76,5 @@ Why doesn’t webtrees copy co-ordinates from the events to the gazetteer?
 Consider the example above.
 We have co-ordinates for two different events.  Which one would we copy?
 
-Also, it would imply that the baptism occured at the hospital (or the cemetery).
+Also, it would imply that the baptism occurred at the hospital (or the cemetery).
 This would be incorrect.
