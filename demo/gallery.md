@@ -31,17 +31,17 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.15|de|
 | [Familienforschung Schreiter](https://genealogie.schreiter.info) ||JustLight|2.1.7|de|
 | [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.8|fr|
-| [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.7|fr|
-| [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.13|fr|
-| [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.12|fr|
-| [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) ||JustLight|2.1.13|fr, de, us|
-| [Gartside Family Tree](https://gartside.net/webtrees) |#78, 39*Horton|webtrees|2.1.6|us|
-| [Genealogia da Família Chiele](https://www.chiele.net) |#1223, 125*Chiele|webtrees|2.1.6|it|
-| [Genealogy Zeitz family, Saarland, Germany](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.7|de|
-| [Ghezibde: Généalogies en Flandre & Ardenne / Genealogie in Vlanderen / Ardenen](https://www.ghezibde.net/genealogie) ||Xenea|2.0.19|be|
-| [Greg Roach and Kim Froggitt Genealogy](https://fisharebest.webtrees.net) |#8593, 760*Afford, Greg is the author of webtrees.|webtrees|2.1.13|en|
-| [Généalogie Dolman](https://www.dolman.fr) |#5333, 153*Dolman|Dolman (Custom)|2.1.13|fr, en|
-| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) ||JustLight|2.1.16|de, at|
+| [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.16|fr|
+| [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.15|de|
+| [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.16|fr|
+| [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.16|fr|
+| [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) ||JustLight|2.1.16|fr, de, us|
+| [Gartside Family Tree](https://gartside.net/webtrees) ||webtrees|2.1.16|us|
+| [Genealogia da Família Chiele](https://www.chiele.net) ||webtrees|2.1.6|it|
+| [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) ||Xenea|2.1.16|be|
+| [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.7|de|
+| [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.16|en|
+| [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.16|fr, en| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) ||JustLight|2.1.16|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.16|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.15|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
