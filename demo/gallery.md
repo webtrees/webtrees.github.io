@@ -44,11 +44,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) ||JustLight|2.1.16|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.16|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.15|at|
-| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |#6777, 708*Hemprich, embedded in Joomla|Colors Ash|2.1.16|de|
+| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.16|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.16|us|
-| [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) |#11186, 241*Huppé|Rural|2.1.16|fr|
-| [melfar](https://melfar.dk/webtrees) |within https://www.melfar.dk|JustLight|2.1.16|dk|
+| [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.16|fr|
+| [melfar](https://melfar.dk/webtrees) ||JustLight|2.1.16|dk|
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.7|au|
 | [Our family tree](https://thespiegels.com/ourtree) |with selected add-on modules|F.A.B|2.1.16|de, us|
 | [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.16|de|
