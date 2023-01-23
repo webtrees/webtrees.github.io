@@ -41,7 +41,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) ||Xenea|2.1.16|be|
 | [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.7|de|
 | [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.16|en|
-| [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.16|fr, en| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) ||JustLight|2.1.16|de, at|
+| [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.16|fr, en|
+| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) ||JustLight|2.1.16|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.16|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.15|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
