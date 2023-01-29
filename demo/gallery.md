@@ -50,7 +50,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.16|fr|
 | [melfar](https://melfar.dk/webtrees) ||JustLight|2.1.16|dk|
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.7|au|
-| [Our family tree](https://thespiegels.com/ourtree) |with selected add-on modules|F.A.B|2.1.16|de, us|
+| [Our family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|de, us|
 | [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.16|de|
 | [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.16|pl|
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
