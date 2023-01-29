@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-01-23
+date: 2023-01-29
 sitemap:
     priority: 0.5
 ---
@@ -18,7 +18,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.1.x installations</b>||||
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) |embedded in Joomla|Xenea|2.1.16|de|
 | [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.15|de|
-| [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.15|no|
+| [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.16|no|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.16|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.16|nl|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
@@ -27,12 +27,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.16|no|
 | [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)||JustBlack|2.1.16|nl|
 | [Familie Calleeuw](https://stamboom.calleeuw.be) ||webtrees|2.1.7|be|
-| [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.15|de|
+| [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.16|de|
 | [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.15|de|
 | [Familienforschung Schreiter](https://genealogie.schreiter.info) ||JustLight|2.1.7|de|
 | [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.8|fr|
 | [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.16|fr|
-| [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.15|de|
 | [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.16|fr|
 | [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.16|fr|
 | [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) ||JustLight|2.1.16|fr, de, us|
@@ -44,7 +43,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.16|fr, en|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.16|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||JustLight|2.1.16|de|
-| [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.15|at|
+| [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.16|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.16|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.16|us|
@@ -53,11 +52,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.7|au|
 | [Our family tree](https://thespiegels.com/ourtree) |with selected add-on modules|F.A.B|2.1.16|de, us|
 | [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.16|de|
-| [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.15|pl|
+| [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.16|pl|
+| [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|de|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.16|de|
 | [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.13|us|
-| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.7||
+| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.7|no|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.16|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.16|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
@@ -71,7 +71,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) ||JustLight|2.0.25|it|
 | [M Steve Todd’s family tree](https://webtrees.mstevetodd.com) ||JustLight|2.0.15|us|
 | [My Norfolk Ancestors](https://mynorfolkancestors.net) ||Epoque (Custom)|2.0.12|en|
-| [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.0.19| us |
 | [The Bournias family tree](http://webtrees.bournias.net) ||minimal|2.0.25|gr|
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
@@ -88,4 +87,4 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [MaLiBeLe](http://www.malibele.org) ||Clouds|1.7.19|fr|
 | [Marilyn Simmons Family Tree](http://www.josephsimmons.com) ||webtrees|1.7.20|bm|
 | [The Shemwell Family](https://shemwellfamily.com) ||Custom|1.7.20|us|
-| [Tunn’s around the world](https://tunn.synology.me/gen) ||Rural|1.7.14||
+| [Tunn’s around the world](https://tunn.synology.me/gen) ||Rural|1.7.14|en|
