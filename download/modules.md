@@ -216,6 +216,14 @@ Add more menu items to the main menu.
 
 ----------
 
+### Modern Theme - by JessewebDotCom - `2.1.16` - [website](https://github.com/JesseWebDotCom/webtrees-theme-modern)
+
+This theme optimizes Webtrees for ease of use, whether viewing from a desktop or mobile device, while trying to bring a look and feel more like today's popular pay-as-you-go family tree services.
+
+It also adds functionality to Webtrees like auto-generated "About" summaries for individuals, timeline view for facts, and more.
+
+----------
+
 ### Multi-Treeview - by H&Hwt - `2.0` - `2.1` - [website](https://github.com/huhwt/huhwt-mtv)
 
 This module shows two copies of the interactive tree side-by-side, to help when
