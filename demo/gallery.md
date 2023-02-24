@@ -17,13 +17,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>||||
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) |embedded in Joomla|Xenea|2.1.16|de|
-| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.15|de|
+| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.16|de|
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.16|no|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.16|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.16|nl|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
-| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.7|cat|
-| [Die Sippe](https://freris.de) |many themes + many extensions |Rural|2.1.16|de|
+| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
+| [Die Sippe](https://freris.de) |less is more |Rural|2.1.16|de|
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.16|no|
 | [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)||JustBlack|2.1.16|nl|
 | [Familie Calleeuw](https://stamboom.calleeuw.be) ||webtrees|2.1.7|be|
