@@ -30,7 +30,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.16|de|
 | [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.16|de|
 | [Familienforschung Schreiter](https://genealogie.schreiter.info) ||JustLight|2.1.16|de|
-| [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.8|fr|
+| [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.16|fr|
 | [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.16|fr|
 | [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.16|fr|
 | [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.16|fr|
@@ -56,8 +56,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|de|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.16|de|
-| [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.13|us|
-| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.7|no|
+| [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.16|us|
+| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.16|no|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.16|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.16|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
