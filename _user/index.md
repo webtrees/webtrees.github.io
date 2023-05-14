@@ -17,3 +17,4 @@ date:  2022-10-13
 There is some unofficial (but pretty good!) documentation available at
 * <https://richard-underwood.com/product/webtrees-manual> (English)
 * <https://wiki.genealogy.net/Webtrees_Handbuch> (German)
+* <https://wtwiki.ausmis.com> (Chinese)
