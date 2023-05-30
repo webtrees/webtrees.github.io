@@ -23,9 +23,9 @@ to this folder, you should run these commands:
 webtrees needs to make outgoing HTTP requests for various reasons, including:
 
 * check for updates
-* geo-loation lookups
+* geo-location lookups
 
-To enable this using SELinux, you should run this command
+To enable this, you should run this command:
 
 `setsebool -P httpd_can_network_connect on`
 
