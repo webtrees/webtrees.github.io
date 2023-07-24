@@ -2,7 +2,7 @@
 layout: page
 title: Installing webtrees
 permalink: install/
-date:  2020-03-20
+date:  2020-07-24
 ---
 
 You should be able to install webtrees on most web-servers.
@@ -13,7 +13,7 @@ the detailed [requirements]({% link _install/requirements.md%}).
 ## Installation steps
 
 * Check the version of PHP on your server.
-* For PHP 7.4 to 8.2, download [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21].
+* For PHP 7.4 to 8.3, download [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21].
 * For PHP 7.1 to 7.3, download [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20].
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Upload the contents of the `webtrees` folder to a folder on your web server.
