@@ -2,7 +2,7 @@
 layout: page
 title: Installing webtrees
 permalink: install/
-date:  2020-07-24
+date:  2023-07-26
 ---
 
 You should be able to install webtrees on most web-servers.
@@ -25,7 +25,6 @@ the detailed [requirements]({% link _install/requirements.md%}).
 If you use one of the hosts or platforms listed below, there are some additional
 things you should know.
 
-* [Bluehost]({% link _install/bluehost.md %})
 * [Cloudflare]({% link _install/cloudflare.md %})
 * [MAMP]({% link _install/mamp.md %})
 * [Microsoft/IIS]({% link _install/iis.md %})
