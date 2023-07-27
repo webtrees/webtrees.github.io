@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-07-19
+date: 2023-07-27
 sitemap:
     priority: 0.5
 ---
@@ -45,7 +45,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||Argon|2.1.17|de|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.16|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
-| [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.16|de|
+| [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.17|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.17|us|
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.17|fr|
 | [melfar](https://melfar.dk/webtrees) ||JustLight|2.1.17|dk|
@@ -62,8 +62,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
-| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.16|no|
-| [Wij zijn familie](https://wijzijnfamilie.nl) | some other modules |JustLight|2.1.17|nl|
+| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.17|no|
+| [Wij zijn familie](https://wijzijnfamilie.nl) | [modules Author(https://github.com/JustCarmen)] |JustLight|2.1.17|nl|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>||||
 | [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.0.16|en|
