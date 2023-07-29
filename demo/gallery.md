@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-07-27
+date: 2023-07-29
 sitemap:
     priority: 0.5
 ---
@@ -24,13 +24,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
 | [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
 | [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|de|
-| [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.16|no|
+| [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.17|no|
 | [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)||JustBlack|2.1.16|nl|
-| [Familie Calleeuw](https://stamboom.calleeuw.be) ||webtrees|2.1.16|be|
+| [Familie Calleeuw](https://stamboom.calleeuw.be) ||webtrees|2.1.17|be|
 | [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.16|de|
 | [Familienforschung Nusselt](https://family.nusselt.de) ||JustLight|2.1.16|de|
 | [Familienforschung Schreiter](https://genealogie.schreiter.info) ||JustLight|2.1.16|de|
-| [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.16|fr|
+| [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.17|fr|
 | [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.16|fr|
 | [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.17|fr|
 | [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.17|fr|
@@ -63,7 +63,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
 | [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.17|no|
-| [Wij zijn familie](https://wijzijnfamilie.nl) | [modules Author(https://github.com/JustCarmen)] |JustLight|2.1.17|nl|
+| [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.17|nl|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>||||
 | [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.0.16|en|
