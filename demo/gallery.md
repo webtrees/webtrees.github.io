@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-07-29
+date: 2023-08-02
 sitemap:
     priority: 0.5
 ---
@@ -43,8 +43,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.17|fr, en|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.17|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||Argon|2.1.17|de|
-| [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.16|at|
-| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.16|de|
+| [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.17|at|
+| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.17|de|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.17|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.17|us|
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.17|fr|
@@ -58,7 +58,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|de|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.17|de|
 | [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.16|us|
-| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.16|no|
+| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
