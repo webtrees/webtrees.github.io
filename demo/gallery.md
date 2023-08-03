@@ -17,13 +17,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>||||
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) |embedded in Joomla|Xenea|2.1.17|de|
-| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.17|de|
+| [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)|
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.17|no|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.17|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.17|nl|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
 | [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
-| [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|de|
+| [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|[de,...](https://freris.de/tree/frese/place-list)|
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.17|no|
 | [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)||JustBlack|2.1.16|nl|
 | [Familie Calleeuw](https://stamboom.calleeuw.be) ||webtrees|2.1.17|be|
@@ -52,7 +52,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [My Norfolk Ancestors](https://mynorfolkancestors.net) ||Epoque (Custom)|2.1.16|en|
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.16|au|
 | [Our family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|de, us|
-| [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.16|de|
+| [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.17|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list?place_id=0&sharedPlaces=1)|
 | [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.16|pl|
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|de|
