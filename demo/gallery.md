@@ -22,6 +22,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.17|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.17|nl|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
+| [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 1.7.20 | it |
 | [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
 | [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|[de,...](https://freris.de/tree/frese/place-list)|
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.17|no|
@@ -42,28 +43,29 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.17|en|
 | [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.17|fr, en|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.17|de, at|
-| [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||Argon|2.1.17|de|
+| [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||Argon|2.1.17|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)
+|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.17|at|
-| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.17|de|
+| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.17|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.17|de|
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) ||JustLight|2.1.17|us|
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) ||Rural|2.1.17|fr|
 | [melfar](https://melfar.dk/webtrees) ||JustLight|2.1.17|dk|
 | [My Norfolk Ancestors](https://mynorfolkancestors.net) ||Epoque (Custom)|2.1.16|en|
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.16|au|
-| [Our family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|de, us|
-| [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.17|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list?place_id=0&sharedPlaces=1)|
+| [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.17|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)|
 | [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.16|pl|
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
-| [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|de|
+| [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.17|de|
 | [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.16|us|
+| [The Spiegels family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|
 | [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
-| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.17|no|
-| [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.17|nl|
+| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.17|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|
+| [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.17|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>||||
 | [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.0.16|en|
@@ -76,7 +78,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>||||
 | [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) || JustBlack | 1.7.11 | de |
-| [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 1.7.20 | it |
 | [Çelebi (Celepler) & akrabalar soyağacı](https://www.celebi24.com) ||Clouds|1.7.20|tr|
 | [Chodykin family genealogy](http://www.chodykin.lt) ||Colors BlueLagoon|1.7.9|lt|
 | [Famille Cabaret-Potard](http://genea.mont-saint-jean.com) ||Xenea|1.7.17|fr|
