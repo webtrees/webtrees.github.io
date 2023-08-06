@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-08-02
+date: 2023-08-06
 sitemap:
     priority: 0.5
 ---
@@ -22,7 +22,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.17|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.17|nl|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
-| [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 1.7.20 | it |
+| [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 2.1.16 | it |
 | [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
 | [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|[de,...](https://freris.de/tree/frese/place-list)|
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.17|no|
@@ -34,17 +34,16 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) ||webtrees|2.1.17|fr|
 | [Famille Rousselle-Roussel](http://rousselle-roussel.fr) ||webtrees|2.1.16|fr|
 | [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) ||webtrees|2.1.17|fr|
-| [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.17|fr|
+| [Familles Rivière-Le Dû](https://gustine.eu/wt) ||JustLight|2.1.17|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)|
 | [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) ||JustLight|2.1.17|fr, de, us|
 | [Gartside Family Tree](https://gartside.net/webtrees) ||webtrees|2.1.16|us|
 | [Genealogia da Família Chiele](https://www.chiele.net) ||webtrees|2.1.16|it|
 | [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) ||Xenea|2.1.16|be|
 | [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.16|de|
 | [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.17|en|
-| [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.17|fr, en|
+| [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.17|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.17|de, at|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) ||Argon|2.1.17|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)
-|
 | [Helmut Paul's extended family](https://www.helmutpaul.at) ||Colors Sage|2.1.17|at|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.17|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)|
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) ||Colors BelgianChocolate|2.1.17|de|
