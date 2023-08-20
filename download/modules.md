@@ -210,6 +210,12 @@ Add main menu item which links to a page listing various webtrees manuals.
 
 ----------
 
+### Media folder import - by Romein van Buren - `2.1` - [website](https://github.com/garraflavatra/webtrees-media-folder-import)
+
+Import all media files in the same folder at once from the admin panel.
+
+----------
+
 ### Menu - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_menu2)
 
 Add more menu items to the main menu.
