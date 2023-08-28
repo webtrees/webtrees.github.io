@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-08-06
+date: 2023-08-28
 sitemap:
     priority: 0.5
 ---
@@ -18,12 +18,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.1.x installations</b>||||
 | [Adelsgeschlechter](https://www.verwandten.info/genealogien/familienbuecher) |embedded in Joomla|Xenea|2.1.17|de|
 | [Altvater in Oberschwaben](https://micha-a.info/micgen) ||JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)|
+| [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.17|en|
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.17|no|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) ||JustLight|2.1.17|fr, de|
 | [Archief van Gemen](https://www.vangemen.nl) ||Colors Aquamarin|2.1.17|nl|
-| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.16|fr|
+| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|Colors Coffee|2.1.17|fr|
 | [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) || Xenea | 2.1.16 | it |
-| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.16|cat|
+| [Cal Vermell](https://www.calvermell.cat/webtrees) ||Colors Belgian Chocolate|2.1.17|cat|
 | [Die Sippe](https://freris.de) |less is more |Rural|2.1.17|[de,...](https://freris.de/tree/frese/place-list)|
 | [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) ||JustLight|2.1.17|no|
 | [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)||JustBlack|2.1.16|nl|
@@ -53,11 +54,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [My Norfolk Ancestors](https://mynorfolkancestors.net) ||Epoque (Custom)|2.1.16|en|
 | [Orchard Family](https://www.ourkin.org) ||webtrees|2.1.16|au|
 | [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.17|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)|
-| [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.16|pl|
+| [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.17|pl|
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
 | [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.17|de|
-| [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.16|us|
+| [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.17|us|
 | [The Spiegels family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|
 | [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
@@ -67,7 +68,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.17|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>||||
-| [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.0.16|en|
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) ||Craigkin (Custom)|2.0.11|us|
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) ||webtrees|2.0.17|au|
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) ||JustLight|2.0.25|it|
