@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-08-28
+date: 2023-09-10
 sitemap:
     priority: 0.5
 ---
@@ -56,11 +56,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) ||JustLight|2.1.17|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)|
 | [Przodkowie.net](https://przodkowie.net) ||Colors Ash|2.1.17|pl|
 | [Roots of my children](https://genealogy.dbq-andersons.com) ||Rural|2.1.16| us |
-| [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.16|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)|
+| [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) ||Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)|
 | [Strickler Family worldwide](https://www.strickler.info/webtrees) ||Colors Sage|2.1.17|de|
 | [The Jonesipedia](https://www.jonesipedia.com) ||Jonesipedia (Custom)|2.1.17|us|
 | [The Spiegels family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|
 | [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no|
+| [Todd’s family tree](https://webtrees.mstevetodd.com) ||JustLight|2.1.17|us|
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
@@ -71,7 +72,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) ||Craigkin (Custom)|2.0.11|us|
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) ||webtrees|2.0.17|au|
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) ||JustLight|2.0.25|it|
-| [M Steve Todd’s family tree](https://webtrees.mstevetodd.com) ||JustLight|2.0.15|us|
 | [The Bournias family tree](http://webtrees.bournias.net) ||minimal|2.0.25|gr|
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
