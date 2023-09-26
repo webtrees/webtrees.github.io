@@ -31,7 +31,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    ffi (1.15.5)
+    ffi (1.16.2)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (228)
@@ -253,7 +253,7 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     webrick (1.8.1)
-    zeitwerk (2.6.11)
+    zeitwerk (2.6.12)
 
 PLATFORMS
   ruby
