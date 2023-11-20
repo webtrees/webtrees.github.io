@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-11-06
+date: 2023-11-20
 sitemap:
     priority: 0.5
 ---
@@ -16,9 +16,9 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) | |Colors Ash|2.2.0-dev|nl, us| makitso@gmail.com |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
-| [Adelsgeschlechter](https://www.verwandten.info) |/genealogien/familienbuecher embedded in Joomla|Xenea|2.1.17|de|otmar.mayr|
+| [Adelsgeschlechter](https://www.verwandten.info/wt1) | |Xenea|2.1.18|de|otmar.mayr|
 | [Altvater in Oberschwaben](https://micha-a.info/micgen) | |JustLight|2.1.18|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
-| [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.17|en| |
+| [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.18|no|iver@iverneumann.no|
 | [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) | |JustLight|2.1.18|fr, de| |
 | [Archief van Gemen](https://www.vangemen.nl) | |Colors Aquamarin|2.1.18|nl| |
@@ -46,7 +46,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.18|de, at|hermann|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) | |Argon|2.1.18|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Helmut Paul's extended family](https://www.helmutpaul.at) | |Colors Sage|2.1.17|at| anjop |
-| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.17|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| |
+| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.18|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| |
 | [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.18|de| dietmar.hermsdoerfer@gmail.com |
 | [Heroes, Heritage, and History (Groleau)](https://unigen.us) | |JustLight|2.1.18|us| WGroleau |
 | [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) | |Rural|2.1.18|fr| |
@@ -87,6 +87,3 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Marilyn Simmons Family Tree](http://www.josephsimmons.com) | |webtrees|1.7.20|bm| |
 | [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
 | [Tunn’s around the world](https://tunn.synology.me/gen) | |Rural|1.7.14|en| |
-| [Chodykin family genealogy](http://www.chodykin.lt) | |Colors BlueLagoon|1.7.9|lt| Forbidden!!! |
-
-
