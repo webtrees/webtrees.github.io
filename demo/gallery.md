@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-11-20
+date: 2023-11-28
 sitemap:
     priority: 0.5
 ---
@@ -16,57 +16,58 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) | |Colors Ash|2.2.0-dev|nl, us| makitso@gmail.com |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
-| [Adelsgeschlechter](https://www.verwandten.info/wt1) | |Xenea|2.1.18|de|otmar.mayr|
-| [Altvater in Oberschwaben](https://micha-a.info/micgen) | |JustLight|2.1.18|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
-| [Ancestors of Cedric and Brendan](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
-| [Ancestors of Iver Neumann-Korsgaard](https://iverneumann.no/webtrees) | |webtrees|2.1.18|no|iver@iverneumann.no|
-| [Arbre collaboratif de Frédéric & Pascale Cepria](https://www.cepria.fr) | |JustLight|2.1.18|fr, de| |
-| [Archief van Gemen](https://www.vangemen.nl) | |Colors Aquamarin|2.1.18|nl| |
-| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|F.A.B.|2.1.17|fr| |
-| [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it) | | Xenea | 2.1.18 | it | |
-| [Cal Vermell](https://www.calvermell.cat/webtrees) | |Colors Belgian Chocolate|2.1.17|cat| toniplanasvila@gmail.com |
-| [Die Sippe](https://freris.de) |less is more |Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
-| [Eyolf og Pernille m/familie](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
-| [Familie Bijlholt](https://www.onsverleden.eu/webtrees/tree/bijlholt)| |JustBlack|2.1.18|nl| Newbie67 |
-| [Familie Calleeuw](https://stamboom.calleeuw.be) | |webtrees|2.1.17|be| webmaster@calleeuw.be |
-| [Familie Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) | |webtrees|2.1.16|de| |
-| [Familienforschung Nusselt](https://family.nusselt.de) | |JustLight|2.1.18|de| |
-| [Familienforschung Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.18|de| axel@schreiter.info |
-| [Famille Jeantelet - Canal](https://www.jeantelet.fr/webtrees) | |webtrees|2.1.18|fr| |
-| [Famille Rousselle-Roussel](http://rousselle-roussel.fr) | |webtrees|2.1.16|fr| |
-| [Familles Lherminier et Trovel](http://lherminier.fr/webtrees) | |webtrees|2.1.18|fr| |
-| [Familles Rivière-Le Dû](https://gustine.eu/wt) | |JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| gustine@ovh.fr |
-| [G.A.C. Le Grand Arbre Commun](https://wt.rauhut.eu) | |JustLight|2.1.18|fr, de, us| andreas@rauhut.eu |
-| [Gartside Family Tree](https://gartside.net/webtrees) | |webtrees|2.1.16|us| |
-| [Genealogia da Família Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
-| [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) | |Xenea|2.1.16|be| avdl |
-| [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.16|de| |
-| [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
-| [Généalogie Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.17|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
+| [Altvater](https://micha-a.info/micgen) | in Oberschwaben |JustLight|2.1.18|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
+| [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) | Stammbaum-Netzwerk |Xenea|2.1.18|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
+| [Bendinelli, Bargagna, Catassi](http://webtrees.bendinelliclaudio.it) | Family Tree | Xenea | 2.1.18 | it | |
+| [Bijlholt, Mulder, Bodewes](https://www.onsverleden.eu/webtrees/tree/bijlholt)| |JustBlack|2.1.18|nl| Newbie67 |
+| [Bożyczko, Mackiewicz](https://przodkowie.net) | |Colors Ash|2.1.18|pl| |
+| [Cepria](https://www.cepria.fr) | !!!down? |JustLight|2.1.18|fr, de| |
+| [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
+| [Fobbe, Frese](https://freris.de) |less is more |Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
+| [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen |Colors Aquamarin|2.1.18|nl| |
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| |
+| [Groleau](https://unigen.us) | Heroes, Heritage, and History |JustLight|2.1.18|us| WGroleau |
+| [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere |JustLight|2.1.18|dk| |
+| [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.18|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.18|de, at|hermann|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) | |Argon|2.1.18|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
-| [Helmut Paul's extended family](https://www.helmutpaul.at) | |Colors Sage|2.1.17|at| anjop |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.18|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| |
-| [Hermsdörfer, Hermersdörfer, Hermannsdörfer, Hermsdorf](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.18|de| dietmar.hermsdoerfer@gmail.com |
-| [Heroes, Heritage, and History (Groleau)](https://unigen.us) | |JustLight|2.1.18|us| WGroleau |
-| [Les familles de Cherence](https://www.cherence95-fr.org/webtrees) | |Rural|2.1.18|fr| |
-| [melfar](https://melfar.dk/webtrees) | |JustLight|2.1.18|dk| |
-| [My Norfolk Ancestors](https://mynorfolkancestors.net) | |Epoque (Custom)|2.1.16|en| |
-| [Orchard Family](https://www.ourkin.org) | |webtrees|2.1.16|au| |
-| [proavitus - Маринова ⚭ Schmidt](https://www.proavitus.de) | |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
-| [Przodkowie.net](https://przodkowie.net) | |Colors Ash|2.1.17|pl| |
-| [Roots of my children](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
-| [Stammbaum Anverwandte](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| klemens@miehe.de |
-| [Strickler Family worldwide](https://www.strickler.info/webtrees) | |Colors Sage|2.1.18|de| |
-| [The Jonesipedia](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.18|us| |
-| [The Spiegels family tree](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
-| [Thomas Rindals family pages](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no| |
-| [Todd’s family tree](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| mstevetodd@gmail.com |
-| [Timbershack family history](https://www.timbershack.co.uk) | |F.A.B.|2.1.18|uk, scot| |
-| [Verrips Family Tree](https://verrips.com) | |Xenea|2.1.17|nl| |
+| [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.18|de| dietmar.hermsdoerfer@gmail.com |
+| [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | Les familles de Chérence (Val d'Oise) |Rural|2.1.18|fr| |
+| [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.18|us| |
+| [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.18|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
+| [Neumann-Korsgaard](https://iverneumann.no/webtrees) | Ancestors of Iver Neumann-Korsgaard |webtrees|2.1.18|no|iver@iverneumann.no|
+| [Nusselt, Müller, Bauer](https://family.nusselt.de) | |JustLight|2.1.18|de| |
+| [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) | Våre familier |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
+| [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun |JustLight|2.1.18|fr, de, us| andreas@rauhut.eu |
+| [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) | |JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| gustine@ovh.fr |
+| [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
+| [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
+| [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.18|de| axel@schreiter.info |
+| [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.18|de| |
+| [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
+| [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
+| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|F.A.B.|2.1.17|fr| |
+| [Calleeuw](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.17|be| webmaster@calleeuw.be |
+| [Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.17|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
+| [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| klemens@miehe.de |
+| [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
+| [Paul](https://www.helmutpaul.at) | |Colors Sage|2.1.17|at| anjop |
+| [Rindal](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no| |
+| [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| mstevetodd@gmail.com |
+| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell |Colors Belgian Chocolate|2.1.17|cat| toniplanasvila@gmail.com |
+| [Verrips](https://verrips.com) | |Xenea|2.1.17|nl| |
+| [Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
+| [Devos, Verhille](https://www.ghezibde.net/genealogie) | Gallia Belgica <br> Flandre Ardenne |Xenea|2.1.16|be| avdl |
+| [Gartside](https://gartside.net/webtrees) | |webtrees|2.1.16|us| |
+| [Grint](https://mynorfolkancestors.net) | |Epoque (Custom)|2.1.16|en| |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) | |webtrees|2.1.16|de| |
+| [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
+| [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
+| [Rousselle-Roussel](http://rousselle-roussel.fr) | |webtrees|2.1.16|fr| |
+| [Spiegel](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.16|de| |
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl| |
-| [Våre familier](https://visitusinmaputo.com/webtree) | |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
-| [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.18|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | |Craigkin (Custom)|2.0.11|us| |
@@ -86,4 +87,3 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [MaLiBeLe](http://www.malibele.org) | |Clouds|1.7.19|fr| roland.bouat@lorand.org |
 | [Marilyn Simmons Family Tree](http://www.josephsimmons.com) | |webtrees|1.7.20|bm| |
 | [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
-| [Tunn’s around the world](https://tunn.synology.me/gen) | |Rural|1.7.14|en| |
