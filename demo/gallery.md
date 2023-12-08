@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-12-04
+date: 2023-12-07
 sitemap:
     priority: 0.5
 ---
@@ -27,7 +27,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen |Colors Aquamarin|2.1.18|nl| |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History |JustLight|2.1.18|us| WGroleau |
-| [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere |JustLight|2.1.18|dk| |
+| [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere |JustLight|2.1.18|dk| ole (Ole Henrik Madsen) |
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.18|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.18|de, at|hermann|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) | |Argon|2.1.18|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
