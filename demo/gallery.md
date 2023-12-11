@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-12-07
+date: 2023-12-11
 sitemap:
     priority: 0.5
 ---
@@ -18,11 +18,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.1.x installations</b>| | | | |
 | [Altvater](https://micha-a.info/micgen) | in Oberschwaben |JustLight|2.1.18|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) | Stammbaum-Netzwerk |Xenea|2.1.18|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
+| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|F.A.B.|2.1.18|fr| |
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) | Family Tree | Xenea | 2.1.18 | it | |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)| |JustBlack|2.1.18|nl| Newbie67 |
 | [Bożyczko, Mackiewicz](https://przodkowie.net) | |Colors Ash|2.1.18|pl| |
-| [Cepria](https://www.cepria.fr) | !!!down? |JustLight|2.1.18|fr, de| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
+| [Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.18|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Fobbe, Frese](https://freris.de) |less is more |Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen |Colors Aquamarin|2.1.18|nl| |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| |
@@ -39,6 +40,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) | Ancestors of Iver Neumann-Korsgaard |webtrees|2.1.18|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) | |JustLight|2.1.18|de| |
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) | Våre familier |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
+| [Paul](https://www.helmutpaul.at) | |Colors Sage|2.1.18|at| anjop |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun |JustLight|2.1.18|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) | |JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel ?](mailto:gustine@ovh.fr) |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
@@ -49,12 +51,9 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | [Verrips](https://verrips.com) | |Xenea|2.1.18|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
-| [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS|F.A.B.|2.1.17|fr| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.17|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.17|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
-| [Paul](https://www.helmutpaul.at) | |Colors Sage|2.1.17|at| anjop |
 | [Rindal](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no| |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell |Colors Belgian Chocolate|2.1.17|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
