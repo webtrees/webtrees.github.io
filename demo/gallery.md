@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-12-11
+date: 2023-12-19
 sitemap:
     priority: 0.5
 ---
@@ -26,13 +26,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.18|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Fobbe, Frese](https://freris.de) |less is more |Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen |Colors Aquamarin|2.1.18|nl| |
-| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| |
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History |JustLight|2.1.18|us| WGroleau |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere |JustLight|2.1.18|dk| ole (Ole Henrik Madsen) |
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.18|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.18|de, at|hermann|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) | |Argon|2.1.18|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
-| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.18|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| |
+| [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.18|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.18|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | Les familles de Chérence (Val d'Oise) |Rural|2.1.18|fr| |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.18|us| |
@@ -51,6 +51,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | [Verrips](https://verrips.com) | |Xenea|2.1.18|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.18|de| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.17|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
@@ -65,7 +66,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
 | [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.16|de| |
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
