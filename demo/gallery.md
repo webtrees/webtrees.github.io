@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-12-19
+date: 2023-12-29
 sitemap:
     priority: 0.5
 ---
@@ -32,6 +32,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.18|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed|JustLight|2.1.18|de, at|hermann|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) | |Argon|2.1.18|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) | |webtrees|2.1.18|de| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |embedded in Joomla|Colors Ash|2.1.18|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.18|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | Les familles de Chérence (Val d'Oise) |Rural|2.1.18|fr| |
@@ -42,30 +43,29 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) | Våre familier |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Paul](https://www.helmutpaul.at) | |Colors Sage|2.1.18|at| anjop |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun |JustLight|2.1.18|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
+| [Rindal](https://thomas.rindal.name) | some other modifications |JustLight|2.1.18|no| |
 | [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) | |JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel ?](mailto:gustine@ovh.fr) |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
 | [Rousselle-Roussel](http://rousselle-roussel.fr) | |webtrees|2.1.18|fr| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.18|de| [Axel Schreiter](mailto:axel@schreiter.info) |
+| [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.18|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.18|de| |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
+| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell |Colors Belgian Chocolate|2.1.18|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Verrips](https://verrips.com) | |Xenea|2.1.18|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.18|de| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.17|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
-| [Rindal](https://thomas.rindal.name) | some other modifications |JustLight|2.1.17|no| |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
-| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell |Colors Belgian Chocolate|2.1.17|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
 | [Devos, Verhille](https://www.ghezibde.net/genealogie) | Gallia Belgica <br> Flandre Ardenne |Xenea|2.1.16|be| avdl |
 | [Gartside](https://gartside.net/webtrees) | |webtrees|2.1.16|us| |
 | [Grint](https://mynorfolkancestors.net) | |Epoque (Custom)|2.1.16|en| |
-| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) | |webtrees|2.1.16|de| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
-| [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.16|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
