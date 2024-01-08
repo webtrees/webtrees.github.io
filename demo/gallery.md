@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2023-12-29
+date: 2024-01-08
 sitemap:
     priority: 0.5
 ---
@@ -22,9 +22,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) | Family Tree | Xenea | 2.1.18 | it | |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)| |JustBlack|2.1.18|nl| Newbie67 |
 | [Bożyczko, Mackiewicz](https://przodkowie.net) | |Colors Ash|2.1.18|pl| |
+| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.18|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Dolman](https://www.dolman.fr) | |Dolman (Custom)|2.1.18|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Fobbe, Frese](https://freris.de) |less is more |Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
+| [Gartside](https://gartside.net/webtrees) | |webtrees|2.1.18|us| |
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen |Colors Aquamarin|2.1.18|nl| |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal |webtrees|2.1.18|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History |JustLight|2.1.18|us| WGroleau |
@@ -38,6 +40,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | Les familles de Chérence (Val d'Oise) |Rural|2.1.18|fr| |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.18|us| |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.18|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
+| [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.18|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) | Ancestors of Iver Neumann-Korsgaard |webtrees|2.1.18|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) | |JustLight|2.1.18|de| |
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) | Våre familier |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
@@ -56,13 +59,10 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Verrips](https://verrips.com) | |Xenea|2.1.18|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.18|de| |
-| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) | Onze familiegeschiedenis |webtrees|2.1.17|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [Meyer, Jansen](https://stammbaum.anverwandte.info) | |Xenea|2.1.17|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | [Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
 | [Devos, Verhille](https://www.ghezibde.net/genealogie) | Gallia Belgica <br> Flandre Ardenne |Xenea|2.1.16|be| avdl |
-| [Gartside](https://gartside.net/webtrees) | |webtrees|2.1.16|us| |
 | [Grint](https://mynorfolkancestors.net) | |Epoque (Custom)|2.1.16|en| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
