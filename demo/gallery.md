@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-01-15
+date: 2024-01-23
 sitemap:
     priority: 0.5
 ---
@@ -47,24 +47,24 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) | Våre familier |F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Paul](https://www.helmutpaul.at) | |Colors Sage|2.1.18|at| anjop |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun |JustLight|2.1.18|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
-| [Rindal](https://thomas.rindal.name) | some other modifications |JustLight|2.1.18|no| |
-| [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) | |JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel ?](mailto:gustine@ovh.fr) |
+| [Rindal](https://thomas.rindal.name) |([Vesta](https://github.com/vesta-webtrees-2-custom-modules), [Fancy Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Fancy Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar), [Faces](https://github.com/UksusoFF/webtrees-faces), JC Menu Help&Support, JP Menu Manual)|JustLight|2.1.18|no| |
+| [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) |([Vesta LaF & ext.Rel-ship](https://github.com/vesta-webtrees-2-custom-modules),<br> [Fancy Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Fancy Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar))|JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel ?](mailto:gustine@ovh.fr) |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
-| [Rousselle-Roussel](http://rousselle-roussel.fr) | |webtrees|2.1.18|fr| |
-| [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
+| [Rousselle-Roussel](http://rousselle-roussel.fr) |([Vesta](https://github.com/vesta-webtrees-2-custom-modules)) |webtrees|2.1.18|fr| |
+| [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br> ([Vesta](https://github.com/vesta-webtrees-2-custom-modules), [Fancy Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Faces](https://github.com/UksusoFF/webtrees-faces), [Fancy Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar), [GVExport](https://github.com/Neriderc/GVExport), FAQ, [Multi Treeview](https://github.com/huhwt/huhwt-mtv)) |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.18|de| [Axel Schreiter](mailto:axel@schreiter.info) |
-| [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |with selected add-on modules|F.A.B.|2.1.18|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
+| [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |([Faces](https://github.com/UksusoFF/webtrees-faces), [Magics charts](https://github.com/magicsunday?tab=repositories) )|F.A.B.|2.1.18|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.18|de| |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
-| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell |Colors Belgian Chocolate|2.1.18|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
+| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br> ([Faces](https://github.com/UksusoFF/webtrees-faces), Stories) |Colors Belgian Chocolate|2.1.18|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Verrips](https://verrips.com) | |Xenea|2.1.18|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.18|uk, scot| |
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | Saarland |webtrees|2.1.18|de| |
-| [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | |JustLight|2.1.17|no| |
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
+| [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | ([Fancy Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Vesta](https://github.com/vesta-webtrees-2-custom-modules)) |JustLight|2.1.17|no| |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | [Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
-| [Devos, Verhille](https://www.ghezibde.net/genealogie) | Gallia Belgica <br> Flandre Ardenne |Xenea|2.1.16|be| avdl |
-| [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | |Rural|2.1.16| us | dbq-andersons |
+| [Genealogies from Gallia Belgica <br> Flandre Ardenne](https://www.ghezibde.net/genealogie) | ([Vesta LaF](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf), [Faces](https://github.com/UksusoFF/webtrees-faces) <br> own additions:<br>Gallery, Forum, Register) |Xenea|2.1.16|be| avdl |
+| [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | ([Vesta LaF](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf)) | Rural |2.1.16| us | dbq-andersons |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
