@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-01-30
+date: 2024-02-09
 sitemap:
     priority: 0.5
 ---
@@ -23,6 +23,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|([GVExport](https://github.com/Neriderc/GVExport), [JC Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Vesta](https://github.com/vesta-webtrees-2-custom-modules))|JustBlack|2.1.18|nl| Newbie67 |
 | [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |FAQ|Colors Ash|2.1.18|pl| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>([JC Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar))|webtrees|2.1.18|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
+| [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Dolman](https://www.dolman.fr) | ([Stories](https://dolman.fr/module/stories/ShowList/dolman.ged)) |Dolman (Custom)|2.1.18|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Fobbe, Frese](https://freris.de) |less is more<br>([JC Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar), [GVExport](https://github.com/Neriderc/GVExport), [Vesta Laf](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf), [Vesta Facts](https://github.com/vesta-webtrees-2-custom-modules/vesta_personal_facts), [Vesta ext.Relationship](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships))|Rural|2.1.18|[de,...](https://freris.de/tree/frese/place-list)|Franz Frese|
@@ -50,7 +51,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Rindal](https://thomas.rindal.name) |([Vesta](https://github.com/vesta-webtrees-2-custom-modules), [JC Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [JC Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar), [Faces](https://github.com/UksusoFF/webtrees-faces), JC Menu Help&Support, JP Menu Manual)|JustLight|2.1.18|no| |
 | [Rivière, Freulon, Le Dû, Pillement](https://gustine.eu/wt) |([Vesta LaF & ext.Rel-ship](https://github.com/vesta-webtrees-2-custom-modules),<br> [JC Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [JC Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar))|JustLight|2.1.18|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel ?](mailto:gustine@ovh.fr) |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.18|en|fisharebest|
-| [Roteiro dos Azevedos, No](https://crescercomeducacao.com.br/arvore/) | Famílias Portuguesas no Brasil |Argon|2.1.18|pt-BR|[George Maia](mailto:georgemaia@gmail.com)|
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |([Vesta](https://github.com/vesta-webtrees-2-custom-modules)) |webtrees|2.1.18|fr| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br> ([Vesta](https://github.com/vesta-webtrees-2-custom-modules), [JC Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Faces](https://github.com/UksusoFF/webtrees-faces), [JC Imagebar](https://github.com/JustCarmen/webtrees-fancy-imagebar), [GVExport](https://github.com/Neriderc/GVExport), FAQ, [Multi Treeview](https://github.com/huhwt/huhwt-mtv)) |JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.18|de| [Axel Schreiter](mailto:axel@schreiter.info) |
@@ -63,7 +63,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) | ([JC Treeview](https://github.com/JustCarmen/webtrees-fancy-treeview), [Vesta](https://github.com/vesta-webtrees-2-custom-modules)) |JustLight|2.1.17|no| |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
-| [Chiele](https://www.chiele.net) | |webtrees|2.1.16|it| |
 | [Genealogies from Gallia Belgica <br> Flandre Ardenne](https://www.ghezibde.net/genealogie) | ([Vesta LaF](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf), [Faces](https://github.com/UksusoFF/webtrees-faces) <br> own additions:<br>Gallery, Forum, Register) |Xenea|2.1.16|be| avdl |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) | ([Vesta LaF](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf)) | Rural |2.1.16| us | dbq-andersons |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.16|au| |
