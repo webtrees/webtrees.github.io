@@ -3,10 +3,10 @@ layout: post
 title:  "webtrees 2.1.18 released"
 date:   2023-07-14
 sitemap:
-priority: 1.0
+priority: 0.7
 ---
 
-webtrees 2.1.18 is now available for download.
+webtrees 2.1.19 is now available for download.
 
 Fixes:
 
