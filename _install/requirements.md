@@ -15,6 +15,16 @@ order:  1
 | 1.7             | end-of-life         | {{ site.latest_version_17 }} | ✅           | ✅           | ❌       | ❌        | ❌            |
 | 1.4             | end-of-life         | {{ site.latest_version_14 }} | ✅           | ❌           | ❌       | ❌        | ❌            |
 
+### PHP Modules
+webtrees relies on following php modules: 
+* php-gd
+* php-xml
+* php-mbstring
+
+According to the used Database it needs additionally:
+* php-mysql
+* ??
+
 ## Database Requirements
 
 | webtrees branch | status              | latest version               | MySQL  | MariaDB | SQLite   | SQL Server | PostgreSQL |
