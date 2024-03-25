@@ -15,6 +15,6 @@ date:  2023-08-02
 </ul>
 
 There is some unofficial (but pretty good!) documentation available at
-* <[https://richard-underwood.com/product/webtrees-manual](https://books2read.com/b/47We9g)> (English) by Richard Underwood
+* <https://books2read.com/b/47We9g> (English) by Richard Underwood
 * <https://wiki.genealogy.net/Webtrees_Handbuch> (German)
 * <https://wtwiki.ausmis.com> (Chinese)
