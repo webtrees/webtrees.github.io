@@ -16,5 +16,6 @@ Fixes:
 * Error in local time conversion in changes log
 * Missing location icon in changes block
 * Allowed classes/styles in ckEditor
+* Syntax error in robots.txt
 
 See the [change log](https://github.com/fisharebest/webtrees/compare/2.1.19...2.1.20) for details.
