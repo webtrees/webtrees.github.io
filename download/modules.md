@@ -243,6 +243,13 @@ merging duplicate individuals.
 
 ----------
 
+### News-menu - by Tywed - `2.1` - `2.2` - [website]((https://github.com/Tywed/news-menu)
+
+This custom module for webtrees introduces a news management system. It extends the functionality of the main menu by adding an extra item that serves as a portal to the news section. 
+The news management system allows users to attach images to their news posts, enriching the content with visual elements.
+
+----------
+
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
 
 This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
