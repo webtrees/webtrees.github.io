@@ -92,14 +92,17 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
 
 ## Reference to the mentioned THIRD-PARTY MODULES
+
 ### 1
 by [Uksusoff](https://github.com/UksusoFF)
 * faces [Readme](https://github.com/UksusoFF/webtrees-faces/tree/v2.7.2?tab=readme-ov-file#faces-for-webtrees), [Download](https://github.com/UksusoFF/webtrees-faces/releases/latest)
+
 ### 2
 by [Just Carmen](https://github.com/JustCarmen)
 * fancy Imagebar [Readme](https://github.com/JustCarmen/webtrees-fancy-imagebar/tree/2.3.1?tab=readme-ov-file#fancy-imagebar-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-imagebar/releases/latest)
 * fancy Treeview [Readme](https://github.com/JustCarmen/webtrees-fancy-treeview/tree/2.0.5?tab=readme-ov-file#fancy-treeview-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-treeview/releases/latest)
 * simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu/tree/1.4?tab=readme-ov-file#simple-menu-module-for-webtrees), Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest)
+
 ### 3
 by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-webtrees-2-custom-modules)
 * Vesta [Download](https://cissee.de/vesta.latest.zip) contains<br>
@@ -114,19 +117,24 @@ by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-web
   * vesta_relatives [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_relatives?tab=readme-ov-file#-vesta-families-webtrees-2-custom-module), 
   * vesta_research_suggestions [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_research_suggestions?tab=readme-ov-file#-vesta-research-suggestions-webtrees-2-custom-module), 
   * vesta_shared_places [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places?tab=readme-ov-file#-vesta-shared-places-webtrees-2-custom-module)
+
 ### 4
 by [Neriderc](https://github.com/Neriderc)
 * GVExport: [Readme](https://github.com/Neriderc/GVExport?tab=readme-ov-file#gvexport), [Download](https://github.com/Neriderc/GVExport/releases/latest)
+
 ### 5
 by [Jefferson49](https://github.com/Jefferson49)
 * Repository Hierarchy [Readme](https://github.com/Jefferson49/RepositoryHierarchy?tab=readme-ov-file#repository-hierarchy-overview), [Download](https://github.com/Jefferson49/RepositoryHierarchy/releases/latest)
+
 ### 6
 by [Hermann Hartenthaler](https://github.com/hartenthaler)
 * Extended Family [Readme](https://github.com/hartenthaler/hh_extended_family/tree/2.1.5.4?tab=readme-ov-file#webtrees-module-hh_extended_family), [Download](https://github.com/hartenthaler/hh_extended_family/releases/latest)
+
 ### 7
 by [huhwt EW.H](https://github.com/huhwt)
 * Multi Treeview [Readme](https://github.com/huhwt/huhwt-mtv?tab=readme-ov-file#%E2%84%8D%E2%84%8Dwt---huh-extensions-for-webtrees---multi-treeview), [Download](https://github.com/huhwt/huhwt-mtv/releases/latest)
 * Extended Interactive Treeview [Readme](https://github.com/huhwt/huhwt-xtv?tab=readme-ov-file#%E2%84%8D%E2%84%8Dwt---huh-extensions-for-webtrees---treeview-extended), [Download](https://github.com/huhwt/huhwt-xtv/releases/latest)
+
 ### 8
 by [Rico Sonntag (magic sunday)](https://github.com/magicsunday)
 * Fan chart [Readme](https://github.com/magicsunday/webtrees-fan-chart?tab=readme-ov-file#fan-chart), [Download](https://github.com/magicsunday/webtrees-fan-chart/releases/latest) 
