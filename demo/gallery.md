@@ -52,12 +52,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.20|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.20|uk, scot| |
-
+|||||||
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.19|gr| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.19| us | dbq-andersons |
 | [Verrips](https://verrips.com) | |Xenea|2.1.19|nl| |
-
+|||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.18|en| |
@@ -66,12 +66,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
-
+|||||||
 | [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
-
+|||||||
 | [Genealogies from Gallia Belgica <br> Flandre Ardenne](https://www.ghezibde.net/genealogie) |[Vesta LaF](#3), [Faces](#1)<br>own additions:<br>Gallery, Forum, Register|Xenea|2.1.16|be| avdl |
-
+|||||||
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
@@ -101,7 +101,7 @@ by [Uksusoff](https://github.com/UksusoFF)
 by [Just Carmen](https://github.com/JustCarmen)
 * fancy Imagebar [Readme](https://github.com/JustCarmen/webtrees-fancy-imagebar/tree/2.3.1?tab=readme-ov-file#fancy-imagebar-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-imagebar/releases/latest)
 * fancy Treeview [Readme](https://github.com/JustCarmen/webtrees-fancy-treeview/tree/2.0.5?tab=readme-ov-file#fancy-treeview-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-treeview/releases/latest)
-* simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu/tree/1.4?tab=readme-ov-file#simple-menu-module-for-webtrees), Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest)
+* simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu/tree/1.4?tab=readme-ov-file#simple-menu-module-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest)
 
 ### 3
 by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-webtrees-2-custom-modules)
