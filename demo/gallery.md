@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-06-19
+date: 2024-07-10
 sitemap:
     priority: 0.5
 ---
@@ -19,12 +19,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk<br>within Joomla, only login|Xenea|2.1.20|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|runs on a synology home NAS<br>[Faces](#1)|F.A.B.|2.1.20|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) | 3 Family Trees | Xenea | 2.1.20 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
+| [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.20|gr| |
 | [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |FAQ|Colors Ash|2.1.20|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.20|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Çelebi (Celepler) & akrabalar soyağacı](https://www.celebi24.com) |only login page|Clouds|2.1.20|tr| |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.1.20|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Fobbe, Frese](https://freris.de) |less is more<br>[JC Imagebar](#2), [GVExport](#4), [Vesta Laf, Facts, extented relationalship](#3) |Rural|2.1.20|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
-| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.20|us| WGroleau |
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>FAQ nl|Colors Aquamarin|2.1.20|nl| |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.1.20|dk| ole (Ole Henrik Madsen) |
@@ -54,20 +55,19 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.20|uk, scot| |
 |||||||
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
-| [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.19|gr| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.19| us | dbq-andersons |
 | [Verrips](https://verrips.com) | |Xenea|2.1.19|nl| |
 |||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.18|en| |
-| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) | |webtrees|2.1.18|de| |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) |!error 20240625|webtrees|2.1.18|de| |
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.18|de| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
 |||||||
-| [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
+| [Altvater](https://micha-a.info/micgen) |!error2020625<br>in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 |||||||
 | [Genealogies from Gallia Belgica <br> Flandre Ardenne](https://www.ghezibde.net/genealogie) |[Vesta LaF](#3), [Faces](#1)<br>own additions:<br>Gallery, Forum, Register|Xenea|2.1.16|be| avdl |
