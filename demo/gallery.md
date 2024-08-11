@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-07-28
+date: 2024-08-11
 sitemap:
     priority: 0.5
 ---
@@ -23,7 +23,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors Ash|2.1.20|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.20|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Çelebi (Celepler) & akrabalar soyağacı](https://www.celebi24.com) |access restricted to users|Clouds|2.1.20|tr| |
-| ![ ](https://dolman.fr/Notes_fr/Images//pock_school.jpg "Pockligton school nowadays. School founed by John Dolman in 1514") [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.1.20|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
+| [![ ](https://dolman.fr/Notes_fr/Images//pock_school.jpg "Dolman")](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.1.20|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) |less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.1.20|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en| |
@@ -33,9 +33,10 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.20|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed<br>[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.1.20|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|Argon|2.1.20|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
+| [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.20|au| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors Ash|2.1.20|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.20|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
-| [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | Les familles de Chérence (Val d'Oise)<br>[Stories](https://www.cherence95-fr.org/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FLes%2520familles%2520de%2520Ch%25C3%25A9rence) |Rural|2.1.20|fr| |
+| [Huppé, Nicolle, de Limoges, Alexandre](https://www.cherence95-fr.org/webtrees) | !error Les familles de Chérence (Val d'Oise)<br>[Stories](https://www.cherence95-fr.org/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FLes%2520familles%2520de%2520Ch%25C3%25A9rence) |Rural|2.1.20|fr| |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.20|us| |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.1.20|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.1.20|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
@@ -61,7 +62,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 |||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
-| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family/) ||webtrees|2.1.18|de| |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)|!error |webtrees|2.1.18|de| |
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.18|de| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
@@ -76,7 +77,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | |Craigkin (Custom)|2.0.11|us| |
-| [Heinrich Family](http://www.heinrich.id.au/webtrees) | |webtrees|2.0.17|au| |
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) | |JustLight|2.0.25|it| |
 | [睢宁王氏家族网](https://www.snwsjz.com) |some other modifications|Wang (Custom)|2.0.19|cn| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
