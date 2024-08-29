@@ -45,6 +45,7 @@ If you have any problems with these installers, please contact the provider dire
 * [Puppet][PUPPET]
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
+* [Fedora Copr][COPR]
 
 [DOCKER]: https://hub.docker.com/r/dtjs48jkt/webtrees
 [DOCKERCOMPOSE]: https://hub.docker.com/r/nathanvaughn/webtrees
@@ -56,3 +57,4 @@ If you have any problems with these installers, please contact the provider dire
 [PUPPET]: https://github.com/jjarokergc/puppet-webtrees
 [SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
 [YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
+[COPR]: https://copr.fedorainfracloud.org/coprs/castedo/webtrees
