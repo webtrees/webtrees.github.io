@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-08-26
+date: 2024-09-03
 sitemap:
     priority: 0.5
 ---
@@ -49,6 +49,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.20|en|fisharebest|
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.1.20|fr| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.20|de| [Axel Schreiter](mailto:axel@schreiter.info) |
+| [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|bm| |
 | [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |[Faces](#1), [Magics charts](#8)|F.A.B.|2.1.20|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.20|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
@@ -86,7 +87,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) | |JustLight|1.7.17|fr| |
 | [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|1.7.19|pl| |
 | [MaLiBeLe](http://www.malibele.org) ||Clouds|1.7.20|fr| [Roland Bouat](mailto:roland.bouat@lorand.org) |
-| [Marilyn Simmons Family Tree](http://www.josephsimmons.com) | |webtrees|1.7.20|bm| |
 | [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
 
 ## Reference to the mentioned THIRD-PARTY MODULES
