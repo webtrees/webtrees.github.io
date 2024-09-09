@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-09-03
+date: 2024-09-09
 sitemap:
     priority: 0.5
 ---
@@ -39,6 +39,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.1.20|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.1.20|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.1.20|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
+| [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) |Våre familier<br>[JC Treeview](#2), [Vesta](#3)|F.A.B.|2.1.20|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.20|au| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|no| |
@@ -49,7 +50,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.20|en|fisharebest|
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.1.20|fr| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.20|de| [Axel Schreiter](mailto:axel@schreiter.info) |
-| [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|bm| |
+| [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
 | [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |[Faces](#1), [Magics charts](#8)|F.A.B.|2.1.20|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.20|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
@@ -62,7 +63,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees|2.1.18|de| |
-| [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.18|de| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
@@ -77,7 +77,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.0.x installations</b>| | | | |
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | |Craigkin (Custom)|2.0.11|us| |
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) | |JustLight|2.0.25|it| |
-| [睢宁王氏家族网](https://www.snwsjz.com) | |Wang (Custom)|2.0.19|cn| |
+| [睢宁王氏家族网](https://www.snwsjz.com) |!not accessible |Wang (Custom)|2.0.19|cn| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
 | [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | | JustBlack | 1.7.11 | de | |
