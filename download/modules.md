@@ -270,6 +270,12 @@ Add pages of information, with links from the main menu.
 
 ----------
 
+### Photos - by UksusoFF - `2.1` - [website](https://github.com/UksusoFF/webtrees-photos)
+
+Show latest uploaded photos in block.
+
+----------
+
 ### Reminder - by UksusoFF - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
