@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-09-09
+date: 2024-09-30
 sitemap:
     priority: 0.5
 ---
@@ -9,7 +9,7 @@ sitemap:
 These are examples of webtrees sites from around the world.  The list was last checked on
 {{ page.date | date: "%e %B %Y" }}.  Let us know about any corrections or additions.
 
-| page | comment | theme default | wt version | area (main) | contact (forum or mail) |
+| page | comment | theme<br> default | wt version | area (main) | contact (forum or mail) |
 |---|---|---|---|---|---|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.2.x installations</b>| | | | |
@@ -33,6 +33,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed<br>[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.1.20|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|Argon|2.1.20|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.20|au| |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees|2.1.20|de| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors Ash|2.1.20|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.20|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.20|us| |
@@ -42,6 +43,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) |Våre familier<br>[JC Treeview](#2), [Vesta](#3)|F.A.B.|2.1.20|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.20|au| |
+| [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.1.20|en|[Nigel Osborne](kiwi3685@me.com)|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|no| |
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors Sage|2.1.20|at| anjop |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.1.20|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
@@ -55,6 +57,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.20|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.20|uk, scot| |
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
 |||||||
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.19| us | dbq-andersons |
@@ -62,10 +65,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 |||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
-| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees|2.1.18|de| |
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.18|de, Saarland| |
 |||||||
 | [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
 | [Todd](https://webtrees.mstevetodd.com) | |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
@@ -77,7 +78,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.0.x installations</b>| | | | |
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | |Craigkin (Custom)|2.0.11|us| |
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) | |JustLight|2.0.25|it| |
-| [睢宁王氏家族网](https://www.snwsjz.com) |!not accessible |Wang (Custom)|2.0.19|cn| |
+| [睢宁王氏家族网](https://www.snwsjz.com) | |Wang (Custom)|2.0.19|cn| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
 | [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | | JustBlack | 1.7.11 | de | |
