@@ -180,6 +180,11 @@ Provides historical facts (in German language) - Chancellors and Presidents of G
 Provides historical facts (in German language) - Wars and Battles Worldwide (since 900).
 
 ----------
+### Global Message - by HerzScheisse - `2.1` - [website](https://github.com/HerzScheisse/wtGlobalMessage) - [demo](https://www.eisold.family)
+
+This module adds a notice (flash message) at each page to remind the guest-user that the displayed data is limited (if you have added some restrictions in admin panel) and that they need to log in to see more data.
+
+----------
 
 ### GVexport - by Neriderc - `2.1` - [website](https://github.com/Neriderc/GVExport)
 
