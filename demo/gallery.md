@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-09-30
+date: 2024-10-18
 sitemap:
     priority: 0.5
 ---
@@ -39,6 +39,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.1.20|us| |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.1.20|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.1.20|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
+| [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.20| us | dbq-andersons |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.1.20|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) |Våre familier<br>[JC Treeview](#2), [Vesta](#3)|F.A.B.|2.1.20|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
@@ -60,7 +61,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
 |||||||
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
-| [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.19| us | dbq-andersons |
 | [Verrips](https://verrips.com) | |Xenea|2.1.19|nl| |
 |||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
