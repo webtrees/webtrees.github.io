@@ -300,6 +300,13 @@ Show latest uploaded photos in block.
 
 ----------
 
+### Primer Theme - by Fredrik Ekdahl - `2.1` - [website](https://github.com/ekdahl/webtrees-primer-theme)
+
+This theme takes inspiration from the look and feel on the GitHub web site. It also adds some icons for menus and other controls. The design used on GitHub is called the Primer Design System.
+The available palettes are: Dark default, dark dimmed, dark high contrast, light default and light high contrast.
+
+----------
+
 ### Reminder - by UksusoFF - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
