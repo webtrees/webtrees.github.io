@@ -350,6 +350,12 @@ This simple module allows you to set up a new menu item and a new page. You can 
 
 ----------
 
+### Sosa - by Gustine - `1.7` `2.0` - `2.1` - [website](https://gustine.eu/mode_emploi/sosa-en.php) 
+
+A sidebar showing Sosa-Stradonitz number of individuals.
+
+----------
+
 ### Tagging Service Manager (TSM) - by H&Hwt - `2.1` - [website](https://github.com/huhwt/huhwt-tsm)
 
 This module implements a service that works on 'Shared Notes' (sNOTES). TSM provides a structure for how an sNOTE is to be defined: A defined prefix - by default 'TAG:' (can be edited/extended as desired in the settings) - enables the targeted selection and identification of sNOTES. They can be assigned or removed in one step across all data records collected in the ClippingsCart. Confirmations are suspended for these overall actions, but are documented individually in the logs as usual.
