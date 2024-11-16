@@ -52,7 +52,7 @@ a GEDCOM file.
 
 ### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.1` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
 
-This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [joomla](https://www.joomla.org).
+This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
 
 ----------
 
@@ -91,9 +91,9 @@ an attractive descendants chart capable to display up to 25 generations.
 
 ----------
 
-### DownloadGedcomWithURL - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/DownloadGedcomWithURL)
+### Extended Import/Export - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
-This module downloads GEDCOM files on URL requests with the tree name, GEDCOM file name, and authorization provided as parameters within the URL.
+A custom module for advanced GEDCOM import, export ,and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
 
 ----------
 
