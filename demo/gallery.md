@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-10-18
+date: 2024-11-22
 sitemap:
     priority: 0.5
 ---
@@ -57,11 +57,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |[Faces](#1), [Magics charts](#8)|F.A.B.|2.1.20|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.20|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
+| [Verrips](https://verrips.com) | |Xenea|2.1.20|nl| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.20|uk, scot| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
 |||||||
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
-| [Verrips](https://verrips.com) | |Xenea|2.1.19|nl| |
 |||||||
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
