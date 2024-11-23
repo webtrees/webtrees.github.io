@@ -13,7 +13,8 @@ the detailed [requirements]({% link _install/requirements.md%}).
 ## Installation steps
 
 * Check the version of PHP on your server.
-* For PHP 7.4 to 8.3, download [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21].
+* For PHP 8.3 to 8.4, download [webtrees-{{ site.latest_version_22 }}.zip][DOWNLOAD_22].
+* For PHP 7.4 to 8.2, download [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21].
 * For PHP 7.1 to 7.3, download [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20].
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Upload the contents of the `webtrees` folder to a folder on your web server.
@@ -49,7 +50,7 @@ If you have any problems with these installers, please contact the provider dire
 
 [DOCKER]: https://hub.docker.com/r/dtjs48jkt/webtrees
 [DOCKERCOMPOSE]: https://hub.docker.com/r/nathanvaughn/webtrees
-[DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
+[DOWNLOAD_22]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_22 }}/webtrees-{{ site.latest_version_22 }}.zip
 [DOWNLOAD_21]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_21 }}/webtrees-{{ site.latest_version_21 }}.zip
 [DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
