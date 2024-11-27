@@ -350,9 +350,9 @@ This simple module allows you to set up a new menu item and a new page. You can 
 
 ----------
 
-### Sosa - by Gustine - `1.7` `2.0` - `2.1` - [website](https://gustine.eu/mode_emploi/sosa-en.php) 
+### Sosa - by Gustine - `1.7` - [website](https://gustine.eu/mode_emploi/sosa17.php) - `2.0` - `2.1` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php) 
 
-A sidebar showing Sosa-Stradonitz number of individuals.
+Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering of the root individual's ancestors.
 
 ----------
 
