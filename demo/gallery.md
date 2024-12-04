@@ -16,7 +16,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors Ash|2.2.1-dev|nl, us| [Rob Peters](mailto:makitso@gmail.com) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+| [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) |less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.1|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
@@ -26,7 +26,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fmedia-download&xref=M236&fact_id=b1f85b3d236ac237ec35117ba9fddc8e&disposition=inline&mark=1 "Bendinelli, Bargagna, Catassi, Landi")](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.22 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.20|gr| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.20|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) |less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.1.22|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
+
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.22|us| WGroleau |
