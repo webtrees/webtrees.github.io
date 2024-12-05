@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-04
+date: 2024-12-05
 sitemap:
     priority: 0.5
 ---
@@ -26,7 +26,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fmedia-download&xref=M236&fact_id=b1f85b3d236ac237ec35117ba9fddc8e&disposition=inline&mark=1 "Bendinelli, Bargagna, Catassi, Landi")](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.22 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.20|gr| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.20|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.22|us| WGroleau |
@@ -98,7 +97,7 @@ by [Uksusoff](https://github.com/UksusoFF)
 
 ### 2
 by [Just Carmen](https://github.com/JustCarmen)
-* fancy Imagebar [Readme](https://github.com/JustCarmen/webtrees-fancy-imagebar/tree/2.3.1?tab=readme-ov-file#fancy-imagebar-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-imagebar/releases/latest)
+* fancy Imagebar [Readme](https://github.com/JustCarmen/webtrees-fancy-imagebar/tree/2.3.1?tab=readme-ov-file#fancy-imagebar-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-imagebar/releases/latest), [Example1](https://stamboom.calleeuw.be/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbart.GED)
 * fancy Treeview [Readme](https://github.com/JustCarmen/webtrees-fancy-treeview/tree/2.0.5?tab=readme-ov-file#fancy-treeview-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-treeview/releases/latest)
 * simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu/tree/1.4?tab=readme-ov-file#simple-menu-module-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest)
 
