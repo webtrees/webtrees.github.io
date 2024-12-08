@@ -2,7 +2,7 @@
 layout: page
 title: Modules and themes
 permalink: download/modules
-date: 2020-01-03
+date: 2024-12-08
 ---
 
 webtrees is designed to be extended and modified using modules.
@@ -307,7 +307,7 @@ The available palettes are: Dark default, dark dimmed, dark high contrast, light
 
 ----------
 
-### Reminder - by UksusoFF - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-reminder)
+### Reminder - by UksusoFF - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
 
