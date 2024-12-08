@@ -30,7 +30,7 @@ To remove a module or theme, just delete it.
 
 ----------
 
-### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-fan-chart)
+### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
 
 A replacement for the webtrees fan chart, this module uses the D3JS library to provide
 an attractive, animated fan chart.
@@ -84,7 +84,7 @@ NOTE: This function is a standard part of webtrees since version 2.0.
 
 ----------
 
-### Descendants Chart - by MagicSunday - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
+### Descendants Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
 
 This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
 an attractive descendants chart capable to display up to 25 generations.
@@ -281,7 +281,7 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ----------
 
-### Pedigree Chart - by MagicSunday - `2.0` - `2.1` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
+### Pedigree Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
 
 A replacement for the webtrees pedigree chart, this module uses the D3JS library to provide
 an attractive pedigree chart capable to display up to 25 generations.
