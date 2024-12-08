@@ -80,7 +80,7 @@ A tab which shows all the cousins of an individual.
 Allows you to add JavaScript to every webtrees page.  Typical uses are adding code for
 tools such as Google Analytics, or modifying existing content, such as adding footers.
 
-NOTE: This function is a standard part of webtrees 2.0 and 2.1.
+NOTE: This function is a standard part of webtrees since version 2.0.
 
 ----------
 
@@ -123,7 +123,7 @@ genealogical search engines.
 
 ----------
 
-### Fancy Image Bar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-imagebar) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
+### Fancy Imagebar - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-imagebar) - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
 
 The Fancy Imagebar is a row of images between header and content of your webtrees site.
 The image bar is built up with pictures from the media objects in your tree.
@@ -137,27 +137,27 @@ where you can review the privacy settings of each individual.
 
 ----------
 
-### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-research-links) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
+### Fancy Research Links - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-research-links) - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
 
 A sidebar module that provides quick links to the search functions in approximately 100
 genealogy research websites, both national and international.
 
 ----------
 
-### Fancy Tree View - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-treeview)
+### Fancy Treeview - by JustCarmen - `2.1` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-treeview)
 
 This module adds an additional tab "Descendants and Ancestors" to the individual page, which provide a narrative overview of your family tree. With a few clicks, the administrator can also add pages to the Fancy Treeview menu with links to the Fancy Treeview page for specific individuals.
 
 ----------
 
-### Fancy Tree View - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview)
+### Fancy Treeview - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview)
 
 This module adds pages for several branches in your family tree. These are listed from the
 first generation down to the last, and provide a narrative overview of your family tree.
 
 ----------
 
-### Fancy Tree View PDF - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview-pdf)
+### Fancy Treeview PDF - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-treeview-pdf)
 
  This module is an extension for the Fancy Tree View module which gives the option to
  download a Fancy Treeview page as a PDF file.
@@ -214,11 +214,11 @@ _Note: As of webtrees 2.0/2.1 the JustBlack theme is part of the JustLight theme
 
 ----------
 
-### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/justlight-theme) - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
+### JustLight Theme - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/justlight-theme) - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
 
-A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones and offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
+A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones. It is the only theme that has a specific collapsable menu for small screens! Furthermore this theme offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
-There are two color palettes available. The JustLight palette is a modern palette in clean white and blue. The JustBlack palette has a dark background and orange accents. This palette is more relaxing for the eyes. You can set a default palette for all users or let your users make their own choice.
+Currently, there are three palettes to choose from. The default JustLight palette with a white background and blue accents and the JustBlack palette with a dark background and orange accents. The third palette, called 'JustAuto', is not really a different color palette, but based on the Windows color mode, it automatically chooses the appropriate palette with the light (JustLight) or the dark (JustBlack) background.
 
 ----------
 
@@ -269,7 +269,7 @@ This module extends the duplicate individual checking by displaying each of the 
 
 ### News-menu - by Tywed - `2.1` - `2.2` - [website](https://github.com/Tywed/news-menu)
 
-This custom module for webtrees introduces a news management system. It extends the functionality of the main menu by adding an extra item that serves as a portal to the news section. 
+This custom module for webtrees introduces a news management system. It extends the functionality of the main menu by adding an extra item that serves as a portal to the news section.
 The news management system allows users to attach images to their news posts, enriching the content with visual elements.
 
 ----------
@@ -332,25 +332,25 @@ This module provides a simple way to add a SSO auto login for webtrees in combin
 
 ----------
 
-### Simple Footer - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-footer/)
+### Simple Footer - by JustCarmen - `2.1` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/simple-footer/)
 
 This simple module allows you to set up a new footer item with or without link to an additional page. You can use it to add your credits or copyright to the footer or to add a link to your own custom page with your privacy policy or additional conditions. You can write the page text using the build-in texteditor.
 
 ----------
 
-### Simple Media Display - by JustCarmen - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-media-display/)
+### Simple Media Display - by JustCarmen - `2.1` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/simple-media-display/)
 
 As of webtrees 2.1, additional images belonging to the same media objects are ignored on the facts and events tab and in the scrolling image box. Additional notes are also no longer visible. With this simple module you get back the old behavior of webtrees 2.0.
 
 ----------
 
-### Simple Menu - by JustCarmen - `2.0` - `2.1` - [website](https://justcarmen.nl/modules-webtrees-2/simple-menu/)
+### Simple Menu - by JustCarmen - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/simple-menu/)
 
 This simple module allows you to set up a new menu item and a new page. You can write the page text using the build-in texteditor.
 
 ----------
 
-### Sosa - by Gustine - `1.7` - [website](https://gustine.eu/mode_emploi/sosa17.php) - `2.0` - `2.1` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php) 
+### Sosa - by Gustine - `1.7` - [website](https://gustine.eu/mode_emploi/sosa17.php) - `2.0` - `2.1` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php)
 
 Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering of the root individual's ancestors.
 
