@@ -20,6 +20,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
+| ![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg) [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|F.A.B.|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
@@ -53,7 +54,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.1.20|fr| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.20|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
-| [Spiegel, Jeske, Awe, Wild](https://ourtree.thespiegels.com) |[Faces](#1), [Magics charts](#8)|F.A.B.|2.1.22|[de, us](https://ourtree.thespiegels.com/tree/1/place-list)|Bogie|
 | [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors Sage|2.1.22|de| |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Verrips](https://verrips.com) | |Xenea|2.1.22|nl| |
