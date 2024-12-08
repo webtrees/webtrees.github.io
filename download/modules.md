@@ -14,9 +14,9 @@ Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa.
 For support or to report issues, please contact the author of the module.
 To add your module to this list, please get in touch.
 
-## Installing/removing modules in webtrees 2.0 or 2.1
+## Installing/removing modules in webtrees 2.0 - 2.2
 
-To install a module in webtrees 2.0 or 2.1, copy it to the folder `/modules_v4/`.
+To install a module in webtrees 2.0 or 2.2, copy it to the folder `/modules_v4/`.
 Themes are just special types of module, and are installed in the same folder.
 To remove a module, just delete it.
 To temporarily disable a module, rename it from `/modules_v4/xxx` to `/modules_v4/xxx.disable`.
@@ -103,7 +103,7 @@ This module creates an additional tab in the Individual view which lists the mem
 
 ----------
 
-### Faces - by UksusoFF - `1.7` - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-faces)
+### Faces - by UksusoFF - `1.7` - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-faces)
 
 Tag faces on photos.
 
