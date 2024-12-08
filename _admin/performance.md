@@ -10,6 +10,32 @@ order:  4
 webtrees is a complex and demanding application.  There are a few things you can do to reduce the
 CPU and memory requirements.
 
+### PHP interpreter setup
+
+As a language, PHP originally was designed to interpret a web page "from the top" each time it is accessed.
+Unfortunately, a typical Webtrees installation contains ~8500 PHP files; a typical request loads ~3500 of them.
+Checking these files for changes causes server load and takes time, let alone re-opening and re-interpreting them.
+
+To fix this, set up PHP-FPM. Install the "opcache" module (sometimes called "zend-opcache").
+Set the following configuration options in `/etc/php//#.#/fpm/php.ini`:
+
+* zend_extension=opcache
+
+* opcache.enable=1
+* opcache.revalidate_freq=60
+* opcache.revalidate_path=0
+
+... and in `…/pool.d/www.conf`:
+
+* pm = ondemand
+* pm.process_idle_timeout = 1800s
+
+These options teach your PHP interpreter to re-check for changed files once a minute instead of on every request.
+They allow idle servers to hang around for half an hour, instead of the default ten seconds.
+
+Caution: each PHP server requires ~130 MBytes of memory when it's caching the Webtrees site.
+Monitor the server to ensure that it's not swapping (much).
+
 ## “Is dead” calculations
 
 To protect the data of living individuals, webtrees must calculate whether every individual is living or dead.
