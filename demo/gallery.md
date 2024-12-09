@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-08
+date: 2024-12-09
 sitemap:
     priority: 0.5
 ---
@@ -21,6 +21,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
 | ![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg) [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
+| [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.1|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|F.A.B.|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
@@ -34,7 +35,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>FAQ nl|Colors Aquamarin|2.1.22|nl| |
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.21|fr| |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed<br>[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.1.22|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
-| [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|Argon|2.1.22|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.20|au| |
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees|2.1.20|de| |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors BelgianChocolate|2.1.22|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
@@ -113,7 +113,7 @@ by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-web
   * vesta_classic_look_and_feel [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf#-vesta-classic-look--feel-webtrees-custom-module), 
   * vesta_clippings_cart [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_clippings_cart#-vesta-clippings-cart-webtrees-custom-module), 
   * vesta_extended_relationships [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships#-vesta-extended-relationships-webtrees-custom-module), 
-  * vesta_gov4webtrees [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees#-vesta-gov4webtrees-webtrees-custom-module), 
+  * vesta_gov4webtrees [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees#-vesta-gov4webtrees-webtrees-custom-module),[Example](https://www.heiler-ahnen.de/webtrees/tree/heiler), 
   * vesta_location_data [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_location_data#-vesta-webtrees-location-data-provider-webtrees-custom-module), 
   * vesta_personal_facts [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_personal_facts#-vesta-facts-and-events-webtrees-custom-module), 
   * vesta_places_and_pedigree_map [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map#-vesta-places-and-pedigree-map-webtrees-custom-module), 
@@ -146,3 +146,7 @@ by [Rico Sonntag (magic sunday)](https://github.com/magicsunday)
 * Fan chart [Readme](https://github.com/magicsunday/webtrees-fan-chart?tab=readme-ov-file#fan-chart), [Download](https://github.com/magicsunday/webtrees-fan-chart/releases/latest) 
 * Pedigree chart [Readme](https://github.com/magicsunday/webtrees-pedigree-chart?tab=readme-ov-file#pedigree-chart), [Download](https://github.com/magicsunday/webtrees-pedigree-chart/releases/latest)
 * Descendants chart [Readme](https://github.com/magicsunday/webtrees-descendants-chart?tab=readme-ov-file#descendants-chart), [Download](https://github.com/magicsunday/webtrees-descendants-chart/releases/latest)
+
+### 9
+by [Evan (06Games)](https://github.com/06Games)
+* theme ArgonLight [Readme](https://github.com/06Games/Webtrees-ArgonLight#screenshots), [Download](https://github.com/06Games/Webtrees-ArgonLight/releases/latest), [Example](https://www.heiler-ahnen.de/webtrees/tree/heiler)
