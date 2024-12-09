@@ -43,6 +43,12 @@ A theme for the webtrees based on the Argon Design System.
 
 ----------
 
+### ArgonLight Theme - by Evan Galli (06Games) - `2.1` - `2.2` - [website](https://github.com/06Games/Webtrees-ArgonLight)
+
+A modern light theme based on the Argon Design System.
+
+----------
+
 ### Branch Export - by BlasiusSecundus - `1.7` - [website](https://github.com/BlasiusSecundus/branch_export)
 
 An alternative to the clippings cart, which allows parts of a tree to be extracted to
