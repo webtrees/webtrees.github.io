@@ -9,7 +9,7 @@ webtrees is designed to be extended and modified using modules.
 The following modules have been created by members of the webtrees community.
 
 Before installing a module, make sure that the module is compatible with your version of webtrees.
-Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa.
+Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa. 2.2 modules will run only with webtrees 2.2 .
 
 For support or to report issues, please contact the author of the module.
 To add your module to this list, please get in touch.
