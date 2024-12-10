@@ -56,7 +56,7 @@ a GEDCOM file.
 
 ----------
 
-### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.1` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
+### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.2` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
 
 This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
 
@@ -97,7 +97,7 @@ an attractive descendants chart capable to display up to 25 generations.
 
 ----------
 
-### Extended Import/Export - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/ExtendedImportExport)
+### Extended Import/Export - by Jefferson49 - `2.1` - `2.2` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
 A custom module for advanced GEDCOM import, export ,and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
 
@@ -199,7 +199,7 @@ This module adds a notice (flash message) at each page to remind the guest-user 
 
 ----------
 
-### GVexport - by Neriderc - `2.1` - [website](https://github.com/Neriderc/GVExport)
+### GVexport - by Neriderc - `2.1` - `2.2` - [website](https://github.com/Neriderc/GVExport)
 
 Creates an all-in-one tree in a variety of formats.
 
@@ -235,7 +235,7 @@ Note: This module only works as an extension to CCE. It is not intended to be ca
 
 ----------
 
-### Mail system - by Evan Galli - `2.1` - [website](https://github.com/06Games/Webtrees-MailSystem)
+### Mail system - by Evan Galli - `2.1` - `2.2` - [website](https://github.com/06Games/Webtrees-MailSystem)
 
 Sends an email to users at regular intervals to inform them of changes that have been made.
 
@@ -306,7 +306,7 @@ Show latest uploaded photos in block.
 
 ----------
 
-### Primer Theme - by Fredrik Ekdahl - `2.1` - [website](https://github.com/ekdahl/webtrees-primer-theme)
+### Primer Theme - by Fredrik Ekdahl - `2.1` - `2.2` - [website](https://github.com/ekdahl/webtrees-primer-theme)
 
 This theme takes inspiration from the look and feel on the GitHub web site. It also adds some icons for menus and other controls. The design used on GitHub is called the Primer Design System.
 The available palettes are: Dark default, dark dimmed, dark high contrast, light default and light high contrast.
@@ -319,7 +319,7 @@ Sends a daily reminder of anniversaries.
 
 ----------
 
-### Repository Hierarchy - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/RepositoryHierarchy) - [demo](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Frepositoryhierarchy%2Fxref%2F%7Bxref%7D%2Fcommand%2F%7Bcommand%7D&delimiter_expression=&language=en-GB)
+### Repository Hierarchy - by Jefferson49 - `2.1` - `2.2` - [website](https://github.com/Jefferson49/RepositoryHierarchy) - [demo](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Frepositoryhierarchy%2Fxref%2F%7Bxref%7D%2Fcommand%2F%7Bcommand%7D&delimiter_expression=&language=en-GB)
 
 This module presents the structure of a repository and its sources in a hierarchical manner. Based on the hierarchical structure, a finding aid document (HTML or PDF export) can be generated. The module also provides an EAD XML export, which enables data exchange and linking with an external archive management system or with an archive portal.
 
@@ -384,7 +384,7 @@ An interactive tree, showing ancestors and descendants.
 
 ----------
 
-### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
+### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
 
 Add full screen button for interactive tree view tab.
 
