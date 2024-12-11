@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-09
+date: 2024-12-11
 sitemap:
     priority: 0.5
 ---
@@ -16,11 +16,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors Ash|2.2.1-dev|nl, us| [Rob Peters](mailto:makitso@gmail.com) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
-| [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) |less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.1|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
+| [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.1|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
+| [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) |Våre familier<br>[JC Treeview](#2), [Vesta](#3)|F.A.B.|2.2.1|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
-| ![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg) [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
+| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Awe, Spiegel, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.1|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|F.A.B.|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
@@ -43,7 +44,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.20| us | dbq-andersons |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.1.22|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
-| [Olsdotter, Rød, Nilsen, Olsson](https://visitusinmaputo.com/webtree) |Våre familier<br>[JC Treeview](#2), [Vesta](#3)|F.A.B.|2.1.22|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.20|au| |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.1.21|en|[Nigel Osborne](kiwi3685@me.com)|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|no| |
@@ -112,8 +112,8 @@ by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-web
   * vesta_common (base: use always) [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_common#-vesta-common-webtrees-custom-module), 
   * vesta_classic_look_and_feel [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf#-vesta-classic-look--feel-webtrees-custom-module), 
   * vesta_clippings_cart [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_clippings_cart#-vesta-clippings-cart-webtrees-custom-module), 
-  * vesta_extended_relationships [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships#-vesta-extended-relationships-webtrees-custom-module), 
-  * vesta_gov4webtrees [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees#-vesta-gov4webtrees-webtrees-custom-module),[Example](https://www.heiler-ahnen.de/webtrees/tree/heiler), 
+  * vesta_extended_relationships [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships#-vesta-extended-relationships-webtrees-custom-module), [Example](https://visitusinmaputo.com/webtree/tree/familie/vesta-relationships-4-99/I1930),
+  * vesta_gov4webtrees [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees#-vesta-gov4webtrees-webtrees-custom-module), [Example](https://www.heiler-ahnen.de/webtrees/tree/heiler), 
   * vesta_location_data [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_location_data#-vesta-webtrees-location-data-provider-webtrees-custom-module), 
   * vesta_personal_facts [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_personal_facts#-vesta-facts-and-events-webtrees-custom-module), 
   * vesta_places_and_pedigree_map [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map#-vesta-places-and-pedigree-map-webtrees-custom-module), 
