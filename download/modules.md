@@ -392,7 +392,7 @@ Add full screen button for interactive tree view tab.
 
 ### Various - by André Dumas - `1.7` - [website](http://www.adumas.eu/wt/box)
 
-André has written several modules, but the download links on his site are not currently working.
+André has written several modules.
 
 ----------
 
