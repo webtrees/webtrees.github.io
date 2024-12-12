@@ -68,7 +68,7 @@ This module replaces or supplements the ClippingsCart. Clipping actions have bee
 
 ----------
 
-### Custom CSS - by makitso - `2.0` - `2.1` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
+### Custom CSS - by makitso - `2.0` - `2.2` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
 
 Global modifications to all themes, to provide a more compact display and allowing more
 information to fit on each page.
