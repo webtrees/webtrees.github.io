@@ -50,7 +50,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors Sage|2.1.20|at| anjop |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.1.22|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | [Rindal](https://thomas.rindal.name) |[Vesta](#3), [JC Treeview](#2), [JC Imagebar](#2), [Faces](#1), JC Menu Help&Support, JP Menu Manual|JustLight|2.1.20|no| |
-| ![ ](https://gustine.eu/gustine-2-100-gallery.webp) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.22|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
+| [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.22|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.1.20|fr| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.20|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
