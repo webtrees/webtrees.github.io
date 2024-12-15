@@ -5,9 +5,9 @@ date: 2024-12-15
 sitemap:
     priority: 0.5
 ---
-
 These are examples of webtrees sites from around the world.  The list was last checked on
 {{ page.date | date: "%e %B %Y" }}.  Let us know about any corrections or additions.
+
 | page | comment | theme<br> default | wt version | area (main) | contact (forum or mail) |
 |---|---|---|---|---|---|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
