@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-15
+date: 2024-12-16
 sitemap:
     priority: 0.5
 ---
+
 These are examples of webtrees sites from around the world.  The list was last checked on
 {{ page.date | date: "%e %B %Y" }}.  Let us know about any corrections or additions.
 
@@ -24,6 +25,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Awe, Spiegel, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.1|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
+| [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.1|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|F.A.B.|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
@@ -58,7 +60,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fmedia-download&xref=M236&fact_id=b1f85b3d236ac237ec35117ba9fddc8e&disposition=inline&mark=1 "Bendinelli, Bargagna, Catassi, Landi")](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.22 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.20|gr| |
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.22|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
-| [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.1.21|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.1.22|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
@@ -101,12 +102,13 @@ by [Uksusoff](https://github.com/UksusoFF)
 ### 2
 by [Just Carmen](https://github.com/JustCarmen)
 * theme JustLight [Readme](https://github.com/JustCarmen/webtrees-theme-justlight#justlight-theme-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-theme-justlight/releases/latest),
-        [Example](https://www.melfar.dk/webtrees)
+        [Example](https://wijzijnfamilie.nl/tree/wijzijnfamilie)
 * fancy Imagebar [Readme](https://github.com/JustCarmen/webtrees-fancy-imagebar#fancy-imagebar-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-imagebar/releases/latest),
         [Example](https://stamboom.calleeuw.be/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbart.GED)
 * fancy Treeview [Readme](https://github.com/JustCarmen/webtrees-fancy-treeview#fancy-treeview-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-fancy-treeview/releases/latest),
         [Example](https://www.heiler-ahnen.de/webtrees/tree/heiler/individual/I0160/Theodor-Heiler#tab-_jc-fancy-treeview_)
-* simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu#simple-menu-module-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest)
+* simple menu [Readme](https://github.com/JustCarmen/webtrees-simple-menu#simple-menu-module-for-webtrees), [Download](https://github.com/JustCarmen/webtrees-simple-menu/releases/latest), 
+        [Example](https://www.melfar.dk/webtrees/tree/tree1/jc-simple-menu-2/mine-links)
 
 ### 3
 by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-webtrees-2-custom-modules)
