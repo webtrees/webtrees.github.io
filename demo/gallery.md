@@ -13,6 +13,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 |---|---|---|---|---|---|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.2.x installations</b>| | | | |
+| [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.1|nl, us| [Rick M](mailto:rick@alineofmalkins.com) |
+| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors Ash|2.2.1-dev|nl, us| [Rob Peters](mailto:makitso@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
