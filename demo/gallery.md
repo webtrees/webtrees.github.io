@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-21
+date: 2024-12-22
 sitemap:
     priority: 0.5
 ---
@@ -24,6 +24,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Awe, Spiegel, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
+| [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.1|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.1|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.1|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
@@ -68,7 +69,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.18|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
-| [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.1.18|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)| MAV |
@@ -119,7 +119,7 @@ by [Richard Cissée](https://cissee.de) at [github](https://github.com/vesta-web
   * vesta_clippings_cart [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_clippings_cart#-vesta-clippings-cart-webtrees-custom-module), 
   * vesta_extended_relationships [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships#-vesta-extended-relationships-webtrees-custom-module), [Example](https://visitusinmaputo.com/webtree/tree/familie/vesta-relationships-4-99/I1930),
   * vesta_gov4webtrees [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees#-vesta-gov4webtrees-webtrees-custom-module), [Example](https://www.heiler-ahnen.de/webtrees/tree/heiler), 
-  * vesta_location_data [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_location_data#-vesta-webtrees-location-data-provider-webtrees-custom-module), 
+  * vesta_location_data [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_location_data#-vesta-webtrees-location-data-provider-webtrees-custom-module), [Example](https://proavitus.de/tree/proavitus/individual/X1420/Josef-Lux), 
   * vesta_personal_facts [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_personal_facts#-vesta-facts-and-events-webtrees-custom-module), 
   * vesta_places_and_pedigree_map [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map#-vesta-places-and-pedigree-map-webtrees-custom-module), 
   * vesta_relatives [Readme](https://github.com/vesta-webtrees-2-custom-modules/vesta_relatives#-vesta-families-webtrees-custom-module), 
