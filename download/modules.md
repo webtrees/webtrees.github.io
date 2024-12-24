@@ -278,6 +278,10 @@ This module extends the duplicate individual checking by displaying each of the 
 This custom module for webtrees introduces a news management system. It extends the functionality of the main menu by adding an extra item that serves as a portal to the news section.
 The news management system allows users to attach images to their news posts, enriching the content with visual elements.
 
+### Telegram - by Tywed - `2.2` - [website](https://github.com/Tywed/telegram)
+
+This custom webtrees module sends notifications to Telegram about significant family events, such as birthdays and anniversaries (and many others), based on data from your webtrees installation.
+
 ----------
 
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
