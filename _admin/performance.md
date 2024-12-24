@@ -52,7 +52,7 @@ whose death can be inferred from dates of close relatives.
 A media object will be private if it is linked to one or more private individuals.
 It is common to have an image linked to many individuals, such as a coat-of-arms or a photograph of a church.
 
-To calculate the privacy of these media objects, webtrees must calculate the privacy status linked record.
+To calculate the privacy of these media objects, webtrees must calculate the privacy status of every linked record.
 
 If you know that these images will always be public , then you can add an explicit privacy restriction
 to that record: "Privacy: show to visitors".
