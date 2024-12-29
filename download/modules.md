@@ -16,21 +16,21 @@ To add your module to this list, please get in touch.
 
 ## Installing/removing modules in webtrees 2.0 - 2.2
 
-To install a module in webtrees 2.0 or 2.2, copy it to the folder `/modules_v4/`.
+To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
 Themes are just special types of module, and are installed in the same folder.
 To remove a module, just delete it.
-To temporarily disable a module, rename it from `/modules_v4/xxx` to `/modules_v4/xxx.disable`.
+To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
 
 ## Installing/removing modules in webtrees 1.7
 
 In webtrees 1.7, themes and modules are different.
-Themes are installed by copying them to the folder `/themes/`.
-Modules are installed by copying them to the folder `/modules_v3/`.
+Themes are installed by copying them to the folder `themes`.
+Modules are installed by copying them to the folder `modules_v3`.
 To remove a module or theme, just delete it.
 
 ----------
 
-### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
+### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
 
 A replacement for the webtrees fan chart, this module uses the D3JS library to provide
 an attractive, animated fan chart.
@@ -75,7 +75,7 @@ information to fit on each page.
 
 ----------
 
-### Cousins - by vytux - `1.7` - `2.0` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
+### Cousins - by vytux - `1.7` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
 
 A tab which shows all the cousins of an individual.
 
@@ -109,7 +109,7 @@ This module creates an additional tab in the Individual view which lists the mem
 
 ----------
 
-### Faces - by UksusoFF - `1.7` - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-faces)
+### Faces - by UksusoFF - `1.7` - `2.2` - [website](https://github.com/UksusoFF/webtrees-faces)
 
 Tag faces on photos.
 
@@ -328,7 +328,7 @@ Sends a daily reminder of anniversaries.
 This module presents the structure of a repository and its sources in a hierarchical manner. Based on the hierarchical structure, a finding aid document (HTML or PDF export) can be generated. The module also provides an EAD XML export, which enables data exchange and linking with an external archive management system or with an archive portal.
 
 ----------
-### Rural Theme - by jon48 - `1.7` - `2.0` - `2.1` - `2.2` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
+### Rural Theme - by jon48 - `1.7` - `2.2` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 The Rural theme is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. A companion of webtrees for over a decade now, its characteric layout is still organised around the main genealogical content being wrapped within a responsive white panel on a brown background.
 
@@ -360,7 +360,7 @@ This simple module allows you to set up a new menu item and a new page. You can 
 
 ----------
 
-### Sosa - by Gustine - `1.7` - [website](https://gustine.eu/mode_emploi/sosa17.php) - `2.0` - `2.1` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php)
+### Sosa - by Gustine - `1.7` - [website](https://gustine.eu/mode_emploi/sosa17.php) - `2.0` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php)
 
 Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering of the root individual's ancestors.
 
@@ -388,7 +388,7 @@ An interactive tree, showing ancestors and descendants.
 
 ----------
 
-### Tree View Full Screen - by UksusoFF - `1.7` - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
+### Tree View Full Screen - by UksusoFF - `1.7` - `2.2` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
 
 Add full screen button for interactive tree view tab.
 
