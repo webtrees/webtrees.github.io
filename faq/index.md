@@ -17,6 +17,7 @@ date: 2022-11-19
 * [Can I downgrade to an earlier version?]({% link faq/downgrade.md %})
 * [How do I move webtrees to a new server.]({% link faq/move-server.md %})
 * [Timeouts]({% link faq/timeout.md %})
+* [Upgrade fails when using third-party modules]({% link faq/upgrade-modules.md %})
 
 ## Errors ##
 
