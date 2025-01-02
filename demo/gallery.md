@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2024-12-22
+date: 2025-01-02
 sitemap:
     priority: 0.5
 ---
@@ -15,7 +15,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.2.x installations</b>| | | | |
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors: Ash|2.2.2-dev|nl, us| [Rob Peters](mailto:makitso@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.1|nl, us| [Rick M](mailto:rick@alineofmalkins.com) |
+| [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.1|nz, gb| [Rick M](mailto:rick@alineofmalkins.com) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
@@ -26,6 +26,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Awe, Spiegel, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.1|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
+| [Verrips](https://verrips.com) | |Xenea|2.2.1|nl| |
 | [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.1|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.1|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
@@ -43,7 +44,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors: Belgian Chocolate|2.1.22|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.1.22|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.20|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
-| [Simons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
+| [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.21|fr| |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|no| |
@@ -57,7 +58,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.22|uk, scot| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.22|us| WGroleau |
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>FAQ nl|Colors: Aquamarin|2.1.22|nl| |
-| [Verrips](https://verrips.com) | |Xenea|2.1.22|nl| |
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk,<br>access restricted to users|Xenea|2.1.22|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
 | [![ ](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fmedia-download&xref=M236&fact_id=b1f85b3d236ac237ec35117ba9fddc8e&disposition=inline&mark=1 "Bendinelli, Bargagna, Catassi, Landi")](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.22 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.20|gr| |
