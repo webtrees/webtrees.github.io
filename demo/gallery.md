@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-01-02
+date: 2025-01-04
 sitemap:
     priority: 0.5
 ---
@@ -23,11 +23,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.1|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
+| [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.1|en|[Nigel Osborne](kiwi3685@me.com)|
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Awe, Spiegel, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Awe, Spiegel, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.1|de, us|Bogie|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.1|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.1|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Verrips](https://verrips.com) | |Xenea|2.2.1|nl| |
 | [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.1|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
+| [Strickler, Hofmann, Schaerer, Treichler](https://strickler.info/webtrees) | Strickler Familie |webtrees|2.2.1|de| |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.1|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|Colors: Coffe and Creme|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
@@ -48,12 +50,10 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.21|fr| |
 | [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|no| |
-| [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.1.21|en|[Nigel Osborne](kiwi3685@me.com)|
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.20|au| |
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.1.20|fr| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.20|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.1.21|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
-| [Strickler, Hofmann, Schaerer, Treichler](https://www.strickler.info/webtrees) | zurück zu den Wurzeln |Colors: Sage|2.1.22|de| |
 | [Rindal](https://thomas.rindal.name) |[Vesta](#3), [JC Treeview](#2), [JC Imagebar](#2), [Faces](#1), JC Menu Help&Support, JP Menu Manual|JustLight|2.1.20|no| |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.22|uk, scot| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.22|us| WGroleau |
