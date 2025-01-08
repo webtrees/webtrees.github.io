@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-01-04
+date: 2025-01-08
 sitemap:
     priority: 0.5
 ---
@@ -18,6 +18,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.1|nz, gb| [Rick M](mailto:rick@alineofmalkins.com) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
+| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.1|pl| |
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.1|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.1|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
@@ -89,7 +90,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | |webtrees|1.7.13|fr| |
 | [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) | |webtrees|1.7.19|be| [Info de Prelle](mailto:info@deprelledelanieppe.be) |
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) | |JustLight|1.7.17|fr| |
-| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|1.7.19|pl| |
 | [MaLiBeLe](http://www.malibele.org) ||Clouds|1.7.20|fr| [Roland Bouat](mailto:roland.bouat@lorand.org) |
 | [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
 
