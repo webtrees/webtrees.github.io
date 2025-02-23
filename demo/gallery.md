@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-02-14
+date: 2025-02-25
 sitemap:
     priority: 0.5
 ---
@@ -22,6 +22,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.1|en|fisharebest|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.1|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.1|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
+| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.1|de| |
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.1|at| anjop |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
 | [MaLiBeLe](http://www.malibele.org) ||webtrees|2.2.1|fr| [Roland Bouat](mailto:roland.bouat@lorand.org) |
@@ -43,12 +44,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.22|br, it| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.22|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.22|au| |
-| [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees|2.1.22|de| |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors: Belgian Chocolate|2.1.22|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.1.22|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.22|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.22|fr| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.22|no| |
+| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.22|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.1.22|uk, scot| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3), FAQ|JustLight|2.1.22|us| WGroleau |
@@ -69,7 +70,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset <br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr | jon48 |
-| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.19|nl| Newbie67 |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.18|en| |
 | [Tunn](https://tunn.synology.me/gen) | around the world |Webtrees|2.1.18|en| |
