@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-02-25
+date: 2025-03-05
 sitemap:
     priority: 0.5
 ---
@@ -15,6 +15,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | |<b>2.2.x installations</b>| | | | |
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors: Ash|2.2.2-dev|nl, us| [Rob Peters](mailto:makitso@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.2.1|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
 | [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.1|nz, gb| [Rick M](mailto:rick@alineofmalkins.com) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.1|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.1|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
@@ -40,7 +41,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|Colors: Coffe and Creme|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
-| [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |all custom modules installed<br>[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.1.22|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
+| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.1.22|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.22|br, it| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.22|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.22|au| |
@@ -60,7 +61,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.22|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.1.22|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.1.20|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.20| us | dbq-andersons |
 | [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)| |
