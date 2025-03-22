@@ -284,6 +284,12 @@ This custom webtrees module sends notifications to Telegram about significant fa
 
 ----------
 
+### OAuth 2.0 Client - by Jefferson49 - `2.1 - 2.2` - [website](https://github.com/Jefferson49/webtrees-oauth2-client) - [demo](https://musterverein.genonline.de/index.php/en/start-page-with-navigation-bar)
+
+This module provides [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth) single sign on (SSO) to webtrees with authorization providers. If offered by the authorization provider, multi factor authorization (MFA) can be used for webtrees sign in.
+
+----------
+
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
 
 This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
