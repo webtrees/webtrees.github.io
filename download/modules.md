@@ -97,6 +97,12 @@ an attractive descendants chart capable to display up to 25 generations.
 
 ----------
 
+### Enhanced Family Book Chart  - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-chart-family-book/)
+
+A chart of an individual’s ancestors and descendants, as a family book (enhanced with marriages, images, and more).
+
+----------
+
 ### Extended Import/Export - by Jefferson49 - `2.1` - `2.2` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
 A custom module for advanced GEDCOM import, export ,and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
@@ -342,7 +348,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ----------
 
-### Show XREF ID's - by elysch - `2.0` - `2.1` - [website](https://github.com/elysch/webtrees-mitalteli-show-xref/)
+### Show XREF ID's - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-show-xref/)
 
 A module to show the XREF's. It adds a sidebar in the individual page with the current individual and all his families with their members id's.
 
