@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-04-16
+date: 2025-04-21
 sitemap:
     priority: 0.5
 ---
@@ -27,6 +27,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.1|de| |
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.1|at| anjop |
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.1|us| |
+| [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.2.1|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)||
 | [MaLiBeLe](http://www.malibele.org) ||webtrees|2.2.1|fr| [Roland Bouat](mailto:roland.bouat@lorand.org) |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.1|en|[Nigel Osborne](kiwi3685@me.com)|
@@ -64,8 +65,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.1.20| us | dbq-andersons |
-| [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.1.20|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)|- -|
-| [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en|- -|
+| [Grint](https://mynorfolkancestors.net) | My Norfolk ancestors |Epoque (Custom)|2.1.20|en|-- --|
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.20|au| |
 | [Rindal](https://thomas.rindal.name) |[Vesta](#3), [JC Treeview](#2), [JC Imagebar](#2), [Faces](#1), JC Menu Help&Support, JP Menu Manual|JustLight|2.1.20|no| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | |webtrees|2.1.20|de, Saarland| |
