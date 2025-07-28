@@ -2,7 +2,7 @@
 layout: page
 title: Modules and themes
 permalink: download/modules
-date: 2024-12-08
+date: 2025-07-28
 ---
 
 webtrees is designed to be extended and modified using modules.
@@ -17,7 +17,7 @@ To add your module to this list, please get in touch.
 ## Installing/removing modules in webtrees 2.0 - 2.2
 
 To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
-Themes are just special types of module, and are installed in the same folder.
+Themes are just special types of modules and are installed in the same folder.
 To remove a module, just delete it.
 To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
 
@@ -109,9 +109,9 @@ A custom module for advanced GEDCOM import, export ,and filter operations. A set
 
 ----------
 
-### Extended Family - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/hh_extended_family)
+### Extended Family - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/hh_extended_family)
 
-This module creates an additional tab in the Individual view which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
+This module creates an additional tab in the Individual view, which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
 
 ----------
 
@@ -188,15 +188,15 @@ Display all the photos in a folder.
 
 ----------
 
-### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
+### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
 
-Provides historical facts (in German language) - Chancellors and Presidents of Germany (since 1949).
+Provides historical facts (in the German language) - Chancellors and Presidents of Germany (since 1949).
 
 ----------
 
-### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
+### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
 
-Provides historical facts (in German language) - Wars and Battles Worldwide (since 900).
+Provides historical facts (in the German language) - Wars and Battles Worldwide (since 900).
 
 ----------
 ### Global Message - by HerzScheisse - `2.1` - [website](https://github.com/HerzScheisse/wtGlobalMessage) - [demo](https://www.eisold.family)
@@ -213,7 +213,7 @@ Creates an all-in-one tree in a variety of formats.
 
 ### Interactive Tree XT (XTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-xtv)
 
-This module may replace the Interactive Tree of the Webtrees core. Resolution depth, implex handling and separated display of multiple relationships are set via form actions. Sub-trees and family branches can be selectively hidden and shown in the view. The addition of families/individuals not yet contained in the view can be triggered both explicitly and globally. There are statistics on the persons shown in the view. There may an overview of the persons shown in the view, which can be used to jump to these persons. A PageMap allows to navigate through the entire view. The current view can be downloaded as PNG. The families/individuals in the current view may be transferred to CCE.
+This module may replace the Interactive Tree of the Webtrees core. Resolution depth, implex handling and separated display of multiple relationships are set via form actions. Sub-trees and family branches can be selectively hidden and shown in the view. The addition of families/individuals not yet contained in the view can be triggered both explicitly and globally. There are statistics on the persons shown in the view. There may be an overview of the persons shown in the view, which can be used to jump to these persons. A PageMap allows navigation through the entire view. The current view can be downloaded as a PNG. The families/individuals in the current view may be transferred to CCE.
 
 ----------
 
