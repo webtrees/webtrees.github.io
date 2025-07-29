@@ -11,7 +11,6 @@ webtrees 2.2.2 is now available for download.
 * Security: fix for XSS vulnerability
 * Update: logic for detecting and blocking bad robots/crawlers
 * Update: use UUIDv7 instead of UUIDv4
-* Add: CLI interface for managing sites, trees and users
 * Add: Support for PHP 8.5
 * Add: Armenian translation
 * Fix: date input in advanced search
