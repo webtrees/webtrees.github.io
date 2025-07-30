@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "webtrees 2.2.3 released"
+title:  "webtrees 2.2.2 released"
 date:   2025-07-29
 sitemap:
-priority: 1.0
+priority: 0.7
 ---
 
 webtrees 2.2.2 is now available for download.
@@ -42,3 +42,5 @@ webtrees 2.2.2 is now available for download.
 * Fix: wrong default parameters in URL for relationship chart
 * Fix: date columns sorting incorrectly in individual/family tables
 * Fix: don't close modals when clicking on the backdrop
+
+See the [change log](https://github.com/fisharebest/webtrees/compare/2.2.1...2.2.2) for details.

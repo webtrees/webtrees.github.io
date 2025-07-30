@@ -22,3 +22,5 @@ webtrees 2.2.1 is now available for download.
 
 
 It raises the minimum supported PHP version to 8.3 which allows us to use a newer version of a graphics library, which fixes image autorotation issues.
+
+See the [change log](https://github.com/fisharebest/webtrees/compare/2.2.0...2.2.1) for details.
