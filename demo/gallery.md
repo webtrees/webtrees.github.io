@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-08-01
+date: 2025-08-02
 sitemap:
     priority: 0.5
 ---
@@ -24,14 +24,14 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.3|en|fisharebest|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta modules (Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.3|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.3|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
-| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.3|de, us|Bogie|
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.1|de| |
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.3|at| anjop |
-| [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.2|us| |
+| [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.3|us| |
 | [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.2.1|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)||
 | [MaLiBeLe](http://www.malibele.org) ||webtrees|2.2.1|fr| [Roland Bouat](mailto:roland.bouat@lorand.org) |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.1|dk| ole (Ole Henrik Madsen) |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.1|en|[Nigel Osborne](kiwi3685@me.com)|
+| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.3|de, us|Bogie|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.1|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.3|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.1|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
@@ -58,8 +58,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.22|no| |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>[JC Imagebar](#2)|webtrees|2.1.22|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>FAQ nl|Colors: Aquamarin|2.1.22|nl| |
-| [![ ](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fmedia-download&xref=M236&fact_id=b1f85b3d236ac237ec35117ba9fddc8e&disposition=inline&mark=1 "Bendinelli, Bargagna, Catassi, Landi")](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.23 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
+| [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>FAQ nl|Colors: Aquamarin|2.1.24|nl| |
+| [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.1.23 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.22|gr| |
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.24|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
@@ -90,7 +90,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | |webtrees|1.7.13|fr| |
 | [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) | |webtrees|1.7.19|be| [Info de Prelle](mailto:info@deprelledelanieppe.be) |
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) | |JustLight|1.7.17|fr| |
-| [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| |
+| [The Shemwell Family](https://shemwellfamily.com) | |Custom|1.7.20|us| !!! unavailable|
 
 ## Reference to the mentioned THIRD-PARTY MODULES
 
