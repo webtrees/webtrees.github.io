@@ -14,24 +14,18 @@ Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa. 
 For support or to report issues, please contact the author of the module.
 To add your module to this list, please get in touch.
 
-## Installing/removing modules in webtrees 2.0 - 2.2
-
-To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
-Themes are just special types of modules and are installed in the same folder.
-To remove a module, just delete it.
-To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
 
 
-## Installing/removing modules in webtrees 1.7
-
-In webtrees 1.7, themes and modules are different.
-Themes are installed by copying them to the folder `themes`.
-Modules are installed by copying them to the folder `modules_v3`.
-To remove a module or theme, just delete it.
+## Modules for webtrees 2.1 and 2.2
 
 
+>#### Installing/removing modules in webtrees 2.0 - 2.2
+>
+>To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
+>Themes are just special types of modules and are installed in the same folder.
+>To remove a module, just delete it.
+>To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
 
-## Modules for webtrees 2.x
 
 <details>
 <summary>Administration</summary>
@@ -71,12 +65,6 @@ This simple module allows you to set up a new footer item with or without link t
 ### Show XREF and UID identifier strings - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-show-xref/)
 
 A module to show the XREF and UID identifier strings. It adds a sidebar in the individual page with the current individual, all his/her families and families individuals with their identifier strings.
-
-----------
-
-### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin)
-
-This module provides a simple way to add a SSO auto login for webtrees in combination with a authentication proxy (like oauth2-proxy).
 
 ----------
 
@@ -129,6 +117,7 @@ This custom module for webtrees introduces a news management system. It extends 
 The news management system allows users to attach images to their news posts, enriching the content with visual elements.
 
 ----------
+
 ### Reminder - by UksusoFF - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-reminder)
 
 Sends a daily reminder of anniversaries.
@@ -139,6 +128,8 @@ Sends a daily reminder of anniversaries.
 
 <details>
 <summary>CSS / JS Customizing</summary>
+
+----------
 
 ### Custom CSS - by makitso - `2.0` - `2.2` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
 
@@ -221,12 +212,6 @@ Note: This module only works as an extension to CCE. It is not intended to be ca
 
 A replacement for the webtrees pedigree chart, this module uses the D3JS library to provide
 an attractive pedigree chart capable to display up to 25 generations.
-
-----------
-
-### Topola Interactive Tree - by PeWu - `2.0` - [website](https://github.com/PeWu/topola-webtrees)
-
-An interactive tree, showing ancestors and descendants.
 
 ----------
 
@@ -453,10 +438,275 @@ The header image can be customised, by adding a personal image `header.png` in t
 </details>
 
 
-## Modules for webtrees 1.7
+## Archive: Modules for older unsupported webtrees versions
 
 <details>
-<summary>Various</summary>
+<summary>Modules for webtrees 2.0 (no longer supported)</summary>
+
+> #### Installing/removing modules in webtrees 2.0 - 2.2
+>
+>To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
+>Themes are just special types of modules and are installed in the same folder.
+>To remove a module, just delete it.
+>To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
+
+<details>
+<summary>Administration</summary>
+
+----------
+
+### Multi-Treeview (MTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-mtv)
+
+This module extends the duplicate individual checking by displaying each of the detected individuals in a separate interactive tree view (up to 5) to assist in merging duplicate individuals with complementary information.
+
+----------
+
+### Show XREF and UID identifier strings - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-show-xref/)
+
+A module to show the XREF and UID identifier strings. It adds a sidebar in the individual page with the current individual, all his/her families and families individuals with their identifier strings.
+
+----------
+
+### Simple Menu - by JustCarmen - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/simple-menu/)
+
+This simple module allows you to set up a new menu item and a new page. You can write the page text using the build-in texteditor.
+
+----------
+
+### Vesta Classic Look & Feel - by ric2016 - `2.0` - `2.2`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_classic_laf) - [demo](https://cissee.de/webtrees)
+
+This module adjusts all themes and other features, providing a look & feel closer to the webtrees 1.x version.
+
+----------
+</details>
+
+<details>
+<summary>CMS / Website Integration</summary>
+
+----------
+
+### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.2` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
+
+This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
+
+----------
+</details>
+
+
+<details>
+<summary>Communication / Social Media</summary>
+
+----------
+
+### Reminder - by UksusoFF - `2.0` - `2.2` - [website](https://github.com/UksusoFF/webtrees-reminder)
+
+Sends a daily reminder of anniversaries.
+
+----------
+</details>
+
+
+<details>
+<summary>CSS / JS Customizing</summary>
+
+----------
+
+### Custom CSS - by makitso - `2.0` - `2.2` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
+
+Global modifications to all themes, to provide a more compact display and allowing more
+information to fit on each page.
+
+----------
+</details>
+
+
+<details>
+<summary>Data visualization (Charts / Lists / Menus)</summary>
+<br>
+
+----------
+
+### Descendants Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
+
+This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
+an attractive descendants chart capable to display up to 25 generations.
+
+----------
+
+### Enhanced Family Book Chart  - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-chart-family-book/)
+
+A chart of an individual’s ancestors and descendants, as a family book (enhanced with marriages, images, and more).
+
+----------
+
+### Extended Family - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/hh_extended_family)
+
+This module creates an additional tab in the Individual view, which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
+
+----------
+
+### Favorites Menu - by Bwong789 - `2.0` - `2.1` - [website](https://github.com/bwong789/webtrees-favorites-menu)
+
+ This module puts the Favorites list into a menu item for fast access. Supports groups of favorites/user/tree.
+
+----------
+
+### Interactive Tree XT (XTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-xtv)
+
+This module may replace the Interactive Tree of the Webtrees core. Resolution depth, implex handling and separated display of multiple relationships are set via form actions. Sub-trees and family branches can be selectively hidden and shown in the view. The addition of families/individuals not yet contained in the view can be triggered both explicitly and globally. There are statistics on the persons shown in the view. There may be an overview of the persons shown in the view, which can be used to jump to these persons. A PageMap allows navigation through the entire view. The current view can be downloaded as a PNG. Thefamilies/individuals in the current view may be transferred to CCE.
+
+----------
+
+### Pedigree Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
+
+A replacement for the webtrees pedigree chart, this module uses the D3JS library to provide
+an attractive pedigree chart capable to display up to 25 generations.
+
+----------
+
+### Sosa - by Gustine - `2.0` - `2.2` - [website](https://gustine.eu/mode_emploi/sosa-en.php)
+
+Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering of the root individual's ancestors.
+
+----------
+
+### Vesta Extended Relationships - by ric2016 - `2.0` - `2.2`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
+
+This module provides an extended “Relationships” chart. It also displays additional relationship
+information via the extended “Families” tab, and the extended “Facts and Events” tab.
+
+----------
+</details>
+
+<details>
+<summary>Data exchange / Backup</summary>
+
+----------
+
+### ClippingsCartEnhanced (CCE) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-cce)
+
+This module replaces or supplements the ClippingsCart. Clipping actions have been generally revised and extended. There are additional clipping actions - FamilyList, IndividualList, Search-Advanced, Search-General, Multi-Treeview, Interactive Tree XT - as well as some new global actions. Overview of the collected records is structured; actions can be selectively analysed and undone. A current state of the ClippingsCart can be saved as an external file, saved states can be added to a current state. There are some new output options.
+
+----------
+</details>
+
+<details>
+<summary>Historical facts</summary>
+
+----------
+
+### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
+
+Provides historical facts (in the German language) - Chancellors and Presidents of Germany (since 1949).
+
+----------
+
+### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
+
+Provides historical facts (in the German language) - Wars and Battles Worldwide (since 900).
+
+----------
+</details>
+
+
+
+<details>
+<summary>Maps & Geolocation</summary>
+
+----------
+
+### Vesta Gov4Webtrees - by ric2016 - `2.0` - `2.2`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
+
+This module enhances places with historical and current [GOV](http://gov.genealogy.net) data,
+creating a place hierarchy with administrative levels from the date of the respective event.
+
+----------
+
+### Vesta Places and Pedigree Map - by ric2016 - `2.0` - `2.2` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
+
+This module provides replacements for the original “Places” and “Pedigree map” modules,
+using location data from GEDCOM, as well as location data provided by other modules.
+
+----------
+
+### Vesta Shared Places - by ric2016 -  `2.0` - `2.2`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
+
+This module supports shared places as level 0 GEDCOM objects, on the basis of the
+[GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
+[GEDCOM 5.5.1](/downloads/gedcom-5-5-1.pdf) specification.
+It displays data via the extended “Facts and Events” tab, enhancing places with data
+obtained from the respective shared place.
+
+----------
+</details>
+
+<details>
+<summary>(Multi)Media</summary>
+
+----------
+
+### Fancy Imagebar - by JustCarmen - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-imagebar) - [demo](https://wijzijnfamilie.nl)
+
+The Fancy Imagebar is a row of images between header and content of your webtrees site.
+The image bar is built up with pictures from the media objects in your tree.
+
+----------
+</details>
+
+<details>
+<summary>Research tools</summary>
+
+----------
+
+### Fancy Research Links - by JustCarmen - `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/fancy-research-links)
+
+A sidebar module that provides quick links to the search functions in approximately 100 genealogy research websites, both national and international.
+
+----------
+
+### Vesta Research Suggestions - by ric2016 - `2.0` - `2.2` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_research_suggestions)
+
+This module provides suggestions for additional research, based on available sources. It is helpful in particular if you have a large number of unsourced events (e.g. events initially taken over from another tree) which are expected to be covered by a manageable number of shared sources.
+
+----------
+</details>
+
+
+<details>
+<summary>Themes</summary>
+
+----------
+
+### Argon Theme - by Jonathan Chue - `2.0` - `2.1` - [website](https://github.com/jchue/argon-webtrees-theme)
+
+A theme for the webtrees based on the Argon Design System.
+
+----------
+
+### JustLight Theme - by JustCarmen -  `2.0` - `2.2` - [website](https://justcarmen.nl/modules-webtrees-2/justlight-theme) - [demo](https://wijzijnfamilie.nl)
+
+A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones. It is the only theme that has a specific collapsable menu for small screens! Furthermore this theme offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
+
+Currently, there are three palettes to choose from. The default JustLight palette with a white background and blue accents and the JustBlack palette with a dark background and orange accents. The third palette, called 'JustAuto', is not really a different color palette, but based on the Windows color mode, it automatically chooses the appropriate palette with the light (JustLight) or the dark (JustBlack) background.
+
+----------
+</details>
+
+----------
+</details>
+
+
+
+<details>
+<summary>Modules for webtrees 1.7 (no longer supported)</summary>
+
+
+> #### Installing/removing modules in webtrees 1.7
+>
+> In webtrees 1.7, themes and modules are different. Themes are installed by copying them to the folder `themes`. 
+> Modules are installed by copying them to the folder `modules_v3`. To remove a module or theme, just delete it.
+
+
 
 ### Ancestor Fan Chart - by MagicSunday - `1.7` - [website](https://github.com/magicsunday/webtrees-fan-chart)
 
@@ -637,3 +887,4 @@ information via the extended “Families” tab, and the extended “Facts and E
 
 ----------
 </details>
+
