@@ -58,13 +58,19 @@ a GEDCOM file.
 
 ### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.2` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
 
-This module changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
+Allows to changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
 
 ----------
 
 ### ClippingsCartEnhanced (CCE) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-cce)
 
 This module replaces or supplements the ClippingsCart. Clipping actions have been generally revised and extended. There are additional clipping actions - FamilyList, IndividualList, Search-Advanced, Search-General, Multi-Treeview, Interactive Tree XT - as well as some new global actions. Overview of the collected records is structured; actions can be selectively analysed and undone. A current state of the ClippingsCart can be saved as an external file, saved states can be added to a current state. There are some new output options.
+
+----------
+
+### Cousins - by vytux - `1.7` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
+
+A tab which shows all the cousins of an individual.
 
 ----------
 
@@ -75,11 +81,6 @@ information to fit on each page.
 
 ----------
 
-### Cousins - by vytux - `1.7` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
-
-A tab which shows all the cousins of an individual.
-
-----------
 
 ### Custom JS - by JustCarmen - `1.7` - [download](/downloads/modules/custom_js.zip)
 
@@ -87,6 +88,12 @@ Allows you to add JavaScript to every webtrees page.  Typical uses are adding co
 tools such as Google Analytics, or modifying existing content, such as adding footers.
 
 NOTE: This function is a standard part of webtrees since version 2.0.
+
+----------
+
+### Custom Module Manager - by Jefferson49 - `2.2` - [website](https://github.com/Jefferson49/CustomModuleManager)
+
+Download, install, and update custom modules. Modules can be chosen from a list of available webtrees 2.2 custom modules.
 
 ----------
 
@@ -105,7 +112,7 @@ A chart of an individual’s ancestors and descendants, as a family book (enhanc
 
 ### Extended Import/Export - by Jefferson49 - `2.1` - `2.2` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
-A custom module for advanced GEDCOM import, export ,and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
+Advanced GEDCOM import, export, and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
 
 ----------
 
