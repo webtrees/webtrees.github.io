@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-08-28
+date: 2025-08-31
 sitemap:
     priority: 0.5
 ---
@@ -19,7 +19,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.1|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.4|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.4|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)| [Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de) |
-| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.1|pl|!!!https |
+| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.4|pl||
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.4|en|fisharebest|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta(Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.4|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.4|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)| jheiler |
@@ -48,8 +48,9 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|Colors: Coffe and Creme|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
-| [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.25|fr| |
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | |Colors: Belgian Chocolate|2.1.25|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
+| [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER |webtrees|2.1.25|fr| |
+| [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|no| |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>Several Trees|webtrees|2.1.25|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.25|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.25|nl| |
@@ -58,7 +59,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chiele](https://www.chiele.net)| |webtrees|2.1.22|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.22|au| |
-| [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.22|no| |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.1.22|gr| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.1.22|de| [Axel Schreiter](mailto:axel@schreiter.info) |
