@@ -347,6 +347,13 @@ Sends a daily reminder of anniversaries.
 This module presents the structure of a repository and its sources in a hierarchical manner. Based on the hierarchical structure, a finding aid document (HTML or PDF export) can be generated. The module also provides an EAD XML export, which enables data exchange and linking with an external archive management system or with an archive portal.
 
 ----------
+
+### Research Tasks report - by elysch - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-report-researchtasks/)
+
+A module to add a Research Tasks report. When you are researching for your genealogical tree, sometimes you are following a line of information and find other lines of information that you don't want to follow right away. There has always been an option to add Research Tasks in families and individuals. Particularly, I think the current box about them is not very helpful since there is no way to search, filter or categorize them. Using this new module, you can add filters by date, user, word, etc. If you always use some particular words for different classifications, it becomes easy to find what you want.
+
+
+----------
 ### Rural Theme - by jon48 - `1.7` - `2.2` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 The Rural theme is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. A companion of webtrees for over a decade now, its characteric layout is still organised around the main genealogical content being wrapped within a responsive white panel on a brown background.
