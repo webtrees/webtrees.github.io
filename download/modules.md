@@ -348,9 +348,9 @@ This module presents the structure of a repository and its sources in a hierarch
 
 ----------
 
-### Research Tasks report - by elysch - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-report-researchtasks/)
+### Research Tasks report - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-report-researchtasks/)
 
-A module to add a Research Tasks report. When you are researching for your genealogical tree, sometimes you are following a line of information and find other lines of information that you don't want to follow right away. There has always been an option to add Research Tasks in families and individuals. Particularly, I think the current box about them is not very helpful since there is no way to search, filter or categorize them. Using this new module, you can add filters by date, user, word, etc. If you always use some particular words for different classifications, it becomes easy to find what you want.
+A module to add a Research Tasks report. When you are researching for your genealogical tree, sometimes you are following a line of information and find other lines of information that you don't want to follow right away. There has always been an option to add Research Tasks in families and individuals. Particularly, I think the current box about them is not very helpful since there is no way to search, filter or categorize them. Using this new module, you can add filters by date, user, word, etc. If you always use some particular words in your research tasks, for different classifications, it becomes easy to find what you want.
 
 
 ----------
