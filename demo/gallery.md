@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-10-29
+date: 2025-11-02
 sitemap:
     priority: 0.5
 ---
@@ -53,38 +53,38 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Barbel, Petit, Escarguel et Colombié](https://barbel.synology.me/webtrees)|on a home NAS|Colors: Coffe and Creme|2.2.0|fr|[Yannick Barbel](https://barbel.synology.me/webtrees/index.php?route=%2Fwebtrees%2Ftree%2Fbarbel-petit%2Fcontact&to=ybarbel&url=https%3A%2F%2Fbarbel.synology.me%2Fwebtrees%2Findex.php%3Froute%3D%252Fwebtrees%252Ftree%252Fbarbel-petit)|
 | |<b>2.1.x installations</b>| | | | |
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.1.25|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)| [Michel](mailto:gustine@ovh.fr) |
-| [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) | 28. Oktober 2025 |Colors: Belgian Chocolate|2.1.25|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
-| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br>9. Aug 2025<br>Several Trees|webtrees|2.1.25|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
-| [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER <br>1. Aug 2025 |webtrees|2.1.25|fr| |
+| [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) |  |Colors: Belgian Chocolate|2.1.25|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.25|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
+| [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER <br>  |webtrees|2.1.25|fr| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|no|  |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.25|au| |
-| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br>2. Feb 2025<br>[JC Imagebar](#2)|webtrees|2.1.25|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br>10. Oct 2025<br>FAQ nl|Colors: Aquamarin|2.1.25|nl| |
-| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>20. Mai 2021 |Clouds|2.1.25|nl| |
+| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.25|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
+| [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.25|nl| |
+| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.25|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Chiele](https://www.chiele.net)| 30. Mai 2025 |webtrees|2.1.22|br, it| |
+| [Chiele](https://www.chiele.net)|  |webtrees|2.1.22|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
-| [Heinrich Family](http://www.heinrich.id.au/webtrees) |26. Feb 2025<br>[Vesta](#3)|webtrees|2.1.22|au| |
-| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|23. Juni 2025<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
+| [Heinrich Family](http://www.heinrich.id.au/webtrees) |<br>[Vesta](#3)|webtrees|2.1.22|au| |
+| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Nusselt, Müller, Bauer](https://family.nusselt.de) |23. Oktober 2025<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) | 19. Mai 2025 |webtrees|2.1.20|de, Saarland| |
+| [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.20|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset <br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr | jon48 |
+| [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br><br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr | jon48 |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)|- MAV -|
-| [Todd](https://webtrees.mstevetodd.com) | 19. Apr 2025 |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
+| [Altvater](https://micha-a.info/micgen) |in Oberschwaben<br>last modified 2024<br>FAQ, [JC Imagebar](#2), [JC Treeview](#2)|JustLight|2.1.17|[de,...](https://micha-a.info/micgen/tree/haupt/place-list)|- MAV -|
+| [Todd](https://webtrees.mstevetodd.com) |  |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
-| [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | 20. Apr 2016  |Craigkin (Custom)|2.0.11|us| |
-| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) | 20. Jan 2025 |JustLight|2.0.25|it| |
+| [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.0.11|us| |
+| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
-| [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | 8. Nov 2020 | JustBlack | 1.7.11 | de | |
+| [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | last modified 2020 | JustBlack | 1.7.11 | de | |
 | [Famille Cabaret-Potard](http://genea.mont-saint-jean.com) | |Xenea|1.7.20|fr| |
-| [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | 21. Aug 2020 |webtrees|1.7.13|fr| |
-| [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) | 27. Okt 2025 |webtrees|1.7.19|be| [Info de Prelle](mailto:info@deprelledelanieppe.be) |
-| [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) | 27. Okt 2025 |JustLight|1.7.17|fr| |
+| [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | last modified 2020 |webtrees|1.7.13|fr| |
+| [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) |  |webtrees|1.7.19|be| [Info de Prelle](mailto:info@deprelledelanieppe.be) |
+| [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) |  |JustLight|1.7.17|fr| |
 
 ## Reference to the mentioned THIRD-PARTY MODULES
 
