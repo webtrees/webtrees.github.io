@@ -31,6 +31,9 @@ between webtrees 1.7 and webtrees 2.0.
 You should read them before upgrading, as you may need to make changes
 to your settings, your server configuration, or your workflow.
 
+To Upgrade from WebTrees v1.7.11 to WebTrees v 2.2.4 follow the instructions [in this Forum Post](https://www.webtrees.net/index.php/forum/help-for-release-2-2-x/40329-webtrees-1-7-11-auf-webtrees-2-2-4-update#113914).
+If you are unsure please post your questions in the Forum. The Team there will help.
+
 There is currently no automatic upgrade from webtrees 1.7 to webtrees 2.0,
 so you will need to follow the instructions for a
 [manual]({% link _upgrade/manual.md %}) upgrade.
