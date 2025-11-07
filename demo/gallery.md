@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-11-03
+date: 2025-11-07
 sitemap:
     priority: 0.5
 ---
@@ -14,6 +14,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.2.x installations</b>| | | | |
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.2.4|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
+| [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | last modified 2020 | JustBlack | 2.2.4 | de | |
 | [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.4|nz, gb| [Rick M](mailto:rick@alineofmalkins.com) |
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.4 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.4|gr| |
@@ -80,7 +81,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
-| [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | last modified 2020 | JustBlack | 1.7.11 | de | |
 | [Famille Cabaret-Potard](http://genea.mont-saint-jean.com) | |Xenea|1.7.20|fr| |
 | [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | last modified 2020 |webtrees|1.7.13|fr| |
 | [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) |  |webtrees|1.7.19|be| [Info de Prelle](mailto:info@deprelledelanieppe.be) |
