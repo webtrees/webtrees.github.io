@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-11-07
+date: 2025-11-25
 sitemap:
-    priority: 0.5
+    priority: 0.80
 ---
 
 These are examples of webtrees sites from around the world.  The list was last checked on
@@ -35,6 +35,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.2.4|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)||
 | [MaLiBeLe](http://www.malibele.org) ||webtrees|2.2.4|fr|--- [Roland Bouat](mailto:roland.bouat@lorand.org) |
 | [Hansen, Nielsen, Pedersen, Andersen](https://melfar.dk/webtrees) | Mine egne aner og en del af deres efterkommere<br>[Vesta LaF](#3), FAQ, JC Menus|JustLight|2.2.4|dk| ole (Ole Henrik Madsen) |
+| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.4|nl| Newbie67 |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.4|en|[Nigel Osborne](kiwi3685@me.com)|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.4|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.4|de, us|Bogie|
@@ -66,7 +67,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chiele](https://www.chiele.net)|  |webtrees|2.1.22|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |<br>[Vesta](#3)|webtrees|2.1.22|au| |
-| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.1.22|nl| Newbie67 |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.20|de, Saarland| |
