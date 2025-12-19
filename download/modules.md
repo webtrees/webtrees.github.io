@@ -302,6 +302,12 @@ This custom webtrees module sends notifications to Telegram about significant fa
 This module provides [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth) single sign on (SSO) to webtrees with authorization providers. If offered by the authorization provider, multi factor authorization (MFA) can be used for webtrees sign in.
 
 ----------
+### Old Nicknames - by bertkoor - `2.1 - 2.2` - [website][https://github.com/bertkoor/wt-module-old-nicknames]
+Since webtrees 2.0 nicknames are no longer included in the full display name.
+* For editors the name editing form is enhanced to support entry and update of a nickname in quoted style.
+* For administrators there's a datafix, which puts the nickname in the full name, within quotation marks in between the given names and surname.
+
+----------
 
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
 
