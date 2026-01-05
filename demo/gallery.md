@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-12-20
+date: 2026-01-05
 sitemap:
     priority: 0.80
 ---
@@ -58,6 +58,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.25|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
+| [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|de| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|no|  |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.25|au| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.25|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
@@ -68,7 +69,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |<br>[Vesta](#3)|webtrees|2.1.22|au| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.20|de| |
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.20|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br><br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr | jon48 |
