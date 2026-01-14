@@ -12,7 +12,7 @@ Before installing a module, make sure that the module is compatible with your ve
 Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa. 2.2 modules will run only with webtrees 2.2 .
 
 For support or to report issues, please contact the author of the module.
-To add your module to this list, please get in touch.
+To add your module to this list, make a pull request for the webtrees.github.io repository using the link "Edit this page" at the bottom.
 
 ## Installing/removing modules in webtrees 2.0 - 2.2
 
