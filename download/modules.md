@@ -420,6 +420,12 @@ Note: This module only works as an extension to CCE. It is not intended to be ca
 
 ----------
 
+### Time Travel Map - by Giulio Marcon `2.2` - [website](https://github.com/gmarcon/webtrees-time-travel-map)
+
+An interactive map with a timeline for exploring the geographic history of your family tree. It supports ancestor and descendant exploration modes, featuring a population histogram, autoplay functionality, and auto-zoom to focus on historical areas of interest as you move through time.
+
+----------
+
 ### Topola Interactive Tree - by PeWu - `1.7` - `2.0` - [website](https://github.com/PeWu/topola-webtrees)
 
 An interactive tree, showing ancestors and descendants.
