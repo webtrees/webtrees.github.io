@@ -25,6 +25,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.4|pl||
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.4|en|fisharebest|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta(Laf, Facts, extented relationalship)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.4|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
+| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Exter, Wild, Engemann](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.5|de, us|Bogie|
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.4|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)| |
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.2.4|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.2.4| us | dbq-andersons |
@@ -41,7 +42,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.4|nl| Newbie67 |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.4|en|[Nigel Osborne](kiwi3685@me.com)|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.4|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
-| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Wild")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Wild](https://ourtree.thespiegels.com) |[JC Treeview](#2), [Magics charts](#8)|F.A.B.|2.2.4|de, us|Bogie|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.4|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.4|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | [Rousselle-Roussel](http://rousselle-roussel.fr) |use/switch to http<br>[Vesta](#3) |webtrees|2.2.4|fr| |
