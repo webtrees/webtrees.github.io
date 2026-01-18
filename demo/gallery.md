@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-01-17
+date: 2026-01-18
 sitemap:
     priority: 0.80
 ---
@@ -29,8 +29,10 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.2.5|uk, scot| |
 | [Groleau](https://unigen.us) | Heroes, Heritage, and History<br>[GVExport](#4), [JC Imagebar, JC Treeview](#2), [Repository Hierarchy](#5), [Vesta](#3)|JustLight|2.2.5|us| WGroleau |
 | [Verrips](https://verrips.com) | |Xenea|2.2.5|nl| |
+| [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.5|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.2.5|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)| [Klemens Miehe](mailto:klemens@miehe.de) |
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk,<br>access restricted to users|Xenea|2.2.5|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
+| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.5|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.5|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)| JustCarmen |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.2.4|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
@@ -51,18 +53,16 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.4|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)| ungeahnt |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.4|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Rousselle-Roussel](https://rousselle-roussel.fr) |[Vesta](#3) |webtrees|2.2.4|fr| |
-| [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.4|fr, de, us| [Andreas Rauhut](mailto:andreas@rauhut.eu) |
-| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Våre familier](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.4|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)| HRN |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.26|nl| |
+| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.26|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.25|fr| [Eric Jeantelet](mailto:eric@jeantelet.fr) |
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|de| |
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|no|  |
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.25|au| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.25|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
-| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.25|nl| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chiele](https://www.chiele.net)|  |webtrees|2.1.22|br, it| |
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
