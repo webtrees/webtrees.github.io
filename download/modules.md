@@ -97,6 +97,13 @@ Download, install, and update custom modules. Modules can be chosen from a list 
 
 ----------
 
+### Custom Views (and Translations) - by bertkoor - `2.1 - 2.2` - [website][https://github.com/bertkoor/wt-module-custom-views]
+
+Keep your customizations of .phtml files in a different directory, so upgrades do not overwrite them.
+It also supports customization of translations via .csv files.
+
+----------
+
 ### Descendants Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
 
 This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
