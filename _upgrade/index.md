@@ -27,11 +27,11 @@ You should upgrade manually.
 ## webtrees 1.7.10 – {{ site.latest_version_17 }}
 
 There are several important [differences]({% link _upgrade/2.0.md %})
-between webtrees 1.7 and webtrees 2.0.
+between webtrees 1.7 and webtrees 2.x.
 You should read them before upgrading, as you may need to make changes
 to your settings, your server configuration, or your workflow.
 
-There is currently no automatic upgrade from webtrees 1.7 to webtrees 2.0,
+There is currently no automatic upgrade from webtrees 1.7 to webtrees 2.x,
 so you will need to follow the instructions for a
 [manual]({% link _upgrade/manual.md %}) upgrade.
 
