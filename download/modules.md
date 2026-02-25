@@ -499,3 +499,12 @@ It displays data via the extended “Facts and Events” tab, enhancing places w
 obtained from the respective shared place.
 
 ----------
+
+### Watermark Module - by photon-flip - `2.2` - [website](https://github.com/photon-flip/watermark-module)
+
+This custom module changes the default position of the watermark image. The position can be set to top, center or bottom. 
+To position watermarks left or right use white space in the watermark image to pad the text or symbol left or right.
+
+The default installation contains default webtrees watermark image, some sample images and a Photshop PSD template image as a basis for your own personalized watermarks.
+
+----------
