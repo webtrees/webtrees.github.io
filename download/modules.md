@@ -225,6 +225,12 @@ Creates an all-in-one tree in a variety of formats.
 
 ----------
 
+### Insight Lens - by godzil3 - `2.2` - [website](https://github.com/godzil3/webtrees-insight-lens)
+
+Provides detailed statistics and visualizations of changes made to your genealogy data.
+
+----------
+
 ### Interactive Tree XT (XTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-xtv)
 
 This module may replace the Interactive Tree of the Webtrees core. Resolution depth, implex handling and separated display of multiple relationships are set via form actions. Sub-trees and family branches can be selectively hidden and shown in the view. The addition of families/individuals not yet contained in the view can be triggered both explicitly and globally. There are statistics on the persons shown in the view. There may be an overview of the persons shown in the view, which can be used to jump to these persons. A PageMap allows navigation through the entire view. The current view can be downloaded as a PNG. The families/individuals in the current view may be transferred to CCE.
