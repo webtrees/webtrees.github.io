@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The GEDCOM data format
-date: 2021-08-23
+date: 2026-02-13
 ---
 
 GEDCOM stands for “**GE**nealogy **D**ata **COM**munciation”. It is a file-format used to transfer genealogy data from one application to another.  It was created by "The Church of Jesus Christ of Latter-day Saints" and has since become a standard format used by almost all genealogy applications.
@@ -13,6 +13,9 @@ of the more common extensions that were created by other applications.
 
 ## Official versions
 
+* [GEDCOM 7.0.17]({% link downloads/gedcom-7-0-17.pdf %}) - 2026-02-08
+* [GEDCOM 7.0.16]({% link downloads/gedcom-7-0-16.pdf %}) - 2025-03-18
+* [GEDCOM 7.0.15]({% link downloads/gedcom-7-0-15.pdf %}) - 2024-08-27
 * [GEDCOM 7.0.14]({% link downloads/gedcom-7-0-14.pdf %}) - 2024-02-08
 * [GEDCOM 7.0.13]({% link downloads/gedcom-7-0-13.pdf %}) - 2023-07-13
 * [GEDCOM 7.0.12]({% link downloads/gedcom-7-0-12.pdf %}) - 2023-02-23
