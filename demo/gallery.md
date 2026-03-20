@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-03-12
+date: 2026-03-20
 sitemap:
     priority: 0.80
 ---
@@ -32,6 +32,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) |  |Colors: Belgian Chocolate|2.2.5|de| [Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com) |
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.2.5|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.5|us| |
+| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.5|pl||
 | [Happert, Lherminier, Deligand, Trovel](http://lherminier.fr/webtrees) | Famille LHERMINIER <br>  |webtrees|2.2.5|fr| |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.5|nl| Newbie67 |
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.5|en|[Nigel Osborne](kiwi3685@me.com)|
@@ -51,7 +52,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Ahnen-Recherche von Yvonne Kibys](http://www.ahnen-recherche.de/webtrees) | last modified 2020 | JustBlack | 2.2.4 | de | |
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.4|cat| [Pep Planas Vilà](mailto:jplanes@calvermell.cat) |
-| [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.4|pl||
 | [Schreiter](https://genealogie.schreiter.info) | |JustLight|2.2.4|de| [Axel Schreiter](mailto:axel@schreiter.info) |
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.2.4| us | dbq-andersons |
 | [Simmons](http://www.josephsimmons.com) | Marilyn Simmons Family Tree |webtrees|2.2.4|[bm](https://www.josephsimmons.com/index.php?route=%2Ftree%2FV2%2Fplace-list)||
@@ -62,6 +62,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Orchard](https://www.ourkin.org) | |webtrees|2.1.26|au| |
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.26|be| [Bart Calleeuw](mailto:webmaster@calleeuw.be) |
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.26|nl| |
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.26|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.1.25|de| |
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.25|nl| |
@@ -70,7 +71,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en| |
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |<br>[Vesta](#3)|webtrees|2.1.22|au| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.20|de, Saarland| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br><br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr | jon48 |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
