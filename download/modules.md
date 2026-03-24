@@ -457,9 +457,9 @@ Add full screen button for interactive tree view tab.
 
 ----------
 
-### Various - by André Dumas - `1.7` - [website](http://www.adumas.eu/wt/box)
+### Various - by André Dumas - `1.7` - [website archive](https://web.archive.org/web/20240915103441/http://www.adumas.eu/wt/box/)
 
-André has written several modules.
+André had written several modules for webtrees 1.7, but `the server adumas.eu cannot be found.`
 
 ----------
 
