@@ -190,9 +190,10 @@ first generation down to the last, and provide a narrative overview of your fami
 
 ----------
 
-### Favorites Menu - by Bwong789 - `2.0` - `2.1` - [website](https://github.com/bwong789/webtrees-favorites-menu)
+### Favorites Menu - by Bwong789 - `2.0` - `2.2` - [website](https://github.com/bwong789/webtrees-favorites-menu)
 
- This module puts the Favorites list into a menu item for fast access. Supports groups of favorites/user/tree.
+ This module puts the Favorites list into a menu item for fast access. Supports groups of favorites per user and per tree.
+ Download latest version from the issues page [download](https://github.com/bwong789/webtrees-favorites-menu/issues/14)
 
 ----------
 
