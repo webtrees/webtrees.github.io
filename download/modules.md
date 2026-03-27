@@ -135,6 +135,12 @@ Tag faces on photos.
 
 ----------
 
+### Family Tree Assistant (FTA)  - by H&Hwt - `2.2` - [website](https://github.com/huhwt/huhwt-fta)
+
+Successor to Multi-Treeview (MTV). In addition to extending the duplicate individual checking by displaying each of the detected individuals (up to 5) in a separate interactive tree view (MTV) to assist in merging duplicate individuals with complementary information this module provides a revised overview of the check on unconnected individuals (UIC) with the option to transfer those groups to Clippings Cart Enhanced (CCE) for further analysis.
+
+----------
+
 ### Fancy Branches - by JustCarmen - `1.7` - [website](https://justcarmen.nl/modules-webtrees-1/fancy-branches)
 
 This module is an modified version of the existing webtrees Branches list.
@@ -303,6 +309,8 @@ It also adds functionality to Webtrees like auto-generated "About" summaries for
 ### Multi-Treeview (MTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-mtv)
 
 This module extends the duplicate individual checking by displaying each of the detected individuals in a separate interactive tree view (up to 5) to assist in merging duplicate individuals with complementary information.
+
+_Note: This module will be discontinued with release v2.2.5.0; the feature is now part of the module Family Tree Assistant (see upper)_.
 
 ----------
 
