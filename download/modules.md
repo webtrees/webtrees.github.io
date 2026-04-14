@@ -141,6 +141,14 @@ Display all the photos in a folder.
 
 ----------
 
+### Gendex Generator - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-GendexGenerator)
+
+Create [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into
+genealogical search engines. Keep control over your data and don't send your complete GEDCOM to a (commercial) site,
+but let visitors find the data on your [webtrees](webtrees.net) site.
+
+----------
+
 ### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
  
 It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
