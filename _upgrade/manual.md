@@ -42,5 +42,6 @@ you next visit the site.
 For this reason, the first page may take longer than usual to be displayed.
 
 [DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
+[DOWNLOAD_21]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_21 }}/webtrees-{{ site.latest_version_21 }}.zip
 [DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip
