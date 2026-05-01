@@ -25,7 +25,7 @@ They may also have upgrades available.
 
 ## Upgrade Steps
 
-* Download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD], [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20] or [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17] as appropriate.
+* Download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD], [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21] [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20] or [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17] as appropriate.
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Create a file `data/offline.txt` on the server.
 If it contains a message, it will be shown to your users.
