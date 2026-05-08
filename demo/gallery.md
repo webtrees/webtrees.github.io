@@ -17,6 +17,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk,<br>access restricted to users|Xenea|2.2.6|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.6 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
+| [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr| |
 | [Chiele](https://www.chiele.net)|  |webtrees|2.2.6|br, it| |
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.6|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)| |
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta(look and relationalships)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.6|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
@@ -46,7 +47,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.5|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)| |
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|<br>[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.5|nl| Newbie67 |
-| [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.5|gr| |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.5|pl|[Andrzej Piszczako](https://przodkowie.net/tree/przodkowie.ged/contact?to=andpisz&url=https%3A%2F%2Fprzodkowie.net%2Ftree%2Fprzodkowie.ged)|
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us| |
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.5|de| |
