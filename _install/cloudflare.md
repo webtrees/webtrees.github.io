@@ -13,12 +13,14 @@ If you have a slow server, or a large number of visitors, then this
 can improve the performance of your site.
 
 However, when using this type of service, all requests to your site will come
-from Cloudflare, and not from the remote user.
+from Cloudflare, and not from the remote user.  Hence you will only see
+Cloudflare's IP address in your logs - not the IP address of the actual user.
 
 Cloudflare provides details of the remote user in an HTTP header,
 and you must tell webtrees that it is OK to use/trust this header.
 
-To do this, add the following line to the file `data/config.ini.php`:
+Once you have finished the setup process, you will have a file `data/config.ini.php`.
+Add the following line to that file :
 
 ```
 trusted_headers="cf-connecting-ip"

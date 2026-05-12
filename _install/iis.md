@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title:  Microsoft IIS
-date:   2020-03-07
+date:   2021-05-20
 order:  99
 ---
 
@@ -22,3 +22,24 @@ Use these commands to restart IIS:
 net stop w3svc
 net start w3svc
 ```
+
+Alternatively, you may be able to merge the following into a file `web.config`
+in your site’s home folder.
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <system.webServer>
+    <security>
+      <requestFiltering>
+        <requestLimits maxUrl="20480" maxQueryString="20480" />
+      </requestFiltering>
+    </security>
+  </system.webServer>
+</configuration>
+```
+
+Some versions of IIS do not include a root certificate file `cacert.pem`, and cannot make outgoing HTTPS
+connections.  This breaks the "check for upgrades" feature.
+
+You may need to configure this yourself.  There are more details at <https://www.php.net/manual/en/curl.configuration.php>.

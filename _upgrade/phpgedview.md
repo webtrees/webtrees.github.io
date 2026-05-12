@@ -16,7 +16,7 @@ need the database and the `index/` folder.
 * The phpGedView `index/` folder must be on the same server as the webtrees files.
 * The webtrees database account must have permission to access the phpGedView database.
 * phpGedView needs to be version 4.2.3 or higher.
-* All pending changes in phpGedView must be accepted, as pending edits will not be transfered.
+* All pending changes in phpGedView must be accepted, as pending edits will not be transferred.
 * All existing phpGedView users must have an email address, and it must be unique to that user (phpGedView allows users to delete their email address, or have the same email address as other users).
 * The transfer process overwrites usernames and passwords.  After the transfer is complete, you will need to log in with your old phpGedView account.  If you do not know this, see the [FAQ]({% link faq/password.md %}).
 

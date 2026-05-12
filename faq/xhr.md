@@ -18,7 +18,7 @@ and you can follow these steps to find it.
 
 **(1) Enable the "Developer Toolbar" in your browser**
 
-Firefox and Chrome, press `CTRL-SHIFT-I` (windows / linux) or `CMD-SHIFT-I` (Mac)
+Firefox and Chrome, press `CTRL-SHIFT-I` (windows / linux) or `CMD-ALT-I` (Mac)
 
 Internet Explorer and Edge, press `F12`.
 

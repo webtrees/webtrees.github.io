@@ -22,5 +22,4 @@ services on your server for this to take effect.  You also need to remove the me
 in the webtrees control panel (Website preferences, Memory limit).
 Leave this blank so that it uses the server’s default.
 
-3) You can upgrade manually.  Download the latest webtrees.zip.  Unzip it on your desktop computer,
-and then upload the files to the server using FTP.
+3) You can [upgrade manually]({% link _upgrade/manual.md %}).

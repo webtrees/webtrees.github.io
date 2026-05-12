@@ -2,7 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 permalink: faq/
-date: 2020-01-25
+date: 2022-11-19
 ---
 
 ## Differences between webtrees 1.7 and 2.0 ##
@@ -11,17 +11,21 @@ date: 2020-01-25
 ## Server administration ##
 
 * [How do I enable pretty URLs?]({% link faq/urls.md %})
+* [How do I force external links to open in a new tab/window?]({% link faq/target.md %})
+* [How do I configure webtrees to send e-mail?]({% link faq/email.md %})
 * [How do change the default language?]({% link faq/language.md %})
 * [Can I downgrade to an earlier version?]({% link faq/downgrade.md %})
 * [How do I move webtrees to a new server.]({% link faq/move-server.md %})
+* [Timeouts]({% link faq/timeout.md %})
+* [Upgrade fails when using third-party modules]({% link faq/upgrade-modules.md %})
 
 ## Errors ##
 
 * [I get a “500” error or a blank page.]({% link faq/500.md %})
 * [How do I see errors in XHR requests?]({% link faq/xhr.md %})
-* [Error: converting GEDCOM files from ANSEL encoding to UTF-8 encoding not currently supported.]({% link faq/ansel.md %})
 * [I cannot upload large files]({% link faq/file-upload.md %})
 * [Upgrade fails “A non well formed numeric value encountered”]({% link faq/upgrade-numeric.md %})
+* [Upgrade fails “PCLZIP_ERR_BAD_FORMAT (-10) : Unable to find End of Central Dir Record signature””]({% link faq/upgrade-pclzip.md %})
 
 ## Media files and images ##
 
@@ -31,6 +35,8 @@ date: 2020-01-25
 
 * [There are no spaces between the given names and the surname.]({% link faq/name-spaces.md %})
 * [How can I show the GEDCOM IDs (XREFs) in webtrees?]({% link faq/xref.md %})
+* [How do locations work?]({% link faq/locations.md %})
+* [How do nicknames work?]({% link faq/nicknames.md %})
 
 ## Oops - I screwed up ##
 

@@ -18,5 +18,7 @@ webtrees tries to avoid altering you data unless you explicitly
 ask it to do so.
 
 But webtrees does include a utility to insert these spaces.
-From the control panel, choose Modules, Module Administration,
-Batch update, Add missing slashes and spaces.
+From the control panel, choose **Family trees, *your family tree*, Data fixes**.
+Then select **Fix name slashes and spaces**.
+If that option is not listed look at control panel, Modules, All modules,
+**Fix name slashes and spaces** and check is is enabled.

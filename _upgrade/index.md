@@ -2,7 +2,7 @@
 layout: page
 title: Upgrading webtrees
 permalink: upgrade/
-date:  2020-01-31
+date:  2022-12-01
 ---
 
 There are two ways to upgrade webtrees -
@@ -12,14 +12,26 @@ There are two ways to upgrade webtrees -
 If you are currently using a version of webtrees listed below,
 there are some additional instructions.
 
+## webtrees 2.1.8 and 2.1.9
+
+These two versions of webtrees contain a bug in the auto-upgrade code.
+The upgrade will appear to run successfully, but it does not install any files.
+The bug is in the file `app/Http/RequestHandlers/UpgradeWizardStep.php`.
+You can download an updated version of this file from [here](https://raw.githubusercontent.com/fisharebest/webtrees/3bcf98433336b5a90f37394d98c25184064324ae/app/Http/RequestHandlers/UpgradeWizardStep.php).
+
+## webtrees 2.0.8
+
+This version of webtrees contains a bug in the auto-upgrade code.
+You should upgrade manually.
+
 ## webtrees 1.7.10 – {{ site.latest_version_17 }}
 
 There are several important [differences]({% link _upgrade/2.0.md %})
-between webtrees 1.7 and webtrees 2.0.
+between webtrees 1.7 and webtrees 2.x.
 You should read them before upgrading, as you may need to make changes
 to your settings, your server configuration, or your workflow.
 
-There is currently no automatic upgrade from webtrees 1.7 to webtrees 2.0,
+There is currently no automatic upgrade from webtrees 1.7 to webtrees 2.x,
 so you will need to follow the instructions for a
 [manual]({% link _upgrade/manual.md %}) upgrade.
 

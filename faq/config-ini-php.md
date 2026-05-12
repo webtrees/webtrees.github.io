@@ -11,6 +11,7 @@ This is a typical `config.ini.php`
 
 ```
 ; <?php exit; ?> DO NOT DELETE THIS LINE
+dbtype="mysql"
 dbhost="localhost"
 dbport="3306"
 dbuser="username"

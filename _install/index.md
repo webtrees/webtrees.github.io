@@ -2,7 +2,7 @@
 layout: page
 title: Installing webtrees
 permalink: install/
-date:  2020-02-09
+date:  2023-07-26
 ---
 
 You should be able to install webtrees on most web-servers.
@@ -13,8 +13,9 @@ the detailed [requirements]({% link _install/requirements.md%}).
 ## Installation steps
 
 * Check the version of PHP on your server.
-* For PHP 7.1 and later, download [webtrees-{{ site.latest_version }}.zip][DOWNLOAD].
-* For PHP 7.0 and earlier download [webtrees-{{ site.latest_version_17 }}.zip][DOWNLOAD_17].
+* For PHP 8.3 to 8.5, download [webtrees-{{ site.latest_version_22 }}.zip][DOWNLOAD_22].
+* For PHP 7.4 to 8.2, download [webtrees-{{ site.latest_version_21 }}.zip][DOWNLOAD_21].
+* For PHP 7.1 to 7.3, download [webtrees-{{ site.latest_version_20 }}.zip][DOWNLOAD_20].
 * Unpack this file on your computer.  You should have a folder called `webtrees`.
 * Upload the contents of the `webtrees` folder to a folder on your web server.
 * Visit your site in your web-browser, and follow the instructions.
@@ -25,11 +26,13 @@ the detailed [requirements]({% link _install/requirements.md%}).
 If you use one of the hosts or platforms listed below, there are some additional
 things you should know.
 
-* [Bluehost]({% link _install/bluehost.md %})
 * [Cloudflare]({% link _install/cloudflare.md %})
 * [MAMP]({% link _install/mamp.md %})
 * [Microsoft/IIS]({% link _install/iis.md %})
 * [OVH]({% link _install/ovh.md %})
+* [SELinux]({% link _install/selinux.md %})
+* [Synology]({% link _install/synology.md %})
+* [Uberspace]({% link _install/ubserspace.md %})
 * [XAMPP]({% link _install/xampp.md %})
 
 ## Third-party installers
@@ -37,14 +40,22 @@ things you should know.
 There are a number of unofficial third-party installers and pre-built packages.
 If you have any problems with these installers, please contact the provider directly.
 
-* [Docker][DOCKER]
+* [Docker][DOCKER] and [Docker Compose][DOCKERCOMPOSE]
 * [Installatron][INSTALLATRON]
+* [OpenSuse][OPENSUSE]
+* [Puppet][PUPPET]
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
+* [Fedora Copr][COPR]
 
-[DOCKER]: https://github.com/Salokyn/webtrees/tree/docker-2.0/docker
-[DOWNLOAD]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version }}/webtrees-{{ site.latest_version }}.zip
-[DOWNLOAD_17]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_17 }}/webtrees-{{ site.latest_version_17 }}.zip
+[DOCKER]: https://hub.docker.com/r/dtjs48jkt/webtrees
+[DOCKERCOMPOSE]: https://hub.docker.com/r/nathanvaughn/webtrees
+[DOWNLOAD_22]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_22 }}/webtrees-{{ site.latest_version_22 }}.zip
+[DOWNLOAD_21]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_21 }}/webtrees-{{ site.latest_version_21 }}.zip
+[DOWNLOAD_20]: https://github.com/fisharebest/webtrees/releases/download/{{ site.latest_version_20 }}/webtrees-{{ site.latest_version_20 }}.zip
 [INSTALLATRON]: https://installatron.com/apps
+[OPENSUSE]: https://build.opensuse.org/package/show/home:ecsos:server/webtrees
+[PUPPET]: https://github.com/jjarokergc/puppet-webtrees
 [SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
 [YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
+[COPR]: https://copr.fedorainfracloud.org/coprs/castedo/webtrees

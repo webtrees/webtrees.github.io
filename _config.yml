@@ -1,13 +1,17 @@
-# Jekyll configuration for www.webtrees.net
+# Jekyll configuration for webtrees.net
 
 title: webtrees
 email: greg@subaqua.co.uk
 description: >
   webtrees is a web application that allows you to publish your genealogy online,
   collaborate with family members and take control of your data.
-latest_version: "2.0.3"
-latest_version_17: "1.7.16"
-url: "https://webtrees.github.io"
+latest_version: "2.2.6"
+latest_version_22: "2.2.6"
+latest_version_21: "2.1.27"
+latest_version_20: "2.0.26"
+latest_version_17: "1.7.20"
+latest_version_14: "1.4.6"
+url: "https://webtrees.net"
 demo_dev_url: "https://dev.webtrees.net/demo-dev"
 demo_stable_url: "https://dev.webtrees.net/demo-stable"
 this_github_repo: webtrees/webtrees.github.io
@@ -26,11 +30,13 @@ collections:
     output: true
   install:
     output: true
+  schema:
+    output: true
   upgrade:
     output: true
   user:
     output: true
-paginate: 5
+paginate: 100
 paginate_path: "/blog/page:num/"
 
 # External accounts

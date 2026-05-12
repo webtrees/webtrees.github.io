@@ -6,7 +6,7 @@ sitemap:
     exclude: yes
 ---
 
-<form action="search">
+<form action="/search">
   <input type="search" placeholder="Search" name="q" accept-charset="utf-8">
 </form>
 

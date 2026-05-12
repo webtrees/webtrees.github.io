@@ -20,7 +20,7 @@ layout: default
       </button>
 
       <!-- Generate navigation links for pages in collection -->
-      {%- assign doclist = site[page.collection] | sort: 'order' -%}
+      {%- assign doclist = site[page.collection] | sort: 'title' -%}
 
       <ul>
         {%- for doc in doclist -%}
