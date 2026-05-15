@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-05-14
+date: 2026-05-15
 sitemap:
     priority: 0.80
 ---
@@ -18,6 +18,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk,<br>access restricted to users|Xenea|2.2.6|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.6|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)|[Yannick Barbel](mailto:yannick.barbel@sfr.fr)|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.6 | it |[Claudio Bendinelli](mailto:claudio@bendinelliclaudio.it)|
+| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.6|nl| Newbie67 |
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr|[Peter Anthony Bournias](mailto:pbournias@bournias.net)|
 | [Chiele](https://www.chiele.net)|  |webtrees|2.2.6|br, it|[Alex Mauricio Chiele](mailto:alex.chiele@gmail.com)|
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.6|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)|[Jean-Louis](mailto:jbyvosges@gmail.com)|
@@ -49,7 +50,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Verrips](https://verrips.com) | |Xenea|2.2.6|nl|[Pieter Verrips](mailto:info@pverrips.nl)|
 | [Woodhouse, Giles, Kitching, Banfield](https://www.timbershack.co.uk) | Timbershack family history |F.A.B.|2.2.6|uk, scot|[Chris Woodhouse](mailto:timbershack@gmail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.5|nl| Newbie67 |
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.5|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us|[Patrick Craig](mailto:pacraig@gmail.com)|
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.5|de|[Florian Helmerich](mailto:hi@fhelmerich.de)|
@@ -60,6 +60,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
+| [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.27 | fr |[Jonathan Jaubart](mailto:genea@jaubart.com)<br>jon48|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.27|no|[Eyolf Østrem](mailto:eyolf@oestrem.com)|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.27|nl|[Willem van Gemen](mailto:willemvangemen@mail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
@@ -72,8 +73,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en|[Admin-Xue family](mailto:ftadmin-xue@chinngroup.com)|
 | [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.22|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.19 | fr |[Jonathan Jaubart](mailto:genea@jaubart.com)<br>jon48|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Todd](https://webtrees.mstevetodd.com) |  |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
