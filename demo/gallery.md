@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-05-15
+date: 2026-05-16
 sitemap:
     priority: 0.80
 ---
@@ -29,8 +29,9 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Heiler, Heck, Offermann, Lauscher](https://www.heiler-ahnen.de) |[Stories](https://www.heiler-ahnen.de/webtrees/module/stories/ShowList/heiler), [JC Menu](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-simple-menu-1/historisches), [JC treeview](https://www.heiler-ahnen.de/webtrees/tree/heiler/jc-fancy-treeview/I0842/christian-heck/descendants/1), [Vesta GOV, Facts](#3)|[ArgonLight](#9)|2.2.6|[de](https://www.heiler-ahnen.de/webtrees/tree/heiler/place-list)|[Jürgen Heiler (wt intern)](https://www.heiler-ahnen.de/webtrees/tree/heiler/contact?to=ahnenforscher)|
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.6|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)|[Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de)|
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) |  |Colors: Belgian Chocolate|2.2.6|de|[Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com)|
-| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Exter")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Exter](https://ourtree.thespiegels.com) |[Magics charts](#8)|F.A.B.|2.2.6|de, us|[Bogie](mailto:ourtree@thespiegels.com)|
+| [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Exter")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Exter](https://ourtree.thespiegels.com) |[Magics charts](#8)|F.A.B.|2.2.6|[de, us](https://ourtree.thespiegels.com/tree/1/place-list/0?action2=list)|[Bogie](mailto:ourtree@thespiegels.com)|
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.6|us|[Jones admin](mailto:admin@jonesipedia.com)|
+| [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.6|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|JustCarmen|
 | [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.6|pl|[Greg Lato](mailto:greg@latoga.com)|
 | [Malkins](https://wt-malkins.alineofmalkins.com/tree/wtmalkins) |[A Line of Malkins in Nu Tirani - New Zealand](https://wt-malkins.alineofmalkins.com/tree/wtmalkins) |Custom Theme|2.2.6|nz, gb|[Rick Malkins](mailto:rick@alineofmalkins.com)|
 | [Meyer, Jansen](https://stammbaum.anverwandte.info) |[FAQ](https://stammbaum.anverwandte.info/module/faq/Show/anverwandte)|Xenea|2.2.6|[de](https://stammbaum.anverwandte.info/tree/anverwandte/place-list)|[Klemens Miehe](mailto:klemens@miehe.de)|
@@ -53,7 +54,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.5|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us|[Patrick Craig](mailto:pacraig@gmail.com)|
 | [Helmerich, Wagner, Pömpner, Schindler](https://helmerich.family)| |webtrees with own logo|2.2.5|de|[Florian Helmerich](mailto:hi@fhelmerich.de)|
-| [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.5|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|JustCarmen|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Kibys](http://www.ahnen-recherche.de/webtrees) | Ahnen-Recherche von Yvonne Kibys<br>last modified 2020 | JustBlack | 2.2.4 | de |[Yvonne Kibys](mailto:info@ahnen-recherche.de)|
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.4|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
