@@ -47,6 +47,7 @@ If you have any problems with these installers, please contact the provider dire
 * [Softaculous][SOFTACULOUS]
 * [Yunohost][YUNOHOST]
 * [Fedora Copr][COPR]
+* [Proxmox][PROXMOXHELPER]
 
 [DOCKER]: https://hub.docker.com/r/dtjs48jkt/webtrees
 [DOCKERCOMPOSE]: https://hub.docker.com/r/nathanvaughn/webtrees
@@ -59,3 +60,4 @@ If you have any problems with these installers, please contact the provider dire
 [SOFTACULOUS]: https://www.softaculous.com/apps/others/webtrees
 [YUNOHOST]: https://install-app.yunohost.org/?app=webtrees
 [COPR]: https://copr.fedorainfracloud.org/coprs/castedo/webtrees
+[PROXMOXHELPER]: https://community-scripts.org/scripts/webtrees
