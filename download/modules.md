@@ -523,3 +523,7 @@ To position watermarks left or right use white space in the watermark image to p
 The default installation contains default webtrees watermark image, some sample images and a Photshop PSD template image as a basis for your own personalized watermarks.
 
 ----------
+
+### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
+
+This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
