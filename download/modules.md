@@ -209,10 +209,25 @@ Display all the photos in a folder.
 
 ----------
 
+### Gendex Generator - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-GendexGenerator)
+
+Create [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into
+genealogical search engines. Keep control over your data and don't send your complete GEDCOM to a (commercial) site,
+but let visitors find the data on your [webtrees](webtrees.net) site.
+
+----------
+
 ### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
 
 Provides historical facts (in the German language) - Chancellors and Presidents of Germany (since 1949).
 
+----------
+
+### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
+ 
+It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
+creating a place hierarchy with administrative levels from the date of the respective event.
+ 
 ----------
 
 ### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
