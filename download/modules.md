@@ -6,17 +6,17 @@ date: 2026-02-28
 ---
 
 webtrees is designed to be extended and modified using modules.
-The following modules have been created by members of the webtrees community.
+The following more than 100 modules have been created by members of the webtrees community.
 
 Before installing a module, make sure that the module is compatible with your version of webtrees.
-Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa. 2.2 modules will run only with webtrees 2.2 .
+Modules for webtrees 1.7 will not work with webtrees 2.0 or 2.1 and vice-versa. 2.2 modules will run only with webtrees 2.2.
 
 For support or to report issues, please contact the author of the module.
 To add your module to this list, make a pull request for the webtrees.github.io repository using the link "Edit this page" at the bottom.
 
 ## Installing/removing modules in webtrees 2.0 - 2.2
 
-To install a module in webtrees 2.0 or 2.2, copy it to the folder `modules_v4`.
+To install a module in webtrees 2.0, 2.1 or 2.2, copy it to the folder `modules_v4`.
 Themes are just special types of modules and are installed in the same folder.
 To remove a module, just delete it.
 To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/xxx.disable`.
@@ -26,7 +26,6 @@ To temporarily disable a module, rename it from `modules_v4/xxx` to `modules_v4/
 In webtrees 1.7, themes and modules are different.
 Themes are installed by copying them to the folder `themes`.
 Modules are installed by copying them to the folder `modules_v3`.
-To remove a module or theme, just delete it.
 
 ----------
 
@@ -59,6 +58,12 @@ a GEDCOM file.
 ### ChangeLanguageWithURL - by Jefferson49 - `2.0` - `2.2` - [website](https://github.com/Jefferson49/ChangeLanguageWithURL) - [demo](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree)
 
 Allows to changes the webtrees language by URL requests with the language provided as an URL parameter. The intended use case of the module is to provide a language mechanism for the integration of webtrees into a content management system (CMS) like [Joomla](https://www.joomla.org).
+
+----------
+
+### Change log - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh-change-log)
+
+This module displays the entries in the change log for the person currently being viewed to an administrator in the individual tab.
 
 ----------
 
@@ -223,13 +228,18 @@ This module supports various languages, such as Catalan, Dutch, English, French,
 
 Provides historical facts (in the German language) - Chancellors and Presidents of Germany (since 1949).
 
+_Note: This module is deprecated. Please use hh-historic-events instead.
+
 ----------
 
 ### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
 
 Provides historical facts (in the German language) - Wars and Battles Worldwide (since 900).
 
+_Note: This module is deprecated. Please use hh-historic-events instead.
+
 ----------
+
 ### Global Message - by HerzScheisse - `2.1` - [website](https://github.com/HerzScheisse/wtGlobalMessage) - [demo](https://www.eisold.family)
 
 This module adds a notice (flash message) at each page to remind the guest-user that the displayed data is limited (if you have added some restrictions in admin panel) and that they need to log in to see more data.
@@ -239,6 +249,12 @@ This module adds a notice (flash message) at each page to remind the guest-user 
 ### GVexport - by Neriderc - `2.1` - `2.2` - [website](https://github.com/Neriderc/GVExport)
 
 Creates an all-in-one tree in a variety of formats.
+
+----------
+
+### Historic events - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh-historic-events)
+
+The administrator can select historical data relating to events from various subject areas and then display this within a person’s life story. The existing modules ‘German Wars Battles Worldwide’, ‘German Chancellors Presidents’, ‘Gramps-Historical-Facts’ and ‘Swiss-Historic-Events’ will be replaced.
 
 ----------
 
@@ -268,6 +284,12 @@ _Note: As of webtrees 2.0/2.1 the JustBlack theme is part of the JustLight theme
 A light theme with focus on readability. It uses a full screen where necessary but takes into account small screens too. This theme is optimized for using on tablets and mobile phones. It is the only theme that has a specific collapsable menu for small screens! Furthermore this theme offers different layouts with some extra's. If you like a clean layout you certainly want to try this theme.
 
 Currently, there are three palettes to choose from. The default JustLight palette with a white background and blue accents and the JustBlack palette with a dark background and orange accents. The third palette, called 'JustAuto', is not really a different color palette, but based on the Windows color mode, it automatically chooses the appropriate palette with the light (JustLight) or the dark (JustBlack) background.
+
+----------
+
+### Legal notice - by Hartenthaler -`2.1` - `2.2` - [website](https://github.com/hartenthaler/hh_legal_notice)
+
+A legal notice and a privacy policy will be added to the footer of the pages. The administrator can configure these details in the admin menu.
 
 ----------
 
@@ -308,6 +330,12 @@ Add more menu items to the main menu.
 
 ----------
 
+### Meta search - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh_metasearch)
+
+An XML endpoint for the CompGen ‘meta-search’ is provided at meta.genealogy.net. It supports searches by surname and place name, as well as filtering by GOV-ID and by modification date.
+
+----------
+
 ### Modern Theme - by JessewebDotCom - `2.1.16` - [website](https://github.com/JesseWebDotCom/webtrees-theme-modern)
 
 This theme optimizes Webtrees for ease of use, whether viewing from a desktop or mobile device, while trying to bring a look and feel more like today's popular pay-as-you-go family tree services.
@@ -320,7 +348,7 @@ It also adds functionality to Webtrees like auto-generated "About" summaries for
 
 This module extends the duplicate individual checking by displaying each of the detected individuals in a separate interactive tree view (up to 5) to assist in merging duplicate individuals with complementary information.
 
-_Note: This module will be discontinued with release v2.2.5.0; the feature is now part of the module Family Tree Assistant (see upper)_.
+_Note: This module will be discontinued with release v2.2.5.0; the feature is now part of the module Family Tree Assistant (see above)_.
 
 ----------
 
@@ -396,8 +424,8 @@ This module presents the structure of a repository and its sources in a hierarch
 
 A module to add a Research Tasks report. When you are researching for your genealogical tree, sometimes you are following a line of information and find other lines of information that you don't want to follow right away. There has always been an option to add Research Tasks in families and individuals. Particularly, I think the current box about them is not very helpful since there is no way to search, filter or categorize them. Using this new module, you can add filters by date, user, word, etc. If you always use some particular words in your research tasks, for different classifications, it becomes easy to find what you want.
 
-
 ----------
+
 ### Rural Theme - by jon48 - `1.7` - `2.2` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
 
 The Rural theme is mainly based on brown tones, as a tribute to the earth our ancestors used to cultivate, with some green, color of nature. A companion of webtrees for over a decade now, its characteric layout is still organised around the main genealogical content being wrapped within a responsive white panel on a brown background.
@@ -442,6 +470,12 @@ Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering o
 
 ----------
 
+### Sources transcription - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh_source_transcription)
+
+This module provides a structured workflow for creating, importing, managing and editing transcriptions in webtrees.
+
+----------
+
 ### Tagging Service Manager (TSM) - by H&Hwt - `2.1` - `2.2` - [website](https://github.com/huhwt/huhwt-tsm)
 
 This module implements a service that works on 'Shared Notes' (sNOTES). TSM provides a structure for how an sNOTE is to be defined: A defined prefix - by default 'TAG:' (can be edited/extended as desired in the settings) - enables the targeted selection and identification of sNOTES. They can be assigned or removed in one step across all data records collected in the ClippingsCart. Confirmations are suspended for these overall actions, but are documented individually in the logs as usual.
@@ -473,6 +507,12 @@ An interactive tree, showing ancestors and descendants.
 ### Tree View Full Screen - by UksusoFF - `1.7` - `2.2` - [website](https://github.com/UksusoFF/webtrees-tree_view_full_screen)
 
 Add full screen button for interactive tree view tab.
+
+----------
+
+### Unlinked individual - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh-unlinked-individual)
+
+Adds a small block to the home page of a family tree, allowing editors to create a new person without first having to link them to an existing family or person.
 
 ----------
 
