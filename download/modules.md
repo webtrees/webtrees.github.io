@@ -577,3 +577,9 @@ The default installation contains default webtrees watermark image, some sample 
 ### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
 
 This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
+
+----------
+
+### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
+
+This free Webtrees module displays an admin-controlled announcement billboard on each member's personal page. Only the administrator can configure and control the billboard settings. It is ideal for private family tree sites where the administrator needs to communicate important notices directly to all members.
