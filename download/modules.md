@@ -211,11 +211,11 @@ Display all the photos in a folder.
 
 ### Gendex Generator - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-GendexGenerator)
 
-This simple module create [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into genealogical search engines. 
+This simple module creates [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into genealogical search engines. 
 
-Keep control over your data and don't send your complete GEDCOM to a (commercial) site, but let visitors find the data on your [webtrees](webtrees.net) site.
+Keep control over your data and don't send your complete GEDCOM to a (commercial) website, but let visitors find the data on your [webtrees](https://webtrees.net) site.
 
-Supports various languages, such as Catalan, Dutch, English, French, German, Polish and Spanish.
+This module supports various languages, such as Catalan, Dutch, English, French, German, Polish and Spanish. Contributions of additional translations are most welcome.
 
 ----------
 
