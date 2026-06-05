@@ -29,6 +29,18 @@ Modules are installed by copying them to the folder `modules_v3`.
 
 ----------
 
+### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
+
+This free module displays an admin-controlled announcement billboard on each member's personal page when they log in. Only the administrator can configure and control the billboard settings — regular members can see the billboard but cannot modify it in any way. It is ideal for private family tree sites where the administrator needs to communicate important notices — such as privacy reminders, site updates, or family news — directly to all members.
+
+----------
+
+### All Ages Export Engine - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/all-ages-export-engine)
+
+This free module is a clean, simple admin utility that exports a concise list of all individuals in a family tree, displaying four fields only: Last Name, First Name, Birth Date, and Death Date.
+
+----------
+
 ### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
 
 A replacement for the webtrees fan chart, this module uses the D3JS library to provide
