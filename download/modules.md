@@ -209,6 +209,16 @@ Display all the photos in a folder.
 
 ----------
 
+### Gendex Generator - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-GendexGenerator)
+
+This simple module creates [gendex](https://en.wikipedia.org/wiki/GENDEX) files, which can be imported into genealogical search engines. 
+
+Keep control over your data and don't send your complete GEDCOM to a (commercial) website, but let visitors find the data on your [webtrees](https://webtrees.net) site.
+
+This module supports various languages, such as Catalan, Dutch, English, French, German, Polish and Spanish. Contributions of additional translations are most welcome.
+
+----------
+
 ### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
 
 Provides historical facts (in the German language) - Chancellors and Presidents of Germany (since 1949).
