@@ -41,13 +41,6 @@ This free module is a clean, simple admin utility that exports a concise list of
 
 ----------
 
-### Ancestor Fan Chart - by MagicSunday - `1.7` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
-
-A replacement for the webtrees fan chart, this module uses the D3JS library to provide
-an attractive, animated fan chart.
-
-----------
-
 ### Argon Theme - by Jonathan Chue - `2.0` - `2.1` - [website](https://github.com/jchue/argon-webtrees-theme)
 
 A theme for the webtrees based on the Argon Design System.
@@ -123,8 +116,9 @@ It also supports customization of translations via .php or .csv files.
 
 ### Descendants Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
 
-This module provides an alternative version for the webtrees descendants chart, this module uses the D3JS library to render
-an attractive descendants chart capable to display up to 25 generations.
+An alternative to the built-in webtrees descendants chart. Built with D3.js, it renders an
+attractive, interactive chart of up to 25 generations with pan and zoom, configurable
+colours and PNG/SVG export.
 
 ----------
 
@@ -155,6 +149,14 @@ Tag faces on photos.
 ### Family Tree Assistant (FTA)  - by H&Hwt - `2.2` - [website](https://github.com/huhwt/huhwt-fta)
 
 Successor to Multi-Treeview (MTV). In addition to extending the duplicate individual checking by displaying each of the detected individuals (up to 5) in a separate interactive tree view (MTV) to assist in merging duplicate individuals with complementary information this module provides a revised overview of the check on unconnected individuals (UIC) with the option to transfer those groups to Clippings Cart Enhanced (CCE) for further analysis.
+
+----------
+
+### Fan Chart - by MagicSunday - `1.7` - `2.2` - [website](https://github.com/magicsunday/webtrees-fan-chart)
+
+A modern replacement for the built-in webtrees fan chart. Built with D3.js, it renders an
+attractive, animated and fully interactive fan chart with pan and zoom, configurable
+colours and PNG/SVG export.
 
 ----------
 
@@ -396,8 +398,9 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ### Pedigree Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
 
-A replacement for the webtrees pedigree chart, this module uses the D3JS library to provide
-an attractive pedigree chart capable to display up to 25 generations.
+A modern replacement for the built-in webtrees pedigree chart. Built with D3.js, it renders
+an attractive, interactive pedigree chart of up to 25 generations with pan and zoom,
+configurable colours and PNG/SVG export.
 
 ----------
 
@@ -485,6 +488,13 @@ Sosa¹⁷ and Sosa²⁰ add a sidebar displaying the Sosa-Stradonitz numbering o
 ### Sources transcription - by Hartenthaler - `2.2` - [website](https://github.com/hartenthaler/hh_source_transcription)
 
 This module provides a structured workflow for creating, importing, managing and editing transcriptions in webtrees.
+
+----------
+
+### Statistics - by MagicSunday - `2.2` - [website](https://github.com/magicsunday/webtrees-statistics)
+
+A statistics dashboard for your family tree. Presents a wide range of charts and figures —
+individuals, families, names, places, ages and lifespans — in a clean, responsive layout.
 
 ----------
 
