@@ -114,6 +114,12 @@ Download, install, and update custom modules. Modules can be chosen from a list 
 Keep your customizations of .phtml files in a different directory, so upgrades do not overwrite them.
 It also supports customization of translations via .php or .csv files.
 
+---------
+
+### Dead Record Detective - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/dead-record-detective)
+
+Based on the options set by the admin, this free tool scans a Webtrees family tree and detects individuals with missing, unknown, or placeholder data in key fields — specifically first and last names, and birth and death dates. It doesn't modify, delete, or alter any family tree data. All changes must be made manually by the admin. Results can be exported as a text file or spreadsheet, or viewed inline inside your Webtrees site.
+
 ----------
 
 ### Descendants Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-descendants-chart)
