@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-05-22
+date: 2026-06-10
 sitemap:
     priority: 0.80
 ---
@@ -61,6 +61,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
+| [Heinrich Family](https://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.27|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.27 | fr |[Jonathan Jaubart](mailto:genea@jaubart.com)<br>jon48|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.27|no|[Eyolf Østrem](mailto:eyolf@oestrem.com)|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.27|nl|[Willem van Gemen](mailto:willemvangemen@mail.com)|
@@ -72,7 +73,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.25|nl|[Thom van der Molen](mailto:thom@vdrmolen.nl)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en|[Admin-Xue family](mailto:ftadmin-xue@chinngroup.com)|
-| [Heinrich Family](http://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.22|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Todd](https://webtrees.mstevetodd.com) |  |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
