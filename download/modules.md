@@ -53,6 +53,12 @@ A modern light theme based on the Argon Design System.
 
 ----------
 
+### Birthday Reminders - by jbh4x82 - `2.2` - [website](https://github.com/jbh4x82/wt_reminders)
+
+Emails each family member a personalised digest of the upcoming birthdays among their relatives, with every birthday annotated by how that person is related to them (e.g. *daughter*, *first cousin*). Includes a closeness filter, a follow-specific-people option, and a relationship panel on each individual's page.
+
+----------
+
 ### Branch Export - by BlasiusSecundus - `1.7` - [website](https://github.com/BlasiusSecundus/branch_export)
 
 An alternative to the clippings cart, which allows parts of a tree to be extracted to
@@ -155,6 +161,12 @@ Tag faces on photos.
 ### Family Tree Assistant (FTA)  - by H&Hwt - `2.2` - [website](https://github.com/huhwt/huhwt-fta)
 
 Successor to Multi-Treeview (MTV). In addition to extending the duplicate individual checking by displaying each of the detected individuals (up to 5) in a separate interactive tree view (MTV) to assist in merging duplicate individuals with complementary information this module provides a revised overview of the check on unconnected individuals (UIC) with the option to transfer those groups to Clippings Cart Enhanced (CCE) for further analysis.
+
+----------
+
+### Famous Family Members - by jbh4x82 - `2.2` - [website](https://github.com/jbh4x82/wt_famous)
+
+A curated gallery of the famous people in your family tree, relatives and saints, each shown with the signed-in viewer's relationship to them (in the viewer's own language) and a short biography. Available both as a full page (in the main menu) and as a home-page block.
 
 ----------
 
