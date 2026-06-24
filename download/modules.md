@@ -469,7 +469,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections with EXIF/XMP enrichment, gallery and lightbox, and bidirectional sync with webtrees media. Group your media objects into thematic collections — either automatically from a media folder or hand-curated — for family photos, gravestones, parish records, documents and more. Ships with an install-ready ZIP (no Composer required), German, English and Dutch translations.
+Photo and document collections with EXIF/XMP enrichment, gallery and lightbox, and bidirectional sync with webtrees media. Group your media objects into thematic collections — either automatically from a media folder or hand-curated — for family photos, gravestones, parish records, documents and more. Available in German, English and Dutch.
 
 ----------
 
