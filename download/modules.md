@@ -233,6 +233,41 @@ first generation down to the last, and provide a narrative overview of your fami
 
 ----------
 
+### Favicon Updater - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-FaviconUpdater/releases)
+
+Automatically sync your custom favicons with Webtrees.
+
+This module automatically replaces the default Webtrees favicons with your own custom favicons after every Webtrees update. This way, you always retain your own style without manual work.
+
+The module has 3 variants: XXS, normal, and XXL. See the related modules section in the README for the differences.
+Before installing, read the README to avoid unexpected issues.
+
+----------
+
+### Favicon Updater XXS - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-FaviconUpdater-XXS/releases)
+
+Automatically sync your custom favicons with Webtrees.
+
+The very small version op de Favicon Updater, see above. This version doesn't have a GUI.
+
+The module automatically replaces the default Webtrees favicons with your own custom favicons after every Webtrees update. This way, you always retain your own style without manual work.
+The module has 3 variants: XXS, normal, and XXL. See the related modules section in the README for the differences.
+Before installing, read the README to avoid unexpected issues.
+
+----------
+
+### Favicon Updater XXL - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-FaviconUpdater-XXL/releases)
+
+Automatically sync your custom favicons with Webtrees.
+
+The extended version op de Favicon Updater, see above. This version does have a lot of extra tools to manage your favicons.
+
+The module automatically replaces the default Webtrees favicons with your own custom favicons after every Webtrees update. This way, you always retain your own style without manual work.
+The module has 3 variants: XXS, normal, and XXL. See the related modules section in the README for the differences.
+Before installing, read the README to avoid unexpected issues.
+
+----------
+
 ### Favorites Menu - by Bwong789 - `2.0` - `2.2` - [website](https://github.com/bwong789/webtrees-favorites-menu)
 
  This module puts the Favorites list into a menu item for fast access. Supports groups of favorites per user and per tree.
