@@ -414,6 +414,15 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ----------
 
+### Ortsregister - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-ortsregister)
+
+Turns every place in your family tree into a growing archive page — digitised
+records, church books, sources, maps and a research log in one place. GOV-anchored,
+with safe merging of spelling variants (preview, backup and undo) and media-to-place
+linking.
+
+----------
+
 ### Pedigree Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
 
 A modern replacement for the built-in webtrees pedigree chart. Built with D3.js, it renders
