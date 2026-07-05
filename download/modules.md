@@ -134,6 +134,12 @@ colours and PNG/SVG export.
 
 ----------
 
+### Enhanced Charts - by Ron Taylor - `2.2` - [website](https://github.com/haylau-ronzo/enhanced-charts)
+
+Adds a configurable Enhanced Hourglass home-page chart block, with separate ancestor and descendant generation counts, optional spouses and root siblings, configurable card display and styling, person action menus, spouse-family grouping, and module-side ancestor expansion.
+
+----------
+
 ### Enhanced Family Book Chart  - by elysch - `2.0` - `2.1` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-chart-family-book/)
 
 A chart of an individual’s ancestors and descendants, as a family book (enhanced with marriages, images, and more).
