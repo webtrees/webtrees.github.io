@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-06-10
+date: 2026-07-08
 sitemap:
     priority: 0.80
 ---
@@ -39,7 +39,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.2.6| us |[Bill Anderson](mailto:ona.andersons@gmail.com)|
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.2.6|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.2.6|de|[Alexander Nusselt](mailto:webmaster@familienforschung-nusselt.de)|
-| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Our Families](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.6|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|[HRN](mailto:post@visitusinmaputo.com)|
+| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Olsdotter, Olsen, Nilsen, Rød](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.6|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|[HRN](mailto:post@visitusinmaputo.com)|
+| [Orchard](https://www.ourkin.org) | |webtrees|2.2.6|au|[Michael Grocott](mailto:diveboy@gmail.com)|
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.6|en|[Nigel Osborne](mailto:kiwi3685@me.com)|
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.6|at|anjop|
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.6|fr, de, us|[Andreas Rauhut](mailto:andreas@rauhut.eu)|
@@ -64,13 +65,12 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Heinrich Family](https://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.27|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.27 | fr |[Jonathan Jaubart](mailto:genea@jaubart.com)<br>jon48|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.27|no|[Eyolf Østrem](mailto:eyolf@oestrem.com)|
+| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.27|nl|[Thom van der Molen](mailto:thom@vdrmolen.nl)|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.27|nl|[Willem van Gemen](mailto:willemvangemen@mail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.26|be|[Bart Calleeuw](mailto:webmaster@calleeuw.be)|
-| [Orchard](https://www.ourkin.org) | |webtrees|2.1.26|au|[Michael Grocott](mailto:diveboy@gmail.com)|
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.26|de, Saarland|[Dr. Reinhard Zeitz](mailto:rzeitz@zeitzfamily.org)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.25|nl|[Thom van der Molen](mailto:thom@vdrmolen.nl)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en|[Admin-Xue family](mailto:ftadmin-xue@chinngroup.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
