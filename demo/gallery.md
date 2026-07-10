@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-07-08
+date: 2026-07-10
 sitemap:
     priority: 0.80
 ---
@@ -67,9 +67,9 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.27|no|[Eyolf Østrem](mailto:eyolf@oestrem.com)|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla <br>last modified 2021 |Clouds|2.1.27|nl|[Thom van der Molen](mailto:thom@vdrmolen.nl)|
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.27|nl|[Willem van Gemen](mailto:willemvangemen@mail.com)|
+| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.27|de, Saarland|[Dr. Reinhard Zeitz](mailto:rzeitz@zeitzfamily.org)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.26|be|[Bart Calleeuw](mailto:webmaster@calleeuw.be)|
-| [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.26|de, Saarland|[Dr. Reinhard Zeitz](mailto:rzeitz@zeitzfamily.org)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en|[Admin-Xue family](mailto:ftadmin-xue@chinngroup.com)|
