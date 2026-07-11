@@ -239,6 +239,15 @@ first generation down to the last, and provide a narrative overview of your fami
 
 ----------
 
+### Farbwelten - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-theme-farbwelten)
+
+A theme with four colour palettes in a single module: light, dark, sepia and
+bordeaux. The palette can be switched from the header menu; each user keeps
+their own choice and an administrator's choice becomes the site default.
+Includes a print stylesheet in the sepia palette.
+
+----------
+
 ### Favicon Updater - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-FaviconUpdater/releases)
 
 Automatically sync your custom favicons with Webtrees.
