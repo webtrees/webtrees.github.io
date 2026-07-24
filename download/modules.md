@@ -493,6 +493,12 @@ Show latest uploaded photos in block.
 
 ----------
 
+### Potts Modern Theme - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-modern-theme)
+
+A responsive and configurable heritage theme for webtrees 2.2. It provides modern navigation, flexible home-page layouts, biography-focused individual pages, coordinated colour and typography options and improved desktop, tablet and mobile presentation. It works as a standalone theme and requires no changes to webtrees core files.
+
+----------
+
 ### Primer Theme - by Fredrik Ekdahl - `2.1` - `2.2` - [website](https://github.com/ekdahl/webtrees-primer-theme)
 
 This theme takes inspiration from the look and feel on the GitHub web site. It also adds some icons for menus and other controls. The design used on GitHub is called the Primer Design System.
