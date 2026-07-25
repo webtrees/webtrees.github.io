@@ -493,6 +493,12 @@ Show latest uploaded photos in block.
 
 ----------
 
+### Potts Biography - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-life-story-engine)
+
+Potts Biography adds a privacy-aware, illustrated biography tab to individual pages. It transforms visible GEDCOM facts into readable life-story chapters with age-aware wording, historical context, research notes and intelligently placed photographs, documents and keepsakes. It works with standard webtrees themes as well as Potts Modern Theme and has no required companion modules.
+
+----------
+
 ### Potts Modern Theme - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-modern-theme)
 
 A responsive and configurable heritage theme for webtrees 2.2. It provides modern navigation, flexible home-page layouts, biography-focused individual pages, coordinated colour and typography options and improved desktop, tablet and mobile presentation. It works as a standalone theme and requires no changes to webtrees core files.
