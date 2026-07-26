@@ -499,6 +499,19 @@ Potts Biography adds a privacy-aware, illustrated biography tab to individual pa
 
 ----------
 
+### Potts Family Book - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-family-books)
+
+A family-history publishing module that adds a **Books** library to webtrees. Tree managers can create and publish structured family books containing cover pages, images, metadata and ordered HTML chapters.
+It supports links to webtrees individuals, families, sources and media, automatically generated people indexes, book and chapter searching, browser printing and PDF export, manager-only editing tools and an optional **Family books** tab on individual pages. Book content is stored separately in the protected webtrees data folder so module updates do not overwrite published books.
+
+----------
+
+### Potts Modern Theme - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-modern-theme)
+
+A responsive and configurable heritage theme for webtrees 2.2. It provides modern navigation, flexible home-page layouts, biography-focused individual pages, coordinated colour and typography options and improved desktop, tablet and mobile presentation. It works as a standalone theme and requires no changes to webtrees core files.
+
+----------
+
 ### Potts Modern Theme - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-modern-theme)
 
 A responsive and configurable heritage theme for webtrees 2.2. It provides modern navigation, flexible home-page layouts, biography-focused individual pages, coordinated colour and typography options and improved desktop, tablet and mobile presentation. It works as a standalone theme and requires no changes to webtrees core files.
