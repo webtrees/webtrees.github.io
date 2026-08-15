@@ -547,7 +547,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections with EXIF/XMP enrichment, gallery and lightbox, and bidirectional sync with webtrees media. Group your media objects into thematic collections — either automatically from a media folder or hand-curated — for family photos, gravestones, parish records, documents and more. Available in German, English and Dutch.
+Photo and document collections with EXIF/XMP enrichment, gallery and lightbox, and bidirectional sync with webtrees media. Group your media objects into thematic collections — either automatically from a media folder or hand-curated — for family photos, gravestones, parish records, documents and more. EXIF/XMP data is not only read but written back into the files, with an automatic daily backup, and files can be renamed straight from the lightbox. Files that are not media objects in the tree are listed as well, so an archive of plain scans stays visible. On phones and tablets the lightbox behaves like a photo app: pinch zoom, swipe to browse, tap for an edge-to-edge view. Available in Catalan, Dutch, English, German, Slovak and Spanish. An optional Android wrapper for your own instance is available separately: [WebtreesAnd](https://github.com/thobgg/WebtreesAnd).
 
 ----------
 
