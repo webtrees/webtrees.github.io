@@ -493,9 +493,33 @@ Show latest uploaded photos in block.
 
 ----------
 
+### Potts Administration Shortcuts - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-admin-shortcuts)
+
+Adds a configurable administrator-only **My Page** block with quick links to enabled module settings and user administration. Each administrator can choose their own shortcuts, and the block works with any webtrees theme.
+
+----------
+
 ### Potts Biography - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-life-story-engine)
 
 Potts Biography adds a privacy-aware, illustrated biography tab to individual pages. It transforms visible GEDCOM facts into readable life-story chapters with age-aware wording, historical context, research notes and intelligently placed photographs, documents and keepsakes. It works with standard webtrees themes as well as Potts Modern Theme and has no required companion modules.
+
+----------
+
+### Potts Books Hub - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-books-hub)
+
+Combines supported Potts book modules under one **Books** dropdown while leaving each module independent. It detects enabled Family Books, Narrative Ancestor Book and Descendant Story Book modules and restores their normal menu entries when the hub is disabled.
+
+----------
+
+### Potts Descendant Story Book - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-descendant-story-book)
+
+Creates privacy-aware narrative descendant publications from a selected ancestor, organised into child-based branches. It supports configurable generations and profile detail, images, optional Potts Biography and Family Books integration, indexes, browser print/PDF output and downloadable HTML editions.
+
+----------
+
+### Potts Fact Ages - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts_fact_ages)
+
+Displays a person's calculated age at dated facts and events, either in a dedicated tab, on existing fact/event title tiles or both. It supports personal, family, relative, associate and historical events with configurable display and age styles.
 
 ----------
 
@@ -509,6 +533,12 @@ It supports links to webtrees individuals, families, sources and media, automati
 ### Potts Modern Theme - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts-modern-theme)
 
 A responsive and configurable heritage theme for webtrees 2.2. It provides modern navigation, flexible home-page layouts, biography-focused individual pages, coordinated colour and typography options and improved desktop, tablet and mobile presentation. It works as a standalone theme and requires no changes to webtrees core files.
+
+----------
+
+### Potts On This Day Email - by Jason Potts (PottsNet) - `2.2` - [website](https://github.com/PottsNet/potts_on_this_day_email)
+
+Sends personalised daily anniversary emails to registered users who opt in. It uses webtrees privacy permissions and relationship filtering, supports births, deaths and marriages and provides a secure scheduler endpoint for daily delivery.
 
 ----------
 
