@@ -706,7 +706,7 @@ This free Webtrees module personalizes the user page title by replacing the defa
 
 ### WebtreesAnd API - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtreesand-api)
 
-Brings two worlds together: the person who maintains the tree meticulously at the PC, and the family who want to look into it on a phone or tablet and contribute photos and hints. The module gives the native Android app [webtreesAnd](https://github.com/thobgg/WebtreesAnd) a JSON interface – reading and writing, always with the rights of the signed-in webtrees user, in the same installation. It has no login and no permission system of its own: privacy, editor rights, `RESN locked`, the change log and moderation work exactly as in the web interface, so a photo or a date sent from a phone arrives as a pending change for the person at the PC. In the control panel the manager chooses which family trees the app may reach, and can list a second app that follows the same interface (for iPhone and iPad, say) next to webtreesAnd. Family members get an “App” page with the download and connect the app to their account with one tap or a QR code – a one-time code, no password to type. The core of webtrees is not modified; the module creates no database tables.
+Adds a read/write JSON interface for the native Android app webtreesAnd. It uses webtrees' own login, privacy and change-log mechanisms. 
 
 ----------
 
