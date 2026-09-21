@@ -382,7 +382,7 @@ Note: This module only works as an extension to CCE. It is not intended to be ca
 
 ----------
 
-### LinkEnhancer - by bschwede - `2.2` - [website](https://https://github.com/bschwede/linkenhancer)
+### LinkEnhancer - by bschwede - `2.2` - [website](https://github.com/bschwede/linkenhancer)
 
 Cross-references to Gedcom datasets, Markdown editor, context-sensitive link to the GenWiki Webtrees manual
 
