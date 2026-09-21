@@ -41,6 +41,12 @@ This free module is a clean, simple admin utility that exports a concise list of
 
 ----------
 
+### api4webtrees - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/api4webtrees)
+
+Adds a read/write JSON interface for the native Android app wtAnd. It uses webtrees' own login, privacy and change-log mechanisms.
+
+----------
+
 ### Argon Theme - by Jonathan Chue - `2.0` - `2.1` - [website](https://github.com/jchue/argon-webtrees-theme)
 
 A theme for the webtrees based on the Argon Design System.
@@ -701,12 +707,6 @@ The default installation contains default webtrees watermark image, some sample 
 ### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
 
 This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
-
-----------
-
-### WebtreesAnd API - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtreesand-api)
-
-Adds a read/write JSON interface for the native Android app webtreesAnd. It uses webtrees' own login, privacy and change-log mechanisms. 
 
 ----------
 
