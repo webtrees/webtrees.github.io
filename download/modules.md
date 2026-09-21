@@ -704,6 +704,12 @@ This free Webtrees module personalizes the user page title by replacing the defa
 
 ----------
 
+### WebtreesAnd API - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtreesand-api)
+
+Adds a read/write JSON interface for the native Android app webtreesAnd. It uses webtrees' own login, privacy and change-log mechanisms. 
+
+----------
+
 ### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
 
 This free Webtrees module displays an admin-controlled announcement billboard on each member's personal page. Only the administrator can configure and control the billboard settings. It is ideal for private family tree sites where the administrator needs to communicate important notices directly to all members.
