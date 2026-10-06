@@ -472,10 +472,7 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ### Ortsregister - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-ortsregister)
 
-Turns every place in your family tree into a growing archive page — digitised
-records, church books, sources, maps and a research log in one place. GOV-anchored,
-with safe merging of spelling variants (preview, backup and undo) and media-to-place
-linking.
+Gives every place in the tree its own archive page with records, church books, sources, maps and a research log. Linked to GOV, with safe merging of spelling variants and undo.
 
 ----------
 
@@ -553,7 +550,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections for the whole family archive – including files that are not GEDCOM media objects at all. Gallery and lightbox with an EXIF/XMP editor that writes back into the files and syncs with the person links in webtrees.
+Photo and document collections for the whole family archive, including files that are not GEDCOM media objects. Gallery, lightbox and an EXIF/XMP editor that writes back into the files and keeps the person links in webtrees in sync.
 
 ----------
 
