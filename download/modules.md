@@ -43,7 +43,7 @@ This free module is a clean, simple admin utility that exports a concise list of
 
 ### api4webtrees - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/api4webtrees)
 
-Adds a read/write JSON interface for the native Android app wtAnd. It uses webtrees' own login, privacy and change-log mechanisms.
+A read/write JSON interface for native apps on Android, Windows, Linux, macOS and iOS (wtAnd, wtWin, wtTux, wtMac, webtrees mobile). Every request runs as the signed-in webtrees user, with the privacy, editing rights and change log of webtrees itself.
 
 ----------
 
@@ -472,7 +472,7 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ### Ortsregister - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-ortsregister)
 
-Gives every place in the tree its own archive page with records, church books, sources, maps and a research log. Linked to GOV, with safe merging of spelling variants and undo.
+Every place in the tree gets an archive page with photos, church books, sources, a map and a research log, plus GOV linking. Includes tools to keep places tidy: merge and rename with preview, backup and undo.
 
 ----------
 
@@ -550,7 +550,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections for the whole family archive, including files that are not GEDCOM media objects. Gallery, lightbox and an EXIF/XMP editor that writes back into the files and keeps the person links in webtrees in sync.
+Photo and document collections inside webtrees, including archive files that are not GEDCOM media objects. Gallery and lightbox with an EXIF/XMP editor that writes metadata back into the image files and keeps it in sync with the person links in the tree.
 
 ----------
 
