@@ -41,6 +41,12 @@ This free module is a clean, simple admin utility that exports a concise list of
 
 ----------
 
+### api4webtrees - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/api4webtrees)
+
+A read/write JSON interface for native apps on Android, Windows, Linux, macOS and iOS (wtAnd, wtWin, wtTux, wtMac, webtrees mobile). Every request runs as the signed-in webtrees user, with the privacy, editing rights and change log of webtrees itself.
+
+----------
+
 ### Argon Theme - by Jonathan Chue - `2.0` - `2.1` - [website](https://github.com/jchue/argon-webtrees-theme)
 
 A theme for the webtrees based on the Argon Design System.
@@ -466,10 +472,7 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ### Ortsregister - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-ortsregister)
 
-Turns every place in your family tree into a growing archive page — digitised
-records, church books, sources, maps and a research log in one place. GOV-anchored,
-with safe merging of spelling variants (preview, backup and undo) and media-to-place
-linking.
+Every place in the tree gets an archive page with photos, church books, sources, a map and a research log, plus GOV linking. Includes tools to keep places tidy: merge and rename with preview, backup and undo.
 
 ----------
 
@@ -547,7 +550,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections for the whole family archive – including files that are not GEDCOM media objects at all. Gallery and lightbox with an EXIF/XMP editor that writes back into the files and syncs with the person links in webtrees.
+Photo and document collections inside webtrees, including archive files that are not GEDCOM media objects. Gallery and lightbox with an EXIF/XMP editor that writes metadata back into the image files and keeps it in sync with the person links in the tree.
 
 ----------
 
@@ -701,12 +704,6 @@ The default installation contains default webtrees watermark image, some sample 
 ### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
 
 This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
-
-----------
-
-### WebtreesAnd API - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtreesand-api)
-
-Adds a read/write JSON interface for the native Android app webtreesAnd. It uses webtrees' own login, privacy and change-log mechanisms. 
 
 ----------
 
