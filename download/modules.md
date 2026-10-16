@@ -96,6 +96,12 @@ A tab which shows all the cousins of an individual.
 
 ----------
 
+### Cronjob - by bschwede - `2.2` - [website](https://github.com/bschwede/wt-cronjob)
+
+A cron job scheduler service for webtrees
+
+----------
+
 ### Custom CSS - by makitso - `2.0` - `2.2` - [website](https://github.com/makitso/custom-css) - [demo](https://skatekey.net)
 
 Global modifications to all themes, to provide a more compact display and allowing more
