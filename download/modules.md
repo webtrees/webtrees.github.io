@@ -375,6 +375,15 @@ Currently, there are three palettes to choose from. The default JustLight palett
 
 ----------
 
+### Lebensbühne - by Gregor Wolf - `2.2` - [website](https://github.com/gregorwolf1973/webtrees-lebensbuehne)
+
+A chart module that shows the family tree as a walkable 3D time tunnel: ancestors, descendants and the partner's family are arranged in depth by year of birth.
+A time travel lets every generation light up at birth and fade after death, while historical events of the region scroll by.
+Each person opens a life story with photos from the media objects (face crops from the Faces module, if installed), a timeline and a map of the places of their life.
+Optional sounds and an own song for the time travel. Only logged-in members of the tree can open it. User interface in German.
+
+----------
+
 ### Legal notice - by Hartenthaler -`2.1` - `2.2` - [website](https://github.com/hartenthaler/hh_legal_notice)
 
 A legal notice and a privacy policy will be added to the footer of the pages. The administrator can configure these details in the admin menu.
