@@ -379,8 +379,8 @@ Currently, there are three palettes to choose from. The default JustLight palett
 
 A chart module that shows the family tree as a walkable 3D time tunnel: ancestors, descendants and the partner's family are arranged in depth by year of birth.
 A time travel lets every generation light up at birth and fade after death, while historical events of the region scroll by.
-Each person opens a life story with photos from the media objects (face crops from the Faces module, if installed), a timeline and a map of the places of their life.
-Optional sounds and an own song for the time travel. Only logged-in members of the tree can open it. User interface in German.
+Each person opens a life story with photos from the media objects (face crops from the Faces module, if installed), a timeline, an optional narrated story and a map of the places of their life with historical borders.
+A network view shows all relatives as connected family stars. Optional sounds and an own song for the time travel. Only logged-in members of the tree can open it. User interface in German and English.
 
 ----------
 
