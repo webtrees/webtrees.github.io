@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-09-02
+date: 2026-11-04
 sitemap:
     priority: 0.80
 ---
@@ -20,6 +20,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr|[Peter Anthony Bournias](mailto:pbournias@bournias.net)|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.6|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.6|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
+| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.2.6|be|[Bart Calleeuw](mailto:webmaster@calleeuw.be)|
 | [Chiele](https://www.chiele.net)|  |webtrees|2.2.6|br, it|[Alex Mauricio Chiele](mailto:alex.chiele@gmail.com)|
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.6|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)|[Jean-Louis](mailto:jbyvosges@gmail.com)|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta(look and relationalships)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.6|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
@@ -58,8 +59,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us|[Patrick Craig](mailto:pacraig@gmail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Kibys](http://www.ahnen-recherche.de/webtrees) | Ahnen-Recherche von Yvonne Kibys<br>last modified 2020 | JustBlack | 2.2.4 | de |[Yvonne Kibys](mailto:info@ahnen-recherche.de)|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
 | [Heinrich Family](https://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.27|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
@@ -69,15 +68,11 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [van Gemen](https://www.vangemen.nl) | Het archief en de genealogie van Gemen<br><br>FAQ nl|Colors: Aquamarin|2.1.27|nl|[Willem van Gemen](mailto:willemvangemen@mail.com)|
 | [Zeitz](https://www.zeitzfamily.org/webtrees_2012) |  |webtrees|2.1.27|de, Saarland|[Dr. Reinhard Zeitz](mailto:rzeitz@zeitzfamily.org)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| [Calleeuw, Dumon, Roose, Craeye](https://stamboom.calleeuw.be) |Onze familiegeschiedenis<br><br>[JC Imagebar](#2)|webtrees|2.1.26|be|[Bart Calleeuw](mailto:webmaster@calleeuw.be)|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Chinn, Buchanan, 薛, Xhue](https://chinngroup.com/ancestors) |display PDFs and handle chinese names|Clouds|2.1.22|en|[Admin-Xue family](mailto:ftadmin-xue@chinngroup.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Todd](https://webtrees.mstevetodd.com) |  |JustLight|2.1.17|us| [Steve Todd](mailto:mstevetodd@gmail.com) |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>| | | | |
-| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
 | [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | last modified 2020 |webtrees|1.7.13|fr| |
@@ -85,6 +80,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) |  |JustLight|1.7.17|fr| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>unavailable</b>| | | | |
+| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 
 ## Reference to the mentioned THIRD-PARTY MODULES
