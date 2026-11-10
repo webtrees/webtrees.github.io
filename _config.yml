@@ -6,6 +6,7 @@ description: >
   webtrees is a web application that allows you to publish your genealogy online,
   collaborate with family members and take control of your data.
 latest_version: "2.2.6"
+latest_version_23: "dev-develop"
 latest_version_22: "2.2.6"
 latest_version_21: "2.1.27"
 latest_version_20: "2.0.26"
