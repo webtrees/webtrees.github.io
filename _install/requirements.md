@@ -7,7 +7,7 @@ order:  1
 
 ## PHP Requirements
 
-| webtrees | status              | latest version               | PHP 5.3-5.6 | PHP 7.0-7.3 | PHP 7.4 | PHP 8.0-8.2 | PHP 8.3-8.6 |
+ webtrees | status              | latest version               | PHP 5.3-5.6 | PHP 7.0-7.3 | PHP 7.4 | PHP 8.0-8.2 | PHP 8.3-8.6 |
 |----------|---------------------|------------------------------|-------------|-------------|---------|-------------|-------------|
 | 2.3      | in development      | {{ site.latest_version_23 }} | ❌          | ❌          | ❌      | ❌          | ✅          |
 | 2.2      | stable              | {{ site.latest_version_22 }} | ❌          | ❌          | ❌      | ❌          | ✅          |
