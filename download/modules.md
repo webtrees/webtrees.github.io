@@ -29,6 +29,12 @@ Modules are installed by copying them to the folder `modules_v3`.
 
 ----------
 
+### webtrees-contribution-request - by Andreas Scharf - `2.2` - [website](https://github.com/Schoaf/webtrees-contribution-request)
+
+Ask someone without a webtrees account – e.g. a relative – to fill in or correct one person's data via a link. They see a snapshot of what is known, can add dates, places, a photo and a note; you review the answer field by field and apply it as a normal edit.
+
+----------
+
 ### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
 
 This free module displays an admin-controlled announcement billboard on each member's personal page when they log in. Only the administrator can configure and control the billboard settings — regular members can see the billboard but cannot modify it in any way. It is ideal for private family tree sites where the administrator needs to communicate important notices — such as privacy reminders, site updates, or family news — directly to all members.
