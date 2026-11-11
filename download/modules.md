@@ -29,6 +29,12 @@ Modules are installed by copying them to the folder `modules_v3`.
 
 ----------
 
+### webtrees-contribution-request - by Andreas Scharf - `2.2` - [website](https://github.com/Schoaf/webtrees-contribution-request)
+
+Ask someone without a webtrees account – e.g. a relative – to fill in or correct one person's data via a link. They see a snapshot of what is known, can add dates, places, a photo and a note; you review the answer field by field and apply it as a normal edit.
+
+----------
+
 ### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
 
 This free module displays an admin-controlled announcement billboard on each member's personal page when they log in. Only the administrator can configure and control the billboard settings — regular members can see the billboard but cannot modify it in any way. It is ideal for private family tree sites where the administrator needs to communicate important notices — such as privacy reminders, site updates, or family news — directly to all members.
@@ -38,6 +44,12 @@ This free module displays an admin-controlled announcement billboard on each mem
 ### All Ages Export Engine - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/all-ages-export-engine)
 
 This free module is a clean, simple admin utility that exports a concise list of all individuals in a family tree, displaying four fields only: Last Name, First Name, Birth Date, and Death Date.
+
+----------
+
+### api4webtrees - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/api4webtrees)
+
+A read/write JSON interface for native apps on Android, Windows, Linux, macOS and iOS (wtAnd, wtWin, wtTux, wtMac, webtrees mobile). Every request runs as the signed-in webtrees user, with the privacy, editing rights and change log of webtrees itself.
 
 ----------
 
@@ -239,15 +251,6 @@ first generation down to the last, and provide a narrative overview of your fami
 
 ----------
 
-### Farbwelten - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-theme-farbwelten)
-
-A theme with four colour palettes in a single module: light, dark, sepia and
-bordeaux. The palette can be switched from the header menu; each user keeps
-their own choice and an administrator's choice becomes the site default.
-Includes a print stylesheet in the sepia palette.
-
-----------
-
 ### Favicon Updater - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-FaviconUpdater/releases)
 
 Automatically sync your custom favicons with Webtrees.
@@ -369,6 +372,15 @@ Currently, there are three palettes to choose from. The default JustLight palett
 
 ----------
 
+### Lebensbühne - by Gregor Wolf - `2.2` - [website](https://github.com/gregorwolf1973/webtrees-lebensbuehne)
+
+A chart module that shows the family tree as a walkable 3D time tunnel: ancestors, descendants and the partner's family are arranged in depth by year of birth.
+A time travel lets every generation light up at birth and fade after death, while historical events of the region scroll by.
+Each person opens a life story with photos from the media objects (face crops from the Faces module, if installed), a timeline, an optional narrated story and a map of the places of their life with historical borders.
+A network view shows all relatives as connected family stars. Optional sounds and an own song for the time travel. Only logged-in members of the tree can open it. User interface in German and English.
+
+----------
+
 ### Legal notice - by Hartenthaler -`2.1` - `2.2` - [website](https://github.com/hartenthaler/hh_legal_notice)
 
 A legal notice and a privacy policy will be added to the footer of the pages. The administrator can configure these details in the admin menu.
@@ -464,15 +476,6 @@ using [OpenStreetMap](https://www.openstreetmap.org).
 
 ----------
 
-### Ortsregister - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-ortsregister)
-
-Turns every place in your family tree into a growing archive page — digitised
-records, church books, sources, maps and a research log in one place. GOV-anchored,
-with safe merging of spelling variants (preview, backup and undo) and media-to-place
-linking.
-
-----------
-
 ### Pedigree Chart - by MagicSunday - `2.0` - `2.2` - [website](https://github.com/magicsunday/webtrees-pedigree-chart)
 
 A modern replacement for the built-in webtrees pedigree chart. Built with D3.js, it renders
@@ -547,7 +550,7 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ### Sammlungen - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtrees-sammlungen)
 
-Photo and document collections for the whole family archive – including files that are not GEDCOM media objects at all. Gallery and lightbox with an EXIF/XMP editor that writes back into the files and syncs with the person links in webtrees.
+Photo and document collections inside webtrees, including archive files that are not GEDCOM media objects. Gallery and lightbox with an EXIF/XMP editor that writes metadata back into the image files and keeps it in sync with the person links in the tree.
 
 ----------
 
@@ -701,12 +704,6 @@ The default installation contains default webtrees watermark image, some sample 
 ### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
 
 This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
-
-----------
-
-### WebtreesAnd API - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/webtreesand-api)
-
-Adds a read/write JSON interface for the native Android app webtreesAnd. It uses webtrees' own login, privacy and change-log mechanisms. 
 
 ----------
 
