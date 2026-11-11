@@ -59,6 +59,14 @@ A modern light theme based on the Argon Design System.
 
 ----------
 
+### Asyntai AI Assistant - by [Asyntai](https://asyntai.com) - `2.1` - `2.2` - [website](https://asyntai.com/documentation/integrations/webtrees/)
+
+Adds an AI chat to the pages of your site. It answers your visitors from your own content, in more than 80 languages.
+The control panel does not get the chat, and you can show it to visitors only.
+Needs an Asyntai account. The free plan is enough to start.
+
+----------
+
 ### Birthday Reminders - by jbh4x82 - `2.2` - [website](https://github.com/jbh4x82/wt_reminders)
 
 Emails each family member a personalised digest of the upcoming birthdays among their relatives, with every birthday annotated by how that person is related to them (e.g. *daughter*, *first cousin*). Includes a closeness filter, a follow-specific-people option, and a relationship panel on each individual's page.
