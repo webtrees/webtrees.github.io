@@ -47,6 +47,12 @@ This free module is a clean, simple admin utility that exports a concise list of
 
 ----------
 
+### Ancestral Origins - by Larry Bislew - `2.2` - [website](https://github.com/bislewl/webtrees-ancestral-origins)
+
+Adds an "Origins" tab to each individual's page with a pie chart of where their ancestors came from, worked out from the birthplaces in the family tree (not from DNA). Each parent counts for half, each grandparent a quarter, and so on; each line counts toward the earliest known ancestor's birthplace country, NATI (nationality) fact, or an administrator's place rule (e.g. "Tolna = German (Danube Swabian)"). Respects privacy.
+
+----------
+
 ### api4webtrees - by Thomas Bugge - `2.2` - [website](https://github.com/thobgg/api4webtrees)
 
 A read/write JSON interface for native apps on Android, Windows, Linux, macOS and iOS (wtAnd, wtWin, wtTux, wtMac, webtrees mobile). Every request runs as the signed-in webtrees user, with the privacy, editing rights and change log of webtrees itself.
