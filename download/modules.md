@@ -96,7 +96,7 @@ This module replaces or supplements the ClippingsCart. Clipping actions have bee
 
 ----------
 
-### Cousins - by vytux - `1.7` - `2.1` - [website](https://github.com/vytux-com/vytux_cousins)
+### Cousins - by vytux - `1.7` - `2.2` - [website](https://github.com/vytux-com/vytux_cousins)
 
 A tab which shows all the cousins of an individual.
 
@@ -418,7 +418,7 @@ Import all media files in the same folder at once from the admin panel.
 
 ----------
 
-### Menu - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_menu2)
+### Menu - by vytux - `1.7` - `2.2` - [website](https://github.com/vytux-com/vytux_menu2)
 
 Add more menu items to the main menu.
 
