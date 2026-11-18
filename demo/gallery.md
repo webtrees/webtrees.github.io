@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-11-04
+date: 2026-11-18
 sitemap:
     priority: 0.80
 ---
@@ -17,6 +17,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.6|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)|[Yannick Barbel](mailto:yannick.barbel@sfr.fr)|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.6 | it |[Claudio Bendinelli](mailto:claudio@bendinelliclaudio.it)|
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.6|nl| Newbie67 |
+| [Les familles de Borso del Grappa](https://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr|[Peter Anthony Bournias](mailto:pbournias@bournias.net)|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.6|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.6|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
@@ -40,7 +41,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Nemmers, Herrig, Strong](https://genealogy.dbq-andersons.com) |[Vesta LaF](#3)| Rural |2.2.6| us |[Bill Anderson](mailto:ona.andersons@gmail.com)|
 | [Neumann-Korsgaard](https://iverneumann.no/webtrees) |Ancestors of Iver Neumann-Korsgaard<br>[Stories](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Fstories%2FShowList%2FAncestorsofIverNeumann), [FAQ](https://iverneumann.no/webtrees/index.php?route=%2Fwebtrees%2Fmodule%2Ffaq%2FShow%2FAncestorsofIverNeumann)|webtrees|2.2.6|no|[Iver Neumann-Korsgaard](mailto:iver@iverneumann.no)|
 | [Nusselt, Müller, Bauer](https://family.nusselt.de) |<br>[JC Imagebar](#2), [JC Treeview](#2), [Vesta](#3)|JustLight|2.2.6|de|[Alexander Nusselt](mailto:webmaster@familienforschung-nusselt.de)|
-| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Our Families](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme|Farbwelten|2.2.6|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|[HRN](mailto:post@visitusinmaputo.com)|
+| [![ ](https://visitusinmaputo.com/webtree/CalHist000.jpg "Våre familier")](https://visitusinmaputo.com/webtree) <br> [Our Families](https://visitusinmaputo.com/webtree) |Our families <br> Våre familier<br>[JC Treeview](#2), [Vesta](#3), [Magics charts](#8), Primer Theme, Argon Light|F.A.B.|2.2.6|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|[HRN](mailto:post@visitusinmaputo.com)|
 | [Orchard](https://www.ourkin.org) | |webtrees|2.2.6|au|[Michael Grocott](mailto:diveboy@gmail.com)|
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.6|en|[Nigel Osborne](mailto:kiwi3685@me.com)|
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.6|at|anjop|
@@ -80,7 +81,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) |  |JustLight|1.7.17|fr| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>unavailable</b>| | | | |
-| [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 
 ## Reference to the mentioned THIRD-PARTY MODULES
