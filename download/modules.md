@@ -182,6 +182,12 @@ Tag faces on photos.
 
 ----------
 
+### Family Health History - by Andreas Scharf - `2.2` - [website](https://github.com/Schoaf/webtrees-family-health)
+
+Record illnesses in your family tree and sum them up for the doctor: "Any cases of this in your family?" Each member sees only the illnesses of their own blood relatives (and of their children under 18), by category with relationship, genetic degree, ICD-10 code and age at diagnosis; early onset is marked. Illnesses are standard GEDCOM facts (`1 FACT` with `2 TYPE Illness`, confidential), the cause of death counts too. Record them from "Add a fact" on an individual's page. With a print view for the doctor – and works especially well with the webtrees-mobile app.
+
+----------
+
 ### Family Tree Assistant (FTA)  - by H&Hwt - `2.2` - [website](https://github.com/huhwt/huhwt-fta)
 
 Successor to Multi-Treeview (MTV). In addition to extending the duplicate individual checking by displaying each of the detected individuals (up to 5) in a separate interactive tree view (MTV) to assist in merging duplicate individuals with complementary information this module provides a revised overview of the check on unconnected individuals (UIC) with the option to transfer those groups to Clippings Cart Enhanced (CCE) for further analysis.
