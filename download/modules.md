@@ -355,6 +355,12 @@ Provides detailed statistics and visualizations of changes made to your genealog
 
 ----------
 
+### Install as an app (PWA) - by Larry Bislew - `2.2` - [website](https://github.com/bislewl/webtrees-pwa)
+
+Lets visitors install your webtrees site as an app on their phone, tablet or computer, with its own icon and no browser address bar. It fixes the web app manifest for sites in a sub-folder (start page, scope, 192/512 px and maskable icons), adds a small service worker that shows a friendly offline page, and an optional "Install this site as an app" footer link. For privacy, pages about people are never cached on the device; only public styles, scripts and icons are.
+
+----------
+
 ### Interactive Tree XT (XTV) - by H&Hwt - `2.0` - `2.2` - [website](https://github.com/huhwt/huhwt-xtv)
 
 This module may replace the Interactive Tree of the Webtrees core. Resolution depth, implex handling and separated display of multiple relationships are set via form actions. Sub-trees and family branches can be selectively hidden and shown in the view. The addition of families/individuals not yet contained in the view can be triggered both explicitly and globally. There are statistics on the persons shown in the view. There may be an overview of the persons shown in the view, which can be used to jump to these persons. A PageMap allows navigation through the entire view. The current view can be downloaded as a PNG. The families/individuals in the current view may be transferred to CCE.
