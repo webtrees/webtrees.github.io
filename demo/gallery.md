@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-11-18
+date: 2026-11-25
 sitemap:
     priority: 0.80
 ---
@@ -17,7 +17,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.6|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)|[Yannick Barbel](mailto:yannick.barbel@sfr.fr)|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.6 | it |[Claudio Bendinelli](mailto:claudio@bendinelliclaudio.it)|
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.6|nl| Newbie67 |
-| [Les familles de Borso del Grappa](https://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
+| [Les familles de Borso del Grappa](https://www.venarbol.net/borsodg31) |  |JustLight|2.2.6|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr|[Peter Anthony Bournias](mailto:pbournias@bournias.net)|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.6|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
 | [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.6|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
@@ -48,7 +48,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors: Ash|2.2.6|[nl, us](https://skatekey.net/tree/peters/place-list)|[Rob Peters](mailto:makitso@gmail.com)|
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.6|fr, de, us|[Andreas Rauhut](mailto:andreas@rauhut.eu)|
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.2.6|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)|[Michel](mailto:gustine@ovh.fr)|
-| [Rhedey](https://rhedey.net/) | [Vesta](#3)|webtrees|2.2.6|hu|[Laszlo Rhedey](mailto:grhedey@gmail.com)|
 | [Roach](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.2.6|en|fisharebest|
 | [Rousselle-Roussel](https://rousselle-roussel.fr) |[Vesta](#3) |webtrees|2.2.6|fr|[JJR](mailto:j-jacques@rousselle-roussel.fr)|
 | [Schmidt, Hübl, Bühler, Маринова](https://www.proavitus.de) | proavitus - von den Vorfahren geerbt<br>[Vesta](#3), [JC Treeview](#2), [Faces](#1), [JC Imagebar](#2), [GVExport](#4), FAQ, [Multi Treeview](#7)|JustLight|2.2.6|[de,cz,...](https://proavitus.de/tree/proavitus/vesta-place-list)|[ungeahnt](mailto:webtrees@proavitus.de)|
@@ -61,7 +60,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us|[Patrick Craig](mailto:pacraig@gmail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
-| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
 | [Heinrich Family](https://www.heinrich.id.au/webtrees) |[Vesta](#3)|webtrees|2.1.27|au|[Keith Heinrich](mailto:keith@heinrich.id.au)|
 | [Jaubart, Rousset, Poulalion, Venet](https://genea.jaubart.com/wt) | Famille Jaubart-Rousset<br> [MyArtJaub modules author](https://github.com/jon48/webtrees-geneajaubart) | Rural | 2.1.27 | fr |[Jonathan Jaubart](mailto:genea@jaubart.com)<br>jon48|
 | [Østrem , Kinnebergbråten](http://oestrem.com/webtrees) |[JC Treeview](#2), [Vesta](#3)|JustLight|2.1.27|no|[Eyolf Østrem](mailto:eyolf@oestrem.com)|
@@ -81,6 +79,8 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) |  |JustLight|1.7.17|fr| |
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>unavailable</b>| | | | |
+| [Rhedey](https://rhedey.net/) | [Vesta](#3)|webtrees|2.2.6|hu|[Laszlo Rhedey](mailto:grhedey@gmail.com)|
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 
 ## Reference to the mentioned THIRD-PARTY MODULES
