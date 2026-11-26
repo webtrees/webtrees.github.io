@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-11-25
+date: 2026-11-26
 sitemap:
     priority: 0.80
 ---
@@ -33,6 +33,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Hemprich](https://www.familienforschung-hemprich.de/index.php/en/hemprich-pedigree) |Embedded in Joomla<br>[Vesta](#3)|Colors: Ash|2.2.6|[de](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Fvesta-place-list&place_id=0&sharedPlaces=1)|[Markus Hemprich](mailto:webmaster@familienforschung-hemprich.de)|
 | [Hermsdorf, Hermsdörfer, Walter, Schindler](https://hermsdoerfer.familyds.com/webtrees) |  |Colors: Belgian Chocolate|2.2.6|de|[Dietmar Hermsdörfer](mailto:dietmar.hermsdoerfer@gmail.com)|
 | [![ ](https://www.thespiegels.com/ourtree/public/logos/L_ourtree_lp.jpg "Jeske, Spiegel, Awe, Exter")](https://ourtree.thespiegels.com) <br> [Jeske, Spiegel, Awe, Exter](https://ourtree.thespiegels.com) |[Magics charts](#8)|F.A.B.|2.2.6|[de, us](https://ourtree.thespiegels.com/tree/1/place-list/0?action2=list)|[Bogie](mailto:ourtree@thespiegels.com)|
+| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.2.6|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
 | [Jones, Herrell](https://www.jonesipedia.com) | |Jonesipedia (Custom)|2.2.6|us|[Jones admin](mailto:admin@jonesipedia.com)|
 | [Knegt, Honig, Chacutu, Bang-a-Foe](https://wijzijnfamilie.nl) | Wij zijn familie <br> [JC-modules Author](#2) |JustLight|2.2.6|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|JustCarmen|
 | [Lato-Sobolewski Family Tree](https://www.familytree.latoga.com) | |webtrees|2.2.6|pl|[Greg Lato](mailto:greg@latoga.com)|
@@ -80,7 +81,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>unavailable</b>| | | | |
 | [Rhedey](https://rhedey.net/) | [Vesta](#3)|webtrees|2.2.6|hu|[Laszlo Rhedey](mailto:grhedey@gmail.com)|
-| [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 
 ## Reference to the mentioned THIRD-PARTY MODULES
