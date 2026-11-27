@@ -164,6 +164,12 @@ A chart of an individual’s ancestors and descendants, as a family book (enhanc
 
 ----------
 
+### Extend User Menu - by Joppla - `2.2` - [website](https://codeberg.org/Joppla/Webtrees-ExtendUserMenu)
+
+Adds custom dropdown menus to the user menu in the header. The administrator manages the menus and links in the control panel. Only http:// and https:// links are allowed, and a Dutch translation is included.
+
+----------
+
 ### Extended Import/Export - by Jefferson49 - `2.1` - `2.2` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
 Advanced GEDCOM import, export, and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
